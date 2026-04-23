@@ -48,7 +48,12 @@ MLS_NLP/
 │
 ├── scripts/
 │   ├── collect_trends.py          # Google Trends data collection (pytrends)
-│   └── topic_modeling.py          # LDA topic model training (Gensim)
+│   ├── collect_asa.py             # ASA xGoals + attendance API ingestion
+│   ├── collect_salaries.py        # MLSPA salary data collection
+│   ├── run_pipeline.py            # End-to-end pipeline orchestrator
+│   ├── predictive_regression.py   # OLS / fixed-effects regression models
+│   ├── topic_modeling.py          # LDA topic model training (Gensim)
+│   └── …                          # brand analysis, Reddit pipeline, etc.
 │
 ├── pipeline/                      # Data collection and enrichment pipeline
 │
