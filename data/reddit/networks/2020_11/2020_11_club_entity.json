@@ -1,0 +1,476 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Gabriel Heinze"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew McConaughey"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Erik Spanberg"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacob Greene"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodolfo Borrell"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frankie Amaya"
+    },
+    {
+      "entity_type": "player",
+      "id": "Laurel Pfahler"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Alonso"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff"
+    },
+    {
+      "entity_type": "player",
+      "id": "ESPN Deportes"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "YouTube Watch"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cruz Azul"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Augustine Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Full Time for Toronto"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luka Modri\u0107"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Rowe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Playoff Hopes"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Villa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Forwards Daryl Dike"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Mueller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jim Curtin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Meg Linehan] MLS"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ken Griffey Jr."
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Tenorio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pineda Rookie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Portland Pepi Goal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aaron Long"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Duncan"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Gerhard Struber"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Bernd Eibler"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Twellman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charles Renken"
+    },
+    {
+      "entity_type": "player",
+      "id": "Elvir Kafedzic"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Gabriel Heinze"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Playoff Hopes"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matthew McConaughey"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Erik Spanberg"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Jacob Greene"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Rodolfo Borrell"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Frankie Amaya"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Laurel Pfahler"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Diego Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "ESPN Deportes"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Full Time for Toronto"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin"
+    },
+    {
+      "weight": 1,
+      "source": "Steven Goff",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Steven Goff",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Steven Goff",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "Steven Goff",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "ESPN Deportes",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "ESPN Deportes",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "ESPN Deportes",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "ESPN Deportes",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Portland Pepi Goal"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "YouTube Watch"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Cruz Azul"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Augustine Williams"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Luka Modri\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "Full Time for Toronto",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Full Time for Toronto",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Aaron Long"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Kyle Duncan"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Gerhard Struber"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Bernd Eibler"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Brian Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Forwards Daryl Dike"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Chris Mueller"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "David Villa"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Sam Stejskal"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Meg Linehan] MLS"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ken Griffey Jr."
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Paul Tenorio"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Pineda Rookie"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tim Twellman"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Charles Renken"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Elvir Kafedzic"
+    }
+  ]
+}

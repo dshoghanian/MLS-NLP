@@ -1,0 +1,333 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Harkes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Durkin\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Rodriguez"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stephen M. White Middle School"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve \\[Birnbaum"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "COVID-19 Disaster Relief Program"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Joy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jade Moore"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Cronin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marc Burch"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Animal Crossing"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Petke"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Williams"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Yedlin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Veljko Paunovic"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Ching"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabrizio Moretti"
+    },
+    {
+      "entity_type": "player",
+      "id": "Albert Hammond Jr."
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kristian Jack] Victor Vazquez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan de Guzman"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vancouver Aquarium"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jersey Sale"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthony Blondell"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Teibert\nMontero\nDajome"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ian Harkes"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Durkin\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steve \\[Birnbaum"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "James Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Stephen M. White Middle School"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Fabrizio Moretti"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Albert Hammond Jr."
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "COVID-19 Disaster Relief Program"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ian Joy"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jade Moore"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Sam Cronin"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Marc Burch"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Teibert\nMontero\nDajome"
+    },
+    {
+      "weight": 1,
+      "source": "Sam Cronin",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Marc Burch",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Animal Crossing"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Mike Petke"
+    },
+    {
+      "weight": 2,
+      "source": "Real Salt Lake",
+      "target": "Andy Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "DeAndre Yedlin"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Teibert\nMontero\nDajome"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Veljko Paunovic"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Brian Ching"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Kristian Jack] Victor Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jonathan de Guzman"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Vancouver Aquarium"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jersey Sale"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Anthony Blondell"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Teibert\nMontero\nDajome"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Teibert\nMontero\nDajome"
+    },
+    {
+      "weight": 1,
+      "source": "Teibert\nMontero\nDajome",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Teibert\nMontero\nDajome",
+      "target": "CF Montr\u00e9al"
+    }
+  ]
+}

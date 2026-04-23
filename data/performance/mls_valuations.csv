@@ -1,0 +1,181 @@
+club,year,valuation_usd_m,revenue_usd_m
+Atlanta United FC,2018,500,49
+Atlanta United FC,2019,485,62
+Atlanta United FC,2020,450,46
+Atlanta United FC,2021,480,52
+Atlanta United FC,2022,535,71
+Atlanta United FC,2023,630,82
+Atlanta United FC,2024,720,94
+Austin FC,2021,200,28
+Austin FC,2022,310,46
+Austin FC,2023,390,58
+Austin FC,2024,445,68
+CF Montreal,2018,165,28
+CF Montreal,2019,185,31
+CF Montreal,2020,175,26
+CF Montreal,2021,210,35
+CF Montreal,2022,270,44
+CF Montreal,2023,340,54
+CF Montreal,2024,390,62
+Charlotte FC,2022,200,38
+Charlotte FC,2023,340,62
+Charlotte FC,2024,420,74
+Chicago Fire FC,2018,290,47
+Chicago Fire FC,2019,280,44
+Chicago Fire FC,2020,255,38
+Chicago Fire FC,2021,295,48
+Chicago Fire FC,2022,370,62
+Chicago Fire FC,2023,480,74
+Chicago Fire FC,2024,560,84
+Colorado Rapids,2018,210,34
+Colorado Rapids,2019,215,36
+Colorado Rapids,2020,200,30
+Colorado Rapids,2021,240,40
+Colorado Rapids,2022,310,52
+Colorado Rapids,2023,380,60
+Colorado Rapids,2024,435,68
+Columbus Crew,2018,235,38
+Columbus Crew,2019,245,40
+Columbus Crew,2020,250,42
+Columbus Crew,2021,310,52
+Columbus Crew,2022,380,60
+Columbus Crew,2023,460,72
+Columbus Crew,2024,540,82
+D.C. United,2018,310,52
+D.C. United,2019,320,54
+D.C. United,2020,285,42
+D.C. United,2021,310,50
+D.C. United,2022,375,60
+D.C. United,2023,450,70
+D.C. United,2024,515,78
+FC Dallas,2018,185,32
+FC Dallas,2019,195,34
+FC Dallas,2020,180,28
+FC Dallas,2021,215,36
+FC Dallas,2022,270,46
+FC Dallas,2023,330,54
+FC Dallas,2024,385,62
+Houston Dynamo FC,2018,195,34
+Houston Dynamo FC,2019,200,36
+Houston Dynamo FC,2020,185,30
+Houston Dynamo FC,2021,210,36
+Houston Dynamo FC,2022,265,46
+Houston Dynamo FC,2023,325,54
+Houston Dynamo FC,2024,375,62
+Inter Miami CF,2020,200,22
+Inter Miami CF,2021,215,30
+Inter Miami CF,2022,285,46
+Inter Miami CF,2023,970,120
+Inter Miami CF,2024,1200,165
+LA Galaxy,2018,480,82
+LA Galaxy,2019,500,86
+LA Galaxy,2020,440,64
+LA Galaxy,2021,480,76
+LA Galaxy,2022,585,92
+LA Galaxy,2023,900,118
+LA Galaxy,2024,1050,138
+LAFC,2018,300,50
+LAFC,2019,390,64
+LAFC,2020,355,50
+LAFC,2021,410,62
+LAFC,2022,780,102
+LAFC,2023,970,126
+LAFC,2024,1100,148
+Minnesota United FC,2018,185,30
+Minnesota United FC,2019,200,34
+Minnesota United FC,2020,190,28
+Minnesota United FC,2021,225,38
+Minnesota United FC,2022,285,48
+Minnesota United FC,2023,350,56
+Minnesota United FC,2024,405,64
+Nashville SC,2020,190,26
+Nashville SC,2021,260,42
+Nashville SC,2022,380,62
+Nashville SC,2023,460,74
+Nashville SC,2024,520,84
+New England Revolution,2018,260,46
+New England Revolution,2019,270,48
+New England Revolution,2020,250,40
+New England Revolution,2021,305,52
+New England Revolution,2022,380,62
+New England Revolution,2023,455,72
+New England Revolution,2024,510,80
+New York City FC,2018,350,64
+New York City FC,2019,375,68
+New York City FC,2020,345,54
+New York City FC,2021,415,72
+New York City FC,2022,600,92
+New York City FC,2023,730,108
+New York City FC,2024,840,122
+New York Red Bulls,2018,355,60
+New York Red Bulls,2019,370,64
+New York Red Bulls,2020,335,50
+New York Red Bulls,2021,380,64
+New York Red Bulls,2022,460,76
+New York Red Bulls,2023,555,88
+New York Red Bulls,2024,635,98
+Orlando City SC,2018,195,34
+Orlando City SC,2019,210,38
+Orlando City SC,2020,200,30
+Orlando City SC,2021,245,42
+Orlando City SC,2022,315,54
+Orlando City SC,2023,390,64
+Orlando City SC,2024,455,74
+Philadelphia Union,2018,200,36
+Philadelphia Union,2019,215,38
+Philadelphia Union,2020,210,34
+Philadelphia Union,2021,265,46
+Philadelphia Union,2022,420,68
+Philadelphia Union,2023,510,80
+Philadelphia Union,2024,575,88
+Portland Timbers,2018,310,56
+Portland Timbers,2019,330,58
+Portland Timbers,2020,305,48
+Portland Timbers,2021,355,60
+Portland Timbers,2022,440,72
+Portland Timbers,2023,520,82
+Portland Timbers,2024,580,90
+Real Salt Lake,2018,175,30
+Real Salt Lake,2019,180,32
+Real Salt Lake,2020,170,26
+Real Salt Lake,2021,200,34
+Real Salt Lake,2022,255,44
+Real Salt Lake,2023,315,52
+Real Salt Lake,2024,365,60
+San Jose Earthquakes,2018,195,34
+San Jose Earthquakes,2019,200,36
+San Jose Earthquakes,2020,185,28
+San Jose Earthquakes,2021,215,36
+San Jose Earthquakes,2022,270,46
+San Jose Earthquakes,2023,330,54
+San Jose Earthquakes,2024,380,62
+Seattle Sounders FC,2018,385,68
+Seattle Sounders FC,2019,420,74
+Seattle Sounders FC,2020,390,58
+Seattle Sounders FC,2021,455,76
+Seattle Sounders FC,2022,560,88
+Seattle Sounders FC,2023,780,108
+Seattle Sounders FC,2024,920,128
+Sporting Kansas City,2018,250,46
+Sporting Kansas City,2019,260,48
+Sporting Kansas City,2020,240,38
+Sporting Kansas City,2021,285,50
+Sporting Kansas City,2022,355,60
+Sporting Kansas City,2023,435,70
+Sporting Kansas City,2024,490,78
+St. Louis City SC,2023,185,38
+St. Louis City SC,2024,260,52
+Toronto FC,2018,420,76
+Toronto FC,2019,450,80
+Toronto FC,2020,415,62
+Toronto FC,2021,455,72
+Toronto FC,2022,535,86
+Toronto FC,2023,680,100
+Toronto FC,2024,780,112
+Vancouver Whitecaps FC,2018,175,30
+Vancouver Whitecaps FC,2019,185,32
+Vancouver Whitecaps FC,2020,175,26
+Vancouver Whitecaps FC,2021,205,34
+Vancouver Whitecaps FC,2022,260,44
+Vancouver Whitecaps FC,2023,320,52
+Vancouver Whitecaps FC,2024,370,60

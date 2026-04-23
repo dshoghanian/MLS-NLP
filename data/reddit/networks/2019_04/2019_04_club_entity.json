@@ -1,0 +1,313 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos ATL"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Stadium Update - Talk Austin FC Austin FC Stadium Update - Talk Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Teal Bunbury"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Furious Stan Kroenke"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Kit Concept"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nico Lodeiro Volley Goal"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Lodeiro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gianluca Busio"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Mellinger"
+    },
+    {
+      "entity_type": "player",
+      "id": "Guillermo Barros Schelotto"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oscar Boniek Garcia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ricardo Clark"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Ashe"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS WORKS Humanitarian"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Ferriera"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MNUFC\u2019s Instagram"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlie Brown"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Carroll"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYRB Fanpage"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Thierry Henry"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Down Bobby"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Vamos ATL"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Stadium Update - Talk Austin FC Austin FC Stadium Update - Talk Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Vamos LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Vamos LAFC",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Away Kit Concept"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Teal Bunbury"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Guillermo Barros Schelotto"
+    },
+    {
+      "weight": 1,
+      "source": "Teal Bunbury",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Charlie Brown"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Andy Carroll"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Furious Stan Kroenke"
+    },
+    {
+      "weight": 1,
+      "source": "Furious Stan Kroenke",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Nico Lodeiro Volley Goal"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Nicolas Lodeiro"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Gianluca Busio"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Sam Mellinger"
+    },
+    {
+      "weight": 1,
+      "source": "Gianluca Busio",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "NYRB Fanpage"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Thierry Henry"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Oscar Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Brad Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ricardo Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Corey Ashe"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "MLS WORKS Humanitarian"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesus Ferriera"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MNUFC\u2019s Instagram"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Down Bobby"
+    }
+  ]
+}

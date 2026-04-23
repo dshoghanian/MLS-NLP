@@ -1,0 +1,23 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Real Salt Lake",
+      "target": "Vancouver Whitecaps FC"
+    }
+  ]
+}

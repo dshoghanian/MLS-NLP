@@ -1,0 +1,405 @@
+brand,club,year,month,sentiment,event_type,published_date,article_id,subreddit,post_type,score
+Herbalife,LAFC,2018,1,0.0,,2018-01-31,3a24d1aa685a8380,LAFC,comment,33
+Audi,D.C. United,2018,2,0.0,,2018-02-07,31c583ae26417dea,DCUnited,submission,96
+Target,D.C. United,2018,2,0.0,,2018-02-02,2f8bb994b532c991,DCUnited,submission,53
+Adidas,New York City FC,2018,2,0.0,,2018-02-03,1f88bf34abc25617,NYCFC,submission,54
+Target,Minnesota United FC,2018,2,0.0,,2018-02-12,b1414be20203fa30,minnesotaunited,submission,86
+BMO,Toronto FC,2018,2,0.0,,2018-02-21,a5e3b5f990ea88b0,tfc,submission,66
+Adidas,Portland Timbers,2018,2,0.0,,2018-02-28,02788e835b3f8adc,timbers,submission,75
+Alaska Airlines,Portland Timbers,2018,2,0.0,,2018-02-06,782d96396b60dfb6,timbers,submission,72
+EA Sports,Columbus Crew,2018,3,0.0,,2018-03-01,0d5b3b1494e009de,TheMassive,submission,94
+EA Sports,Chicago Fire FC,2018,3,0.0,,2018-03-15,f72bcf08da0be944,chicagofire,comment,33
+Audi,Vancouver Whitecaps FC,2018,3,0.0,,2018-03-05,c9df0589a740838b,whitecapsfc,submission,31
+Audi,D.C. United,2018,5,0.6322,,2018-05-11,9be44c9dfc31ecd6,DCUnited,submission,69
+Audi,,2018,5,0.5859,,2018-05-30,99d1a13164149876,MLS,submission,790
+EA Sports,,2018,6,0.0,,2018-06-05,3675ebcec30faac2,FantasyMLS,submission,10
+EA Sports,,2018,6,0.9345,,2018-06-13,4c6016675f8ceddc,MLS,submission,1958
+BMO,Toronto FC,2018,6,0.0,,2018-06-13,7bbd24281a68ad4d,tfc,submission,81
+Audi,D.C. United,2018,7,0.5859,,2018-07-21,e71f43d3c3361a02,DCUnited,submission,77
+Audi,D.C. United,2018,7,0.8555,,2018-07-11,06b8986f548a9d32,DCUnited,submission,69
+EA Sports,Philadelphia Union,2018,7,0.8214,,2018-07-08,444df6152f56c48a,PhillyUnion,comment,72
+EA Sports,Minnesota United FC,2018,7,0.0,,2018-07-18,80345460a98ddb05,minnesotaunited,submission,190
+EA Sports,Orlando City SC,2018,8,0.0,financial,2018-08-26,1f153685ac9724c9,OCLions,submission,63
+BMO,Toronto FC,2018,8,-0.34,,2018-08-26,bb73409668da458b,tfc,submission,58
+EA Sports,,2018,9,0.0,financial,2018-09-06,7e7539706f52e7a8,MLS,submission,1242
+EA Sports,,2018,9,0.8481,,2018-09-17,570fd3429fa94b4f,MLS,submission,1100
+EA Sports,Portland Timbers,2018,9,0.0,,2018-09-22,1840d000a1c85d40,timbers,submission,174
+Nike,Vancouver Whitecaps FC,2018,9,0.0,,2018-09-06,807d6b40481fad2b,whitecapsfc,submission,46
+EA Sports,,2018,10,0.7405,,2018-10-26,66707f0049d9cb7b,MLS,submission,1295
+EA Sports,Orlando City SC,2018,10,0.8555,,2018-10-01,f9159d76e5d9db12,OCLions,submission,54
+Audi,Real Salt Lake,2018,10,-0.3818,performance,2018-10-28,3bfd7e7425deaa59,ReAlSaltLake,submission,64
+BMO,Toronto FC,2018,10,-0.4215,,2018-10-17,938396087b1a6ddf,tfc,submission,41
+EA Sports,,2018,10,0.8416,,2018-10-15,2d9f143ef6b42f5a,ussoccer,submission,674
+BMO,Vancouver Whitecaps FC,2018,10,0.0,,2018-10-09,692da6c5ff51fde9,whitecapsfc,submission,41
+Audi,LAFC,2018,11,0.9982,transfer_signing,2018-11-02,c836732af61c7ea2,LAFC,submission,85
+Adidas,Colorado Rapids,2018,11,0.9468,,2018-11-26,8ae8d3377c171435,Rapids,submission,29
+Allstate,Columbus Crew,2018,11,0.0,,2018-11-06,ea9649f050fc5841,TheMassive,submission,220
+Red Bull,New York Red Bulls,2018,11,0.8555,,2018-11-28,885032a4c471c8e1,rbny,submission,85
+Audi,D.C. United,2018,12,0.0,match_result,2018-12-01,0dca1c84bb263eb0,DCUnited,submission,54
+Audi,D.C. United,2019,1,-0.5267,,2019-01-30,771c42c6d1316965,DCUnited,submission,86
+EA Sports,,2019,1,-0.7906,transfer_signing,2019-01-02,5ceb97737514723e,MLS,submission,966
+Target,Orlando City SC,2019,1,0.997,transfer_signing,2019-01-14,a2242ae967058291,OCLions,submission,51
+EA Sports,Sporting Kansas City,2019,1,0.5719,,2019-01-29,fd056fdb40103256,SportingKC,submission,71
+EA Sports,,2019,1,0.765,,2019-01-02,e02bfceff29c5c9f,ussoccer,submission,317
+Audi,D.C. United,2019,2,0.8807,transfer_signing,2019-02-19,02f8552811a3b181,DCUnited,submission,68
+EA Sports,FC Cincinnati,2019,2,0.0,,2019-02-14,d918a5c967feed6b,FCCincinnati,submission,113
+EA Sports,LA Galaxy,2019,2,0.3818,,2019-02-22,f7403c6fcde5266e,LAGalaxy,submission,110
+Adidas,New York City FC,2019,2,-0.802,,2019-02-18,5d2d182f82eac09c,NYCFC,submission,58
+Red Bull,New York Red Bulls,2019,2,0.9673,,2019-02-17,e536b6f70272706c,rbny,submission,73
+Adidas,Austin FC,2019,3,0.0,,2019-03-29,334bb9c8d0653b3b,AustinFC,submission,41
+Red Bull,Orlando City SC,2019,3,0.9694,,2019-03-24,e4a6cd0175a1c8b6,OCLions,submission,117
+Target,Houston Dynamo FC,2019,3,0.0,,2019-03-10,bf28874bfb2c964f,dynamo,submission,71
+Red Bull,New York Red Bulls,2019,3,0.9843,financial,2019-03-06,b11c5be5720aa186,rbny,submission,65
+Adidas,Austin FC,2019,4,0.0,,2019-04-04,e4bc0615adda3868,AustinFC,submission,54
+Adidas,Seattle Sounders FC,2019,4,0.9705,,2019-04-21,c16cdcdb59bde1c5,SoundersFC,submission,195
+Etihad Airways,New York City FC,2019,5,0.9153,,2019-05-23,fe7f59a380e8f6c7,NYCFC,submission,93
+EA Sports,San Jose Earthquakes,2019,5,0.0,,2019-05-22,eda8fb02b53a3f6a,SJEarthquakes,submission,93
+Red Bull,New York Red Bulls,2019,5,0.7156,match_result,2019-05-27,045401ebc3d15bdc,rbny,submission,58
+Target,Portland Timbers,2019,5,0.8004,controversy,2019-05-24,e1270883222d8135,timbers,submission,220
+Audi,D.C. United,2019,6,0.0,,2019-06-06,902739b2a86ceb7c,DCUnited,submission,96
+Herbalife,LA Galaxy,2019,6,0.1027,,2019-06-22,82da2e45459d2a74,LAGalaxy,comment,63
+Target,FC Dallas,2019,6,0.0,,2019-06-24,6e923ad92d791c73,fcdallas,submission,47
+BMO,Toronto FC,2019,6,0.0,,2019-06-01,67e75239b54b66c8,tfc,submission,90
+Audi,D.C. United,2019,7,0.5859,,2019-07-24,16700d85c11e5dc2,DCUnited,submission,57
+Adidas,LAFC,2019,7,-0.5859,,2019-07-22,2d5670ab19aeb9cc,LAFC,submission,148
+Allstate,Orlando City SC,2019,7,0.9626,,2019-07-31,691934e9e88114be,OCLions,submission,124
+Leidos,D.C. United,2019,8,0.8481,financial,2019-08-17,73df3811da7b5e63,DCUnited,submission,99
+Heineken,Inter Miami CF,2019,8,0.0,,2019-08-05,c0d55028b15a2d01,InterMiami,submission,43
+Red Bull,New York City FC,2019,8,0.0,,2019-08-25,c4127143a35c44b0,NYCFC,submission,240
+Red Bull,New York City FC,2019,8,0.0,,2019-08-22,1848980092ea856a,NYCFC,submission,93
+EA Sports,New York City FC,2019,8,0.0,,2019-08-22,1848980092ea856a,NYCFC,submission,93
+EA Sports,Austin FC,2019,9,0.0,,2019-09-19,67d35f290e4196de,AustinFC,submission,79
+EA Sports,FC Cincinnati,2019,9,0.0,,2019-09-19,c1c9c71ed2b2b143,FCCincinnati,submission,164
+EA Sports,LAFC,2019,9,0.0,,2019-09-27,2861107f258dc502,LAFC,submission,172
+EA Sports,Nashville SC,2019,9,0.0,,2019-09-20,3dd0deabe1cb5447,NashvilleSC,submission,46
+Audi,,2019,10,0.0,performance,2019-10-30,40cb202eb55923ea,MLS,submission,2440
+EA Sports,Sporting Kansas City,2019,10,0.5267,,2019-10-01,69ee2df50982bf4c,SportingKC,submission,61
+Audi,,2019,11,0.0,performance,2019-11-04,6db0d029dec093a3,MLS,submission,980
+EA Sports,Colorado Rapids,2019,11,0.296,,2019-11-09,014b45a915dfcd7f,Rapids,submission,51
+Red Bull,New York Red Bulls,2019,11,0.0,,2019-11-18,d67df948fdf5af8b,rbny,submission,49
+Target,D.C. United,2019,12,0.6808,transfer_signing,2019-12-20,a41cacd281903ea4,DCUnited,submission,48
+Target,New York City FC,2019,12,0.6249,,2019-12-29,6dde83abb40ad075,NYCFC,comment,48
+EA Sports,FC Dallas,2019,12,0.0,,2019-12-07,f088bf7b9b5dd032,fcdallas,submission,56
+Target,Toronto FC,2019,12,0.9982,transfer_signing,2019-12-16,161f17e9df1a0103,tfc,submission,75
+Target,D.C. United,2020,1,0.9432,transfer_signing,2020-01-06,16c9a88740c465f4,DCUnited,submission,69
+BMO,Toronto FC,2020,1,0.7997,,2020-01-03,174e8c4b59ca243d,tfc,submission,83
+Yeti,Austin FC,2020,2,0.0,,2020-02-10,ca87378aaa7b56a0,AustinFC,submission,104
+Herbalife,Austin FC,2020,2,0.7672,,2020-02-10,e0ef16439e338dad,AustinFC,comment,39
+EA Sports,D.C. United,2020,2,0.6597,,2020-02-12,4cadf0cfd013c6ff,DCUnited,submission,96
+Target,LAFC,2020,2,0.8796,,2020-02-21,b2a48c9c4b836f12,LAFC,submission,115
+Audi,,2020,2,0.6808,,2020-02-29,7c67866e783fb044,MLS,submission,995
+Target,,2020,2,0.6808,,2020-02-29,7c67866e783fb044,MLS,submission,995
+Subaru,Philadelphia Union,2020,2,0.0,financial,2020-02-18,7420aa0b0af063e5,PhillyUnion,comment,108
+Audi,Colorado Rapids,2020,2,0.8823,match_result,2020-02-29,6e40bc0d9a966cf5,Rapids,submission,31
+Red Bull,New York Red Bulls,2020,2,0.0,,2020-02-29,7d0a15920821d4ca,rbny,submission,64
+Nike,,2020,2,0.0,,2020-02-06,d6a2ad5088849917,ussoccer,submission,372
+EA Sports,LA Galaxy,2020,3,0.7906,performance,2020-03-15,0952107b102e5f16,LAGalaxy,submission,78
+EA Sports,Seattle Sounders FC,2020,3,0.9001,match_result,2020-03-20,429e5e8f9f8a4a1a,SoundersFC,submission,215
+Puma,Sporting Kansas City,2020,3,0.0,,2020-03-08,7d2ec5e972b76b4e,SportingKC,submission,147
+EA Sports,New England Revolution,2020,3,0.9411,,2020-03-15,d8d4f5509bf9b69a,newenglandrevolution,submission,42
+BMO,Toronto FC,2020,3,0.8316,,2020-03-08,6cdd1204d3f37893,tfc,submission,118
+EA Sports,,2020,3,0.0,,2020-03-20,b79c1a309cc8cecf,ussoccer,submission,501
+EA Sports,Atlanta United FC,2020,4,0.0,,2020-04-04,70e7aca36f9eb41c,AtlantaUnited,submission,466
+Audi,D.C. United,2020,4,0.6735,financial,2020-04-10,a507ade7685201d5,DCUnited,comment,77
+Audi,D.C. United,2020,4,0.7506,controversy,2020-04-10,7c0e2aab9ac2ef4f,DCUnited,submission,66
+Audi,D.C. United,2020,4,0.0,,2020-04-14,4bd66bb3a1aac33f,DCUnited,submission,37
+Audi,,2020,4,0.1531,,2020-04-27,e0c420e5aaca3a8f,MLS,submission,784
+Subaru,Philadelphia Union,2020,4,0.0,,2020-04-12,02f017b681bf2483,PhillyUnion,submission,100
+Red Bull,New York Red Bulls,2020,4,0.9376,,2020-04-04,936a05176a2c28fe,rbny,submission,51
+EA Sports,,2020,4,0.8126,rumor,2020-04-06,2da187963a5bdd35,ussoccer,submission,323
+EA Sports,,2020,4,0.0,rumor,2020-04-05,4d94f00255dedf44,ussoccer,submission,235
+Adidas,Vancouver Whitecaps FC,2020,4,0.5696,,2020-04-17,9da789be285d4965,whitecapsfc,submission,25
+EA Sports,Vancouver Whitecaps FC,2020,4,0.9916,match_result,2020-04-11,f14aa23983c042f8,whitecapsfc,submission,14
+Red Bull,New York Red Bulls,2020,5,0.9274,match_result,2020-05-30,fa676b6aefef0646,rbny,submission,59
+Red Bull,New York Red Bulls,2020,5,0.8591,transfer_signing,2020-05-30,880cb74b783267eb,rbny,comment,21
+BMO,Toronto FC,2020,5,0.0,,2020-05-06,b90f14f175c81204,tfc,submission,52
+EA Sports,,2020,5,0.0,,2020-05-07,693c5d6ff8b680aa,ussoccer,submission,423
+Audi,D.C. United,2020,6,0.8997,,2020-06-25,8380c9f525c77730,DCUnited,submission,64
+Red Bull,,2020,6,0.0516,,2020-06-07,8dc5a97f21773339,MLS,submission,1199
+Red Bull,New York City FC,2020,6,0.8225,,2020-06-20,0cf75d2dba31ac68,NYCFC,submission,45
+EA Sports,New England Revolution,2020,6,0.8555,,2020-06-02,11607848ba4b0b15,newenglandrevolution,submission,45
+BMO,Toronto FC,2020,6,-0.6124,,2020-06-01,fca252a71d1cb3a2,tfc,submission,111
+EA Sports,Portland Timbers,2020,6,0.4391,,2020-06-19,a2531fdfa38cd409,timbers,submission,117
+Gatorade,,2020,6,0.0,,2020-06-01,658462b202a9395b,ussoccer,submission,471
+EA Sports,,2020,7,0.8555,,2020-07-20,e9cac6c2e730ebcd,ussoccer,submission,430
+Target,Vancouver Whitecaps FC,2020,7,0.8971,,2020-07-27,c0853e4759dfacf5,whitecapsfc,submission,55
+Target,Atlanta United FC,2020,8,0.7906,match_result,2020-08-23,62bb8d49c9ef1ed5,AtlantaUnited,submission,569
+Audi,D.C. United,2020,8,0.9851,ownership,2020-08-23,297ae6f87d42ed96,DCUnited,comment,61
+Target,Chicago Fire FC,2020,8,-0.5859,,2020-08-02,b05eca1c6864c749,chicagofire,submission,139
+Red Bull,Toronto FC,2020,8,0.802,,2020-08-09,ed8a71ee7d3321a1,tfc,submission,48
+Adidas,Portland Timbers,2020,8,0.0,,2020-08-13,5d693a9f449bea11,timbers,submission,277
+EA Sports,,2020,9,0.0,financial,2020-09-18,82b54c51b732cbe6,MLS,submission,739
+EA Sports,New England Revolution,2020,9,0.0,financial,2020-09-29,be73c3ed4a6712a3,newenglandrevolution,submission,64
+Red Bull,New York Red Bulls,2020,9,0.9451,,2020-09-24,1008c068b4656b08,rbny,submission,68
+Red Bull,New York Red Bulls,2020,9,0.7506,,2020-09-29,c419ff94570d8c90,rbny,submission,44
+Target,,2020,9,0.8126,,2020-09-20,d46479d3aaad4ab0,ussoccer,submission,583
+Red Bull,,2020,10,0.8957,transfer_signing,2020-10-16,535866f3089cb61a,MLS,submission,836
+EA Sports,Chicago Fire FC,2020,10,-0.4168,,2020-10-10,8ab4bb8f5278cc32,chicagofire,submission,51
+EA Sports,Minnesota United FC,2020,10,-0.296,,2020-10-01,7144de4eff0d3ccb,minnesotaunited,submission,161
+EA Sports,St. Louis City SC,2020,10,0.1531,transfer_signing,2020-10-23,a291e20e22e05940,stlouiscitysc,submission,32
+EA Sports,Portland Timbers,2020,10,0.8316,,2020-10-09,f2724071b706cddd,timbers,submission,255
+Red Bull,,2020,10,0.0,,2020-10-16,229d14cca585db83,ussoccer,submission,449
+Yeti,Austin FC,2020,11,0.9467,,2020-11-19,369068c2e11b86c3,AustinFC,submission,103
+Bank of America,Charlotte FC,2020,11,0.9776,financial,2020-11-01,0215c71880774c23,CharlotteFootballClub,submission,25
+Allstate,Philadelphia Union,2020,11,0.0,,2020-11-16,0d438d37fe3a35b3,PhillyUnion,submission,220
+EA Sports,FC Dallas,2020,11,0.0,,2020-11-21,303aff5793bc754b,fcdallas,submission,46
+Audi,D.C. United,2020,12,0.9961,performance,2020-12-31,82dc0d86f05773f7,DCUnited,submission,57
+Target,Vancouver Whitecaps FC,2020,12,0.0,rumor,2020-12-26,204a0f546dbab6c5,whitecapsfc,submission,19
+Target,Charlotte FC,2021,1,0.0,,2021-01-24,6fa77ab3eff7ac3d,CharlotteFootballClub,submission,34
+EA Sports,Orlando City SC,2021,1,0.9393,,2021-01-12,17498f9eeab1aca9,OCLions,submission,69
+Herbalife,LA Galaxy,2021,2,0.6966,,2021-02-09,590632cbfe293d26,LAGalaxy,submission,162
+Adidas,Colorado Rapids,2021,2,0.0,,2021-02-15,2121981df394e478,Rapids,submission,15
+PayPal,San Jose Earthquakes,2021,2,0.0,transfer_signing,2021-02-19,4b243ce721477327,SJEarthquakes,submission,74
+Red Bull,New York Red Bulls,2021,2,0.6344,,2021-02-16,70aaa3040a705bd7,rbny,submission,32
+Red Bull,New York Red Bulls,2021,3,0.0,,2021-03-25,993453c4fbfb8723,rbny,submission,32
+Bank of America,Charlotte FC,2021,4,0.0,financial,2021-04-30,1c9f07601e52931d,CharlotteFootballClub,submission,19
+Audi,D.C. United,2021,4,0.6792,,2021-04-17,50ebf00c88859816,DCUnited,submission,114
+Audi,D.C. United,2021,4,0.9977,performance,2021-04-08,b37860778b6584ce,DCUnited,comment,83
+Red Bull,Philadelphia Union,2021,4,0.7506,transfer_signing,2021-04-28,22aa494f224b964b,PhillyUnion,submission,157
+PayPal,San Jose Earthquakes,2021,4,0.6124,financial,2021-04-05,4b1a23b0246ca630,SJEarthquakes,submission,94
+EA Sports,San Jose Earthquakes,2021,4,0.0,,2021-04-06,690a65b820224513,SJEarthquakes,submission,77
+EA Sports,Chicago Fire FC,2021,4,0.9982,match_result,2021-04-16,2c1fde7d3aa6ed0a,chicagofire,comment,44
+Red Bull,New England Revolution,2021,4,0.6597,,2021-04-15,7ada6d220b26c084,newenglandrevolution,submission,41
+Bank of America,Charlotte FC,2021,5,0.9062,match_result,2021-05-26,7781e61f12dc272d,CharlotteFootballClub,comment,19
+Adidas,D.C. United,2021,5,-0.2654,,2021-05-20,1e661db1640eac9e,DCUnited,comment,72
+Target,Minnesota United FC,2021,5,0.9776,transfer_signing,2021-05-22,efeeb54fc076725c,minnesotaunited,submission,254
+Red Bull,New York Red Bulls,2021,5,0.0,,2021-05-29,a7d2567e5319162f,rbny,submission,39
+EA Sports,FC Cincinnati,2021,6,0.8979,,2021-06-20,17ff8be1cf716125,FCCincinnati,submission,133
+EA Sports,LAFC,2021,6,0.9668,performance,2021-06-08,d9119a1133816740,LAFC,submission,74
+EA Sports,,2021,6,0.25,,2021-06-18,6cfc65d0b7e759b4,MLS,submission,989
+Subaru,Philadelphia Union,2021,6,0.0,,2021-06-03,9af9f70d27be8faf,PhillyUnion,submission,86
+Audi,Real Salt Lake,2021,6,0.9169,,2021-06-22,0a56362ed0e84ac5,ReAlSaltLake,submission,31
+EA Sports,,2021,6,0.25,,2021-06-18,11094b97591cf0e3,ussoccer,submission,799
+Red Bull,New York City FC,2021,7,0.34,,2021-07-26,4df2918b3c523ee5,NYCFC,comment,61
+Red Bull,Philadelphia Union,2021,7,0.0,,2021-07-09,0fea4a6e38ac8bcd,PhillyUnion,submission,119
+BMO,Toronto FC,2021,7,0.0,,2021-07-04,2f1b80d84e23d8aa,tfc,submission,99
+EA Sports,,2021,8,0.0,,2021-08-02,cb365b51aa0f8ef8,MLS,submission,1528
+Target,Orlando City SC,2021,8,-0.9877,injury,2021-08-28,625a7eafb899cd3b,OCLions,comment,70
+EA Sports,,2021,8,0.0,,2021-08-02,12e12fa550056db0,ussoccer,submission,1003
+EA Sports,,2021,8,0.0,,2021-08-03,902cc430cf0a2142,ussoccer,submission,890
+EA Sports,,2021,8,0.0,,2021-08-12,6b2272e465e4362e,ussoccer,submission,664
+EA Sports,Nashville SC,2021,9,0.6124,rumor,2021-09-07,6c034010b49a648a,NashvilleSC,submission,57
+Subaru,Philadelphia Union,2021,9,0.9858,performance,2021-09-16,e0798d06fcf8361d,PhillyUnion,submission,148
+Target,Chicago Fire FC,2021,9,0.9468,,2021-09-30,71a853c878b1093e,chicagofire,submission,37
+BMO,Toronto FC,2021,9,0.991,,2021-09-30,2a6ac646d7c71659,tfc,submission,116
+EA Sports,Vancouver Whitecaps FC,2021,9,0.0,,2021-09-21,5590deb107fd26b7,whitecapsfc,submission,31
+Target,Atlanta United FC,2021,10,0.886,,2021-10-28,a839f8c0eaf6c14a,AtlantaUnited,submission,424
+Audi,D.C. United,2021,10,0.8855,,2021-10-28,9305ed06cef99ddf,DCUnited,submission,59
+Subaru,Philadelphia Union,2021,10,0.8402,,2021-10-25,bdb9ffb2d054e637,PhillyUnion,submission,80
+EA Sports,Seattle Sounders FC,2021,10,0.0,rumor,2021-10-14,e3a7b626cdab096b,SoundersFC,submission,169
+Heineken,Chicago Fire FC,2021,10,0.4724,,2021-10-13,7fda13cdd66ed4e5,chicagofire,submission,39
+Red Bull,New York Red Bulls,2021,10,0.0,,2021-10-01,9757ebecc5131f46,rbny,submission,32
+Target,Vancouver Whitecaps FC,2021,10,-0.6331,match_result,2021-10-21,2c048a0430d8207a,whitecapsfc,submission,37
+EA Sports,Vancouver Whitecaps FC,2021,10,0.0,,2021-10-08,e6e7834ae8e88ecd,whitecapsfc,submission,34
+Target,Vancouver Whitecaps FC,2021,10,0.0,match_result,2021-10-03,eb6864b203fae4e6,whitecapsfc,submission,30
+EA Sports,Minnesota United FC,2021,11,0.0,performance,2021-11-17,2c0a8566847b1da6,minnesotaunited,submission,116
+Allstate,New England Revolution,2021,11,0.0,,2021-11-22,0317461a3124b5c9,newenglandrevolution,submission,96
+Adidas,Charlotte FC,2021,12,0.1027,,2021-12-28,787f9c912a6c768b,CharlotteFootballClub,submission,42
+Audi,D.C. United,2021,12,0.6808,,2021-12-29,f8bc7523bfa0c8c8,DCUnited,submission,48
+Herbalife,LA Galaxy,2021,12,0.1531,,2021-12-02,5d4b95e973918f9f,LAGalaxy,submission,58
+Adidas,,2021,12,0.8957,,2021-12-20,d96f6ae7879e0119,MLS,submission,1095
+Red Bull,New York City FC,2021,12,0.8208,performance,2021-12-11,03a814dde3228b0e,NYCFC,submission,391
+Subaru,Philadelphia Union,2021,12,0.3259,,2021-12-05,3c7d9366479afd53,PhillyUnion,submission,143
+Target,Chicago Fire FC,2021,12,0.8119,rumor,2021-12-28,3e47f7396dbb6282,chicagofire,submission,46
+Red Bull,New York Red Bulls,2021,12,0.7135,,2021-12-12,5d8040c002dda8be,rbny,submission,57
+EA Sports,,2021,12,0.0,,2021-12-23,f32284081958d10f,ussoccer,submission,346
+Adidas,Colorado Rapids,2022,1,-0.296,,2022-01-11,3155d0529c652b2a,Rapids,submission,105
+Target,Chicago Fire FC,2022,1,0.9926,match_result,2022-01-23,b758c4cd278ea5cc,chicagofire,submission,66
+MasterCard,Philadelphia Union,2022,2,0.0,,2022-02-10,1aab3bb8759f8e14,PhillyUnion,comment,81
+Adidas,Real Salt Lake,2022,2,0.9981,transfer_signing,2022-02-02,9f76c41d985f1259,ReAlSaltLake,submission,55
+EA Sports,,2022,3,0.0,,2022-03-31,8eacbc9be098824f,MLS,submission,1199
+EA Sports,,2022,3,0.0,,2022-03-27,43adc24b4484bcc3,MLS,submission,1115
+Geodis,Nashville SC,2022,3,0.0,,2022-03-16,b69da774cc61c20c,NashvilleSC,submission,97
+Geodis,Nashville SC,2022,3,0.0,financial,2022-03-10,91c51e0487649e62,NashvilleSC,submission,80
+Subaru,Philadelphia Union,2022,3,0.8126,match_result,2022-03-14,a010a32bb633c969,PhillyUnion,submission,124
+Subaru,Philadelphia Union,2022,3,0.8555,financial,2022-03-11,7109f0a900d6d38f,PhillyUnion,submission,119
+EA Sports,Seattle Sounders FC,2022,3,0.0,controversy,2022-03-16,01135e359620bc50,SoundersFC,submission,187
+Red Bull,New York Red Bulls,2022,3,0.5859,financial,2022-03-13,fe3bd5f19988f4fe,rbny,submission,48
+Audi,,2022,4,0.1027,match_result,2022-04-17,81352d5f41d94cb0,MLS,submission,731
+Geodis,Nashville SC,2022,4,0.0,,2022-04-15,45e6945482bb0832,NashvilleSC,submission,118
+Geodis,Nashville SC,2022,4,0.0,,2022-04-13,bbdfdc0bc8d7a0b9,NashvilleSC,submission,74
+Adidas,Portland Timbers,2022,4,0.9538,,2022-04-17,67ee2d9b25c7ac9c,timbers,submission,131
+Target,Vancouver Whitecaps FC,2022,4,0.0,match_result,2022-04-03,7966c66e7e9c2dcb,whitecapsfc,submission,27
+Audi,D.C. United,2022,5,0.965,,2022-05-04,dbc109bff3b2f8d3,DCUnited,submission,77
+Geodis,Nashville SC,2022,5,0.0,,2022-05-01,36d7cc1e9ab92d84,NashvilleSC,submission,152
+Red Bull,New York Red Bulls,2022,5,0.0,,2022-05-19,690e0041cbcded83,rbny,submission,38
+EA Sports,,2022,5,0.25,,2022-05-31,268ee034cfdeaa6d,ussoccer,submission,703
+Apple,Atlanta United FC,2022,6,0.0,,2022-06-14,0baf8a9d516ce2ff,AtlantaUnited,submission,203
+Audi,D.C. United,2022,6,0.9242,,2022-06-08,509e14efd99f86a1,DCUnited,submission,75
+Apple,Inter Miami CF,2022,6,0.0,,2022-06-14,b4f96c6038f4094d,InterMiami,submission,30
+Apple,,2022,6,0.0,transfer_signing,2022-06-14,03f03bb1554520dd,MLS,submission,2875
+EA Sports,,2022,6,0.4215,,2022-06-16,0c89ecf83fadaf4a,MLS,submission,795
+Geodis,Nashville SC,2022,6,0.0,,2022-06-15,98e3348dfd5cb104,NashvilleSC,submission,61
+Apple,Colorado Rapids,2022,6,-0.5267,transfer_signing,2022-06-14,59f64e352e93f5e6,Rapids,submission,62
+EA Sports,Colorado Rapids,2022,6,-0.6351,,2022-06-03,3c16f79f6d272a59,Rapids,submission,53
+EA Sports,Colorado Rapids,2022,6,-0.5312,,2022-06-16,0a0b0deb7a2f2850,Rapids,submission,36
+EA Sports,Seattle Sounders FC,2022,6,0.0,,2022-06-05,7360ca10f60792f0,SoundersFC,submission,177
+EA Sports,Sporting Kansas City,2022,6,0.0,,2022-06-16,d4a1e0edf9ace4b9,SportingKC,submission,199
+EA Sports,Sporting Kansas City,2022,6,0.9272,,2022-06-08,1b4adf483b128b92,SportingKC,submission,85
+Apple,Columbus Crew,2022,6,0.0,transfer_signing,2022-06-14,6599d9576037df45,TheMassive,submission,157
+EA Sports,Houston Dynamo FC,2022,6,0.1531,,2022-06-15,451158894f4e9214,dynamo,submission,57
+Red Bull,New York Red Bulls,2022,6,0.0,financial,2022-06-23,efae368c481c7205,rbny,submission,47
+Apple,St. Louis City SC,2022,6,0.0,transfer_signing,2022-06-14,43c862aeea7fd4f7,stlouiscitysc,submission,28
+EA Sports,Portland Timbers,2022,6,0.0,,2022-06-05,7534486c1d8443c1,timbers,submission,109
+EA Sports,,2022,6,0.0,,2022-06-16,a5fbe02862060836,ussoccer,submission,681
+EA Sports,,2022,6,0.6249,,2022-06-23,9afd76b82364bc59,ussoccer,comment,509
+Audi,D.C. United,2022,7,0.9972,transfer_signing,2022-07-09,b7ed0dd5ef1d2b97,DCUnited,comment,124
+EA Sports,LAFC,2022,7,0.0,financial,2022-07-20,c4acd5869c8b075d,LAFC,submission,233
+EA Sports,,2022,7,0.6124,financial,2022-07-20,3d5eccd4745323a0,MLS,submission,687
+Nike,,2022,7,-0.5574,,2022-07-05,e717257ab9549adc,ussoccer,submission,429
+EA Sports,Charlotte FC,2022,8,0.0,,2022-08-14,780568a1204009d6,CharlotteFootballClub,submission,78
+Nike,,2022,8,-0.5574,,2022-08-15,b7ced5cd51af4567,MLS,submission,661
+Geodis,Nashville SC,2022,8,0.0,,2022-08-08,827e6c9e4e1b4157,NashvilleSC,submission,63
+Geodis,Nashville SC,2022,8,0.2225,,2022-08-07,6c51a63a861bc42f,NashvilleSC,comment,52
+Red Bull,New York Red Bulls,2022,8,0.3089,,2022-08-03,9de72b7e812acdc5,rbny,comment,34
+BMO,Toronto FC,2022,8,0.6808,,2022-08-23,309bda5e7bfe9bea,tfc,submission,104
+EA Sports,Toronto FC,2022,8,0.8225,,2022-08-16,5b88f2da8845d56e,tfc,submission,99
+Red Bull,New York City FC,2022,9,-0.7906,,2022-09-16,e7f8255cdff3f80e,NYCFC,submission,55
+Audi,Sporting Kansas City,2022,9,0.807,performance,2022-09-28,a40dbc0e4cc2cb72,SportingKC,submission,71
+EA Sports,Charlotte FC,2022,10,0.0,,2022-10-07,44ce04da635bbba0,CharlotteFootballClub,submission,77
+Audi,Inter Miami CF,2022,10,-0.8679,performance,2022-10-06,ce7884ca071e69be,InterMiami,submission,70
+Audi,,2022,10,0.0,performance,2022-10-31,438b3d966ff7c95f,MLS,submission,760
+Target,Orlando City SC,2022,10,-0.9577,match_result,2022-10-27,b6876aaa32241676,OCLions,comment,62
+Apple,Colorado Rapids,2022,10,0.0,transfer_signing,2022-10-09,f844ad8f68b3b0b7,Rapids,comment,24
+PayPal,San Jose Earthquakes,2022,10,0.7677,performance,2022-10-21,4df74c192ae69ada,SJEarthquakes,submission,55
+PayPal,San Jose Earthquakes,2022,10,0.7003,,2022-10-23,85cc3b7476a154a9,SJEarthquakes,submission,46
+Red Bull,New York Red Bulls,2022,10,0.9571,match_result,2022-10-25,477373b17fe2de24,rbny,submission,40
+EA Sports,,2022,10,0.1779,,2022-10-20,cedce3e6ef5cec76,ussoccer,comment,476
+EA Sports,,2022,11,-0.1531,,2022-11-30,dcd06939d9875f64,MLS,submission,1628
+EA Sports,,2022,11,-0.25,,2022-11-20,bd686e8af9690968,MLS,submission,1371
+Apple,Colorado Rapids,2022,11,0.1341,transfer_signing,2022-11-21,7f7651a3964a9a25,Rapids,submission,37
+Red Bull,New York Red Bulls,2022,11,0.4899,transfer_signing,2022-11-16,fbe6208ad40fd132,rbny,comment,43
+Audi,D.C. United,2022,12,0.6249,,2022-12-05,31a4be191a00d566,DCUnited,submission,62
+Geodis,Nashville SC,2022,12,0.4939,,2022-12-09,43e217f0a5d17f4f,NashvilleSC,submission,64
+Zulily,Seattle Sounders FC,2022,12,0.6808,,2022-12-21,2675cf325183bb8f,SoundersFC,submission,184
+Red Bull,New York Red Bulls,2022,12,0.9624,financial,2022-12-31,4ec830fe33c19531,rbny,comment,49
+BMO,LAFC,2023,1,-0.8625,,2023-01-24,1cbc9a243080bc55,LAFC,submission,125
+Apple,Colorado Rapids,2023,1,0.0,transfer_signing,2023-01-10,9f27c8dbf3a7cfd0,Rapids,submission,54
+Apple,Real Salt Lake,2023,1,0.0,,2023-01-30,4b48624c85ebac8c,ReAlSaltLake,submission,46
+Apple,FC Dallas,2023,1,0.0,,2023-01-30,e33f6c6c6a8cc639,fcdallas,submission,34
+Apple,Minnesota United FC,2023,1,0.0,,2023-01-30,d7ddee7cedbbe77f,minnesotaunited,submission,121
+Apple,New York Red Bulls,2023,1,0.0,,2023-01-10,35f9ed4ed7b7bd79,rbny,submission,65
+Apple,Inter Miami CF,2023,2,0.8408,match_result,2023-02-26,10fcc8fb7e59b33a,InterMiami,submission,45
+EA Sports,,2023,2,0.0,,2023-02-14,5adb7f8620c7fb94,MLS,submission,893
+Apple,,2023,2,0.0,,2023-02-26,ebfccdb4c71680f8,MLS,submission,779
+Apple,Colorado Rapids,2023,2,0.8653,,2023-02-03,8d6184be05e37707,Rapids,submission,59
+Apple,New England Revolution,2023,2,-0.6992,,2023-02-01,d501202d4a21fbb9,newenglandrevolution,submission,55
+Target,St. Louis City SC,2023,2,-0.9798,injury,2023-02-26,85ff94c3f9bf137b,stlouiscitysc,submission,121
+Apple,Toronto FC,2023,2,0.9556,,2023-02-26,aafcd1de6c84708b,tfc,submission,278
+Adidas,Portland Timbers,2023,2,0.7003,,2023-02-16,ca943120ea41cc64,timbers,submission,128
+Target,D.C. United,2023,3,0.9684,match_result,2023-03-17,218f4d8e0705c875,DCUnited,submission,81
+BMO,LAFC,2023,3,0.9559,financial,2023-03-23,80408ff324af06a8,LAFC,submission,188
+EA Sports,LAFC,2023,3,0.0,,2023-03-15,9698e28a68c332ed,LAFC,submission,139
+Apple,,2023,3,0.0,,2023-03-13,654fcb92b3cd1a98,MLS,submission,1581
+Geodis,Nashville SC,2023,3,-0.5267,,2023-03-10,aea2d7c11ef90cda,NashvilleSC,submission,50
+Apple,Philadelphia Union,2023,3,0.4939,,2023-03-04,723bc9065ea1f55c,PhillyUnion,submission,155
+Target,San Jose Earthquakes,2023,3,0.712,performance,2023-03-27,0239dcad79b383be,SJEarthquakes,submission,49
+EA Sports,Seattle Sounders FC,2023,3,0.0,,2023-03-29,e22774d9220c19b9,SoundersFC,submission,282
+Target,Houston Dynamo FC,2023,3,0.9826,performance,2023-03-27,4648af525b8f9686,dynamo,submission,62
+Apple,FC Dallas,2023,3,0.9349,,2023-03-23,fb6c78613ebfe676,fcdallas,submission,42
+Adidas,Austin FC,2023,4,0.9178,match_result,2023-04-09,3e45dc55f3bf8c48,AustinFC,submission,133
+Adidas,Austin FC,2023,4,0.7003,,2023-04-03,45011fe6cfe49347,AustinFC,submission,115
+EA Sports,LAFC,2023,4,0.0,,2023-04-12,1f591ea635beac79,LAFC,submission,149
+PayPal,San Jose Earthquakes,2023,4,0.9686,,2023-04-16,a08a4801cb311d57,SJEarthquakes,submission,67
+Apple,Minnesota United FC,2023,4,0.8553,,2023-04-16,28a1911c16b4eac8,minnesotaunited,submission,99
+Red Bull,New York Red Bulls,2023,4,-0.5423,transfer_signing,2023-04-24,1895bb8358f8877d,rbny,submission,56
+BMO,Toronto FC,2023,4,0.0,performance,2023-04-10,4c9b94e6f838093b,tfc,submission,108
+BMO,LAFC,2023,5,0.5994,financial,2023-05-03,cd3f24ba94840b16,LAFC,submission,159
+EA Sports,,2023,5,0.6808,transfer_signing,2023-05-16,ed79b8452a95d481,MLS,submission,1200
+Etihad Airways,New York City FC,2023,5,0.7184,financial,2023-05-12,b348076c47fb469a,NYCFC,submission,43
+Target,Colorado Rapids,2023,5,0.0,,2023-05-07,e437418e7b5ed82d,Rapids,submission,38
+PayPal,San Jose Earthquakes,2023,5,-0.3863,financial,2023-05-29,2961241d3aef8792,SJEarthquakes,submission,49
+Red Bull,New England Revolution,2023,5,0.8316,,2023-05-06,15e0388708314ca2,newenglandrevolution,submission,46
+EA Sports,,2023,5,0.6597,,2023-05-16,926ea1cf388d9029,ussoccer,submission,1336
+Apple,,2023,6,0.4215,,2023-06-07,7a63edf72627e6bd,MLS,comment,1358
+Geodis,Nashville SC,2023,6,0.9608,,2023-06-18,93720c5ce30102f5,NashvilleSC,submission,116
+Target,Columbus Crew,2023,6,-0.8119,,2023-06-02,853e7716c6958ad0,TheMassive,submission,172
+Apple,Chicago Fire FC,2023,6,-0.9967,match_result,2023-06-13,3a0d08cf7b08e40d,chicagofire,submission,93
+BMO,Toronto FC,2023,6,0.3818,,2023-06-07,13ac0f6355e26826,tfc,submission,115
+Target,Real Salt Lake,2023,7,0.93,,2023-07-23,44a54e0fecc4fc1d,ReAlSaltLake,submission,62
+PayPal,San Jose Earthquakes,2023,7,0.7404,,2023-07-21,7ee2e875a53ec7bc,SJEarthquakes,submission,32
+Red Bull,New York Red Bulls,2023,7,-0.505,,2023-07-05,b40fdf39a4bcccfe,rbny,submission,39
+EA Sports,St. Louis City SC,2023,7,0.9022,financial,2023-07-06,4044bf18685b3871,stlouiscitysc,submission,118
+Target,D.C. United,2023,8,0.2732,,2023-08-04,74f866ee988bb44a,DCUnited,comment,7
+EA Sports,,2023,8,-0.8217,,2023-08-29,c55992a6cbd18c09,MLS,submission,529
+Target,New York City FC,2023,8,0.9954,transfer_signing,2023-08-01,504a35c6e3774e4a,NYCFC,submission,38
+Apple,Nashville SC,2023,8,0.0,,2023-08-08,dcc4cd0ea4e51341,NashvilleSC,submission,24
+Subaru,Philadelphia Union,2023,8,0.7003,,2023-08-10,1808c4eeef3ea96e,PhillyUnion,submission,66
+Red Bull,New York Red Bulls,2023,8,0.6124,,2023-08-22,e9c055c68c2c2f7c,rbny,submission,36
+Apple,Austin FC,2023,9,0.872,performance,2023-09-29,c6bbe888b4d9c132,AustinFC,submission,12
+Apple,LAFC,2023,9,0.0,match_result,2023-09-21,8c0cc89e7a514d6d,LAFC,submission,22
+Adidas,Chicago Fire FC,2023,9,0.2023,,2023-09-28,c13d6b6839ab0afb,chicagofire,submission,3
+EA Sports,Houston Dynamo FC,2023,9,-0.101,,2023-09-17,7404e5983867d070,dynamo,comment,5
+Adidas,FC Dallas,2023,9,0.0,,2023-09-17,9c18e6590a37d170,fcdallas,submission,2
+EA Sports,St. Louis City SC,2023,9,0.0,,2023-09-28,653dc41bfbed9647,stlouiscitysc,submission,74
+Adidas,Portland Timbers,2023,9,0.5106,,2023-09-11,4a728d0c1b7a540a,timbers,comment,13
+Nike,Portland Timbers,2023,9,0.5106,,2023-09-11,4a728d0c1b7a540a,timbers,comment,13
+Apple,Atlanta United FC,2023,10,0.4939,,2023-10-21,940e1d83577bf180,AtlantaUnited,submission,17
+Subaru,Philadelphia Union,2023,10,0.9734,financial,2023-10-16,470cbc3a485d5bea,PhillyUnion,submission,25
+Apple,New England Revolution,2023,10,0.7184,performance,2023-10-01,5a7b58aa0f93b366,newenglandrevolution,submission,5
+Target,Portland Timbers,2023,10,0.8836,financial,2023-10-26,ad3d65212c971f46,timbers,submission,26
+Apple,Vancouver Whitecaps FC,2023,10,0.8846,,2023-10-24,3d89988798e4c42e,whitecapsfc,submission,8
+Red Bull,D.C. United,2023,11,-0.5267,performance,2023-11-05,75815f26a1d81c63,DCUnited,submission,76
+Red Bull,New York City FC,2023,11,0.7063,performance,2023-11-12,3603301cbd7fdd23,NYCFC,comment,47
+Geodis,Nashville SC,2023,11,0.9894,performance,2023-11-08,57e9c011e18b22d5,NashvilleSC,submission,59
+Adidas,Nashville SC,2023,11,0.3182,,2023-11-17,bef0c41e25eec7ff,NashvilleSC,submission,45
+PayPal,San Jose Earthquakes,2023,11,0.9875,financial,2023-11-21,4c51778fc418c5c0,SJEarthquakes,submission,43
+Apple,Sporting Kansas City,2023,11,0.0,,2023-11-06,e23167a94d1da18c,SportingKC,comment,117
+Allstate,St. Louis City SC,2023,11,0.0,,2023-11-09,d178978c5008b4f3,stlouiscitysc,submission,124
+EA Sports,,2023,11,0.0,match_result,2023-11-21,a835a4dcc77ff2b1,ussoccer,submission,623
+Apple,,2023,12,0.9987,performance,2023-12-16,a17b079774d3d101,MLS,submission,1032
+Apple,Chicago Fire FC,2023,12,0.986,injury,2023-12-05,9aaf897f33f3340a,chicagofire,submission,59
+Red Bull,New York Red Bulls,2023,12,0.8625,,2023-12-29,08e18493661e9116,rbny,submission,70
+Red Bull,New York Red Bulls,2023,12,-0.0258,,2023-12-14,fdc7e1a13b53b5f9,rbny,submission,60
+EA Sports,Inter Miami CF,2024,1,0.0,,2024-01-16,ae9a4c176667bb49,InterMiami,submission,109
+EA Sports,LA Galaxy,2024,1,-0.3595,,2024-01-27,c5d09ea46385ff11,LAGalaxy,submission,102
+EA Sports,,2024,1,0.0,,2024-01-27,c4be324ae309025f,MLS,submission,706
+EA Sports,New York City FC,2024,1,-0.8291,,2024-01-27,35a72eeb6f2f16ab,NYCFC,submission,56
+Red Bull,New York City FC,2024,1,0.9975,match_result,2024-01-16,7a76b8e78ec2ce38,NYCFC,submission,46
+AT&T,,2024,1,-0.4717,financial,2024-01-18,3903a3039cf9b682,ussoccer,comment,428
+Apple,,2024,3,-0.2263,,2024-03-25,441e7f970cb463a4,MLS,submission,741
+Subaru,,2024,3,-0.7351,controversy,2024-03-10,8f97dd0843915f7f,MLS,submission,691
+Geodis,Nashville SC,2024,3,0.9967,financial,2024-03-17,e883161708a9dc99,NashvilleSC,submission,81
+Adidas,Columbus Crew,2024,3,0.3612,,2024-03-22,a6745e70ae753d4d,TheMassive,submission,369
+Target,Houston Dynamo FC,2024,3,0.0,,2024-03-23,240d7b6ffdd5f004,dynamo,submission,47
+Nike,,2024,3,0.0,,2024-03-18,ed0ef391011e3773,ussoccer,submission,412
+Apple,Charlotte FC,2024,4,0.9902,,2024-04-14,9300854622060653,CharlotteFootballClub,comment,78
+BMO,LA Galaxy,2024,4,0.9728,financial,2024-04-05,c2fea2d25425226f,LAGalaxy,submission,78
+EA Sports,Toronto FC,2024,4,0.34,,2024-04-26,aa39789615f17783,tfc,comment,79
+EA Sports,,2024,4,0.0,,2024-04-09,45c8ccb74d2eb736,ussoccer,submission,441
+Heineken,,2024,5,-0.3252,,2024-05-28,f646568f1896e5e8,MLS,comment,693
+EA Sports,,2024,5,0.1531,,2024-05-10,47e14a58142ddf05,ussoccer,submission,639
+Gatorade,,2024,6,0.0258,,2024-06-30,4fa6a3935acc7566,MLS,comment,863
+Red Bull,New York City FC,2024,6,-0.5267,financial,2024-06-13,8643ce95c32721b8,NYCFC,submission,51
+Etihad Airways,New York City FC,2024,6,-0.5267,financial,2024-06-13,8643ce95c32721b8,NYCFC,submission,51
+Audi,D.C. United,2024,7,0.9936,financial,2024-07-17,4abf8ad0674382f3,DCUnited,submission,79
+BMO,LA Galaxy,2024,7,0.7003,financial,2024-07-04,900972876e0b4de2,LAGalaxy,submission,147
+Target,,2024,7,0.0,,2024-07-11,474ff4a8274eb569,MLS,submission,863
+Geodis,Nashville SC,2024,7,0.34,league_news,2024-07-17,c226b163023e4f57,NashvilleSC,submission,76
+Subaru,Philadelphia Union,2024,7,0.6808,financial,2024-07-22,252d3843cd3792ee,PhillyUnion,submission,136
+EA Sports,Philadelphia Union,2024,7,0.6808,financial,2024-07-22,252d3843cd3792ee,PhillyUnion,submission,136
+Apple,New York Red Bulls,2024,7,0.8126,,2024-07-19,855c05a3e28a8991,rbny,submission,49
+PayPal,San Jose Earthquakes,2024,8,0.701,,2024-08-18,c9c12a30e9c93d15,SJEarthquakes,submission,60
+Red Bull,New York Red Bulls,2024,8,0.6225,transfer_signing,2024-08-07,41c40a2f36501e50,rbny,submission,62
+Target,,2024,8,0.9273,,2024-08-15,a28718258c162f62,ussoccer,submission,1264
+EA Sports,Charlotte FC,2024,9,0.0,,2024-09-28,813090716bd9cd1c,CharlotteFootballClub,submission,96
+BMO,LAFC,2024,9,0.9445,financial,2024-09-26,0ab26c713cbcecc7,LAFC,submission,278
+Apple,LAFC,2024,9,0.9445,financial,2024-09-26,0ab26c713cbcecc7,LAFC,submission,278
+Audi,LAFC,2024,9,0.0,performance,2024-09-29,a6095aec830eb722,LAFC,submission,203
+Geodis,Nashville SC,2024,9,0.0,,2024-09-29,e0be3212f650eb18,NashvilleSC,submission,101
+EA Sports,Nashville SC,2024,9,0.0,,2024-09-29,e0be3212f650eb18,NashvilleSC,submission,101
+EA Sports,Philadelphia Union,2024,9,-0.3818,,2024-09-20,eb052bd2c90a73a0,PhillyUnion,submission,89
+Subaru,Philadelphia Union,2024,9,0.0,,2024-09-23,4ce77b33b0686fc5,PhillyUnion,submission,87
+Adidas,Toronto FC,2024,9,0.7003,,2024-09-01,5229e7e085dd6c00,tfc,submission,86
+Audi,D.C. United,2024,10,0.9981,coach_change,2024-10-01,5f8307e28ada8a46,DCUnited,submission,91
+PayPal,San Jose Earthquakes,2024,10,0.8442,,2024-10-20,7ac02383790421f5,SJEarthquakes,submission,91
+Red Bull,New York Red Bulls,2024,10,0.0,rumor,2024-10-09,bac17c3c97725a32,rbny,submission,60
+Adidas,FC Cincinnati,2024,11,0.0,,2024-11-29,fe589b5e28d96d19,FCCincinnati,submission,145
+Apple,,2024,11,-0.8807,,2024-11-10,b69bf83f7f739d1d,MLS,submission,1061
+Etihad Airways,New York City FC,2024,11,0.0,,2024-11-21,54270f80115c3be7,NYCFC,submission,185
+Red Bull,New York City FC,2024,11,-0.516,,2024-11-24,2d8a02816452c4ef,NYCFC,submission,130
+Target,Chicago Fire FC,2024,11,0.9422,coach_change,2024-11-13,35b29efd6e80054a,chicagofire,submission,44
+Red Bull,New York Red Bulls,2024,11,0.5213,,2024-11-03,08477f33174af7a1,rbny,submission,325
+Red Bull,,2024,12,0.0,,2024-12-09,82004b94a5b96e4f,MLS,submission,700
+Red Bull,New York City FC,2024,12,0.9081,,2024-12-08,cb791d90ddc7505c,NYCFC,submission,116
+Target,Minnesota United FC,2024,12,-0.5267,,2024-12-23,7ca5af68e6ef08f8,minnesotaunited,comment,102

@@ -1,0 +1,1331 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 7,
+      "article_count": 7,
+      "source": "CF Montr\u00e9al",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "CF Montr\u00e9al",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "CF Montr\u00e9al",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "LAFC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 10,
+      "article_count": 10,
+      "source": "CF Montr\u00e9al",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 8,
+      "article_count": 8,
+      "source": "CF Montr\u00e9al",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "CF Montr\u00e9al",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "CF Montr\u00e9al",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "CF Montr\u00e9al",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 17,
+      "article_count": 17,
+      "source": "CF Montr\u00e9al",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "CF Montr\u00e9al",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "CF Montr\u00e9al",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "CF Montr\u00e9al",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 9,
+      "article_count": 9,
+      "source": "CF Montr\u00e9al",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "CF Montr\u00e9al",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "D.C. United",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "D.C. United",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "D.C. United",
+      "target": "LAFC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "D.C. United",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "D.C. United",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "D.C. United",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "D.C. United",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "D.C. United",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "San Jose Earthquakes",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "San Jose Earthquakes",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "San Jose Earthquakes",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "San Jose Earthquakes",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "San Jose Earthquakes",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "San Jose Earthquakes",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "San Jose Earthquakes",
+      "target": "LAFC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Sporting Kansas City",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Sporting Kansas City",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Sporting Kansas City",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Sporting Kansas City",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Sporting Kansas City",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Sporting Kansas City",
+      "target": "LAFC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Columbus Crew",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Columbus Crew",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Columbus Crew",
+      "target": "LAFC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Columbus Crew",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Columbus Crew",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Columbus Crew",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New England Revolution",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "New England Revolution",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 7,
+      "article_count": 7,
+      "source": "New England Revolution",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "New England Revolution",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New England Revolution",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "New England Revolution",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New England Revolution",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New England Revolution",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New England Revolution",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "New England Revolution",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "New England Revolution",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New England Revolution",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New York Red Bulls",
+      "target": "LAFC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York Red Bulls",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "New York Red Bulls",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York Red Bulls",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "New York Red Bulls",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "New York Red Bulls",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "New York Red Bulls",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York Red Bulls",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Colorado Rapids",
+      "target": "LAFC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Colorado Rapids",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Colorado Rapids",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Colorado Rapids",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Colorado Rapids",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "LAFC",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 7,
+      "article_count": 7,
+      "source": "LAFC",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LAFC",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LAFC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LAFC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LAFC",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LAFC",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LAFC",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LAFC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LAFC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 12,
+      "article_count": 12,
+      "source": "LAFC",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LAFC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LAFC",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LAFC",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LAFC",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "LA Galaxy",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LA Galaxy",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "LA Galaxy",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LA Galaxy",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "LA Galaxy",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LA Galaxy",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "LA Galaxy",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 13,
+      "article_count": 13,
+      "source": "LA Galaxy",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LA Galaxy",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LA Galaxy",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Austin FC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Austin FC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Austin FC",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Charlotte FC",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Charlotte FC",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Charlotte FC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "Charlotte FC",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Charlotte FC",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Charlotte FC",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Charlotte FC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Orlando City SC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 7,
+      "article_count": 7,
+      "source": "Orlando City SC",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Orlando City SC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Orlando City SC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Inter Miami CF",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 14,
+      "article_count": 14,
+      "source": "Inter Miami CF",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "Inter Miami CF",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Inter Miami CF",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "Inter Miami CF",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Inter Miami CF",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Inter Miami CF",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 8,
+      "article_count": 8,
+      "source": "Philadelphia Union",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "Philadelphia Union",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Philadelphia Union",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Philadelphia Union",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Philadelphia Union",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Philadelphia Union",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "St. Louis City SC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "St. Louis City SC",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "St. Louis City SC",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "St. Louis City SC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "St. Louis City SC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Atlanta United FC",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Atlanta United FC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Atlanta United FC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Atlanta United FC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Nashville SC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Nashville SC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Nashville SC",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Nashville SC",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Chicago Fire FC",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Chicago Fire FC",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Chicago Fire FC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Chicago Fire FC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Chicago Fire FC",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Portland Timbers",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Portland Timbers",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Portland Timbers",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Portland Timbers",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 6,
+      "article_count": 6,
+      "source": "FC Cincinnati",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 5,
+      "article_count": 5,
+      "source": "Minnesota United FC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Minnesota United FC",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Minnesota United FC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Minnesota United FC",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York City FC",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York City FC",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Seattle Sounders FC",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Real Salt Lake"
+    }
+  ]
+}

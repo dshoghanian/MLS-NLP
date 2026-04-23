@@ -1,0 +1,37 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "FC Dallas",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "San Jose Earthquakes"
+    }
+  ]
+}

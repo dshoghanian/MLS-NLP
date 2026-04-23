@@ -1,0 +1,51 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Inter Miami CF",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New York City FC",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "Vancouver Whitecaps FC"
+    }
+  ]
+}

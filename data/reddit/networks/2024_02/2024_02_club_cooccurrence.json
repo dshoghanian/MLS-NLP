@@ -1,0 +1,23 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "FC Cincinnati",
+      "target": "Toronto FC"
+    }
+  ]
+}

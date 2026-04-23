@@ -1,0 +1,75 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "LA Galaxy",
+      "target": "LAFC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Portland Timbers",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Portland Timbers",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Nashville SC",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Austin FC",
+      "target": "Toronto FC"
+    }
+  ]
+}

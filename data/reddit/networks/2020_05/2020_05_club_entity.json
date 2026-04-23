@@ -1,0 +1,284 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Los Verdes"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Favreau"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gonzalo Higua\u00edn"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Durkin"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marco Reus"
+    },
+    {
+      "entity_type": "player",
+      "id": "La Liga"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Beckham"
+    },
+    {
+      "entity_type": "player",
+      "id": "Start Araujo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaap Stam"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Match"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kacper Przyby\u0142ko"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stan Kroenke"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nedum Onuoha"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Peter Vermes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Loons Covid"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shalrie Joseph"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adam Buksa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tigard HS"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeff Attinella"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Los Verdes"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "John Favreau"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Gonzalo Higua\u00edn"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Durkin"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Start Araujo"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Marco Reus"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "La Liga"
+    },
+    {
+      "weight": 1,
+      "source": "Marco Reus",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "La Liga",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "David Beckham"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Start Araujo"
+    },
+    {
+      "weight": 1,
+      "source": "Start Araujo",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Start Araujo",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Start Araujo",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jaap Stam"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "MLS Match"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Kacper Przyby\u0142ko"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Stan Kroenke"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Nedum Onuoha"
+    },
+    {
+      "weight": 1,
+      "source": "Stan Kroenke",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Stan Kroenke",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Peter Vermes"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Loons Covid"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Shalrie Joseph"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Adam Buksa"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Tigard HS"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jeff Attinella"
+    }
+  ]
+}

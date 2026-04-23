@@ -1,0 +1,689 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Barcelona Exit"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dale Dale Dale Black &amp"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Riqui Puig"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ultras Tifo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cali Classico"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Blake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Salary Cap"
+    },
+    {
+      "entity_type": "player",
+      "id": "Salary Measured"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Ochoa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelo Silva"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shea Salinas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Crew Cat"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paulo Nagamura"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jimmy Nielsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kenny Bundy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emanuel Reynoso"
+    },
+    {
+      "entity_type": "player",
+      "id": "Playoff Scenarios"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte 3"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thierry Henry"
+    },
+    {
+      "entity_type": "player",
+      "id": "Groups Thread Updated Supporters'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Groups Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chant List"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Miller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex McCarthy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "St Louis CITY2"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Bernardeschi Learns"
+    },
+    {
+      "entity_type": "player",
+      "id": "Toronto Slang"
+    },
+    {
+      "entity_type": "player",
+      "id": "The Bob Bradley"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Bradley"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Manning"
+    },
+    {
+      "entity_type": "player",
+      "id": "CM Kosi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Curtis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Tuiloma"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santi Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jake Zivin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ross Smith"
+    },
+    {
+      "entity_type": "player",
+      "id": "Liam Ridgewell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nat Borchers"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Strong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robbie Earle"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Barcelona Exit"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Playoff Scenarios"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Charlotte 3"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Dale Dale Dale Black &amp"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Andre Blake"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Salary Cap"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Salary Measured"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "David Ochoa"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Marcelo Silva"
+    },
+    {
+      "weight": 1,
+      "source": "Dale Dale Dale Black &amp",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Riqui Puig"
+    },
+    {
+      "weight": 1,
+      "source": "Riqui Puig",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ultras Tifo"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Cali Classico"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Shea Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Salary Cap"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Salary Measured"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "David Ochoa"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Marcelo Silva"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Emanuel Reynoso"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Cap",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Cap",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Cap",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Measured",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Measured",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "Salary Measured",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Bill Hamid",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Bill Hamid",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "Bill Hamid",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "David Ochoa",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "David Ochoa",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "David Ochoa",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Marcelo Silva",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Marcelo Silva",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "Marcelo Silva",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Crew Cat"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Playoff Scenarios"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Charlotte 3"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Jake Zivin"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Ross Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Liam Ridgewell"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Nat Borchers"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "John Strong"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Robbie Earle"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Paulo Nagamura"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jimmy Nielsen"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Chris Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Kenny Bundy"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Playoff Scenarios",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte 3",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Thierry Henry"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Federico Bernardeschi Learns"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Toronto Slang"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "The Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Bill Manning"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "CM Kosi"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ali Curtis"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Groups Thread Updated Supporters'"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Groups Thread"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Chant List"
+    },
+    {
+      "weight": 1,
+      "source": "Groups Thread Updated Supporters'",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Groups Thread",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Chant List",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Mike Miller"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Alex McCarthy"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "St Louis CITY2"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Bill Tuiloma"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Santi Moreno"
+    }
+  ]
+}

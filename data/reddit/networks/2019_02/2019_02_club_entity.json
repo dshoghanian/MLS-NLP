@@ -1,0 +1,416 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier Morales"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "JuJu Smith-Schuster"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Pogba"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Mullin"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Robert Kraft"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Ring"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristian Higuita"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marco Fabi\u00e1n"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kellyn Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Pollard"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joseph Samuelson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kofi Opare"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Doyle"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Johnson"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Horst"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christopher Elliott Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Landon Donovan"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Ramey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hal Ramey"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dee Haslam"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eakin Elementary"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Gaitan"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Reggie Cannon"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Twitter: \""
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Twitter"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Fernando Clavijo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Ranked"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mathias J\u00f8rgensen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aaron Long"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Bradley"
+    },
+    {
+      "entity_type": "player",
+      "id": "MICHAEL BRADLEY"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Conechny Goal"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fredy Montero"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juarez Whitecaps"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Javier Morales"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "JuJu Smith-Schuster"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Paul Pogba"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Matt Mullin"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Robert Kraft"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Twitter: \""
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Twitter"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Fernando Clavijo"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Ranked"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alex Ring"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Cristian Higuita"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Marco Fabi\u00e1n"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Kellyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Matt Pollard"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Joseph Samuelson"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Kofi Opare"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Matt Doyle"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Sam Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "David Horst"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Christopher Elliott Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Landon Donovan"
+    },
+    {
+      "weight": 1,
+      "source": "Christopher Elliott Wondolowski",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "Landon Donovan",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ted Ramey"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Hal Ramey"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Ramey",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Hal Ramey",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Dee Haslam"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Eakin Elementary"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nicolas Gaitan"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Reggie Cannon"
+    },
+    {
+      "weight": 1,
+      "source": "Reggie Cannon",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Mathias J\u00f8rgensen"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Aaron Long"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Michael Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "MICHAEL BRADLEY"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Conechny Goal"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Fredy Montero"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Juarez Whitecaps"
+    }
+  ]
+}

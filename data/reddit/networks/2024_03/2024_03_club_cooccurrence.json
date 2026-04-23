@@ -1,0 +1,23 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Philadelphia Union",
+      "target": "Seattle Sounders FC"
+    }
+  ]
+}

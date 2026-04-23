@@ -1,0 +1,371 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelly\u2019s alma mater"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Bobby Belair"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Marc Nicholls"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Nick Kelly"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dos Santos"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rubio Rubin 43'"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Talles Magno"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Tansey] Gazdag's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Gazdag"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Wood"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Besler"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Ferguson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Berman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Gabriel Brener"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Hollingshead"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gift Card"
+    },
+    {
+      "entity_type": "player",
+      "id": "Card Offer - Terms"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Lod"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gil MVP"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lutz Interview"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kemar Lawrence"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderlecht Kloke"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Kelly\u2019s alma mater"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 1,
+      "source": "Kelly\u2019s alma mater",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Kelly\u2019s alma mater",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Rubio Rubin 43'"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Bobby Wood"
+    },
+    {
+      "weight": 1,
+      "source": "Rubio Rubin 43'",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Talles Magno"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Joe Tansey] Gazdag's"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Daniel Gazdag"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Matt Besler"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Alex Ferguson"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Mark Berman"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Ryan Hollingshead"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Robin Lod"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Gift Card"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Card Offer - Terms"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Robin Lod"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Gil MVP"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lutz Interview"
+    },
+    {
+      "weight": 2,
+      "source": "Toronto FC",
+      "target": "Kemar Lawrence"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Anderlecht Kloke"
+    }
+  ]
+}

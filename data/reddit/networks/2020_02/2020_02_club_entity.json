@@ -1,0 +1,814 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "the Kit Sponsor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Yeti"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leon Tifo Kobe Tribute"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Groups Collective"
+    },
+    {
+      "entity_type": "player",
+      "id": "Supporters Groups"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Cooper"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kai Wagner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Russell Canouse"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kei Kamara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Lewis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Birnbaum"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joseph Mora"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julian Gressel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ola Kamara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ulises Segura"
+    },
+    {
+      "entity_type": "player",
+      "id": "Edison Flores"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Seitz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin Paredes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emmanuel Boateng"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oniel Fisher"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Odoi-Atsem"
+    },
+    {
+      "entity_type": "player",
+      "id": "Erik Sorga"
+    },
+    {
+      "entity_type": "player",
+      "id": "Clint Irwin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Drew Moor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lalas Abubakar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Samuel Vines"
+    },
+    {
+      "entity_type": "player",
+      "id": "Keegan Rosenberry"
+    },
+    {
+      "entity_type": "player",
+      "id": "Younes Namli"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kellyn Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Shinyashiki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Nicholson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Danny Wilson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Deklan Wynne"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Rawls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Russell Canouse Goal - Header*"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicol\u00e1s Mezquida"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kei Kamara Goal - Header*"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Rubio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Off"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Lewis Goal*"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Evans"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yeimar G\u00f3mez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrade Sounders"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "defender Winston Reid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Latif Blessing"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ricardo Clark"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bradley Wright-Phillips"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "P"
+    },
+    {
+      "entity_type": "player",
+      "id": "I"
+    },
+    {
+      "entity_type": "player",
+      "id": "P]MLS Match 1"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeremy Ebobisse"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ranko Veselinovic"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "the Kit Sponsor"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Yeti"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Russell Canouse"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kei Kamara"
+    },
+    {
+      "weight": 2,
+      "source": "D.C. United",
+      "target": "Jonathan Lewis"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steve Birnbaum"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Joseph Mora"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Julian Gressel"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ola Kamara"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ulises Segura"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Edison Flores"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Seitz"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kevin Paredes"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Emmanuel Boateng"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Oniel Fisher"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Odoi-Atsem"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Erik Sorga"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Clint Irwin"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Drew Moor"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Lalas Abubakar"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Samuel Vines"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Keegan Rosenberry"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Younes Namli"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kellyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Andre Shinyashiki"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Sam Nicholson"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Danny Wilson"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Deklan Wynne"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Andre Rawls"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Cole Bassett"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Russell Canouse Goal - Header*"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Nicol\u00e1s Mezquida"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kei Kamara Goal - Header*"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Diego Rubio"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Off"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Jonathan Lewis Goal*"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Leon Tifo Kobe Tribute"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Latif Blessing"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Bradley Wright-Phillips"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Groups Collective"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Supporters Groups"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "John Cooper"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Kai Wagner"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Russell Canouse",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Kei Kamara",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 2,
+      "source": "Jonathan Lewis",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Bill Hamid",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Steve Birnbaum",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Joseph Mora",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Julian Gressel",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Ola Kamara",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Ulises Segura",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Edison Flores",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Seitz",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Kevin Paredes",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Emmanuel Boateng",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Oniel Fisher",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Odoi-Atsem",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Erik Sorga",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Clint Irwin",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Drew Moor",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Lalas Abubakar",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Samuel Vines",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Keegan Rosenberry",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Younes Namli",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Kellyn Acosta",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Jack Price",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Andre Shinyashiki",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Sam Nicholson",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Danny Wilson",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Deklan Wynne",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Andre Rawls",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Cole Bassett",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Russell Canouse Goal - Header*",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Nicol\u00e1s Mezquida",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Kei Kamara Goal - Header*",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Diego Rubio",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Off",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Jonathan Lewis Goal*",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "P"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "I"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "P]MLS Match 1"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brad Evans"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Yeimar G\u00f3mez"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Andrade Sounders"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "defender Winston Reid"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Ricardo Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "P"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "I"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "P]MLS Match 1"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jeremy Ebobisse"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ranko Veselinovic"
+    }
+  ]
+}

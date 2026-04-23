@@ -1,0 +1,586 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Anthem"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emmanuel Ledesma"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Beckham"
+    },
+    {
+      "entity_type": "player",
+      "id": "Antoine Griezmann"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "You Be Proud &amp"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Eddie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Atl\u00e9tico Huila"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pete Vagenas LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pete Vagenas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brent Kallman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick Rimando] Emotions"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel R\u00edos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ken Tribbet"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Amro Tarek"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Niki Budalic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Johnson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stuart Holden"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Jim Curtin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexi Lalas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Connor Cape"
+    },
+    {
+      "entity_type": "player",
+      "id": "Richard Fleming"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Madden"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Baird"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Bruin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seth Sinovic"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zack Steffen"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fire Rumor"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MD Anderson"
+    },
+    {
+      "entity_type": "executive",
+      "id": "John Walker"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Congrats Richards"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Lampson"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS WORKS Humanitarian"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Tierney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Caicedo Revs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Caicedo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Firmino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alfonso Espino's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Marc Dos Santos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pete Schaad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Blas Perez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Efrain Juarez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauro Rosales"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kendall Waston"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nico Mezquida"
+    },
+    {
+      "entity_type": "player",
+      "id": "Craig Dalrymple"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Anthem"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Emmanuel Ledesma"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "David Beckham"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Antoine Griezmann"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "You Be Proud &amp"
+    },
+    {
+      "weight": 1,
+      "source": "You Be Proud &amp",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "You Be Proud &amp",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "You Be Proud &amp",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Corey Baird"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Alexi Lalas"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Connor Cape"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Richard Fleming"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Ryan Madden"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Cole Bassett"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Defender Eddie"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Atl\u00e9tico Huila"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Nick Rimando] Emotions"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Pete Vagenas LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Pete Vagenas"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Brent Kallman"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Matt Lampson"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MLS WORKS Humanitarian"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Daniel R\u00edos"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Ken Tribbet"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Amro Tarek"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Niki Budalic"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Will Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Connor Cape"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Richard Fleming"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Ryan Madden"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Stuart Holden"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Will Bruin"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Seth Sinovic"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Zack Steffen"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Fire Rumor"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Pete Schaad"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Blas Perez"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Efrain Juarez"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Mauro Rosales"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Kendall Waston"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nico Mezquida"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Craig Dalrymple"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "MD Anderson"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "John Walker"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Congrats Richards"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Chris Tierney"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Luis Caicedo Revs"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Luis Caicedo"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Nicolas Firmino"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Alfonso Espino's"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Marc Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Pete Schaad"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Blas Perez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Efrain Juarez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Mauro Rosales"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Kendall Waston"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Nico Mezquida"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Craig Dalrymple"
+    }
+  ]
+}

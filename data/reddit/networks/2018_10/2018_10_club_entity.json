@@ -1,0 +1,323 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Ln"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Se\u00f1or Wayne's"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emmanuel Ledesma"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miami Herald Recommendation"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mls History"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Mark Cuban"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Jimmy Haslam"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sean Johnson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander Ring to Long-Term"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Sweat"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Villa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Avenge the Yankees"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Doyle] Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jefferson Savarino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Albert Rusnak's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Ilie Sanchez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Zusi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Canetti"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Armando Moreno New York"
+    },
+    {
+      "entity_type": "player",
+      "id": "Armando Moreno"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "BMO Player"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Anderson Ln"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Chris Canetti"
+    },
+    {
+      "weight": 1,
+      "source": "Anderson Ln",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jimmy Haslam"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Se\u00f1or Wayne's"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "Wayne Rooney",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Emmanuel Ledesma"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Armando Moreno New York"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Armando Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Miami Herald Recommendation"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Mls History"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Mark Cuban"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Jimmy Haslam"
+    },
+    {
+      "weight": 1,
+      "source": "Jimmy Haslam",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Sean Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alexander Ring to Long-Term"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ben Sweat"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "David Villa"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Avenge the Yankees"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Cole Bassett's"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Matt Doyle] Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Jefferson Savarino"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Albert Rusnak's"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Midfielder Ilie Sanchez"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Armando Moreno New York"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Armando Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "BMO Player"
+    }
+  ]
+}

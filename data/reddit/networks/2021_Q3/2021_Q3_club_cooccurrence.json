@@ -1,0 +1,127 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "D.C. United",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Toronto FC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Austin FC",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 4,
+      "article_count": 4,
+      "source": "Seattle Sounders FC",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "Seattle Sounders FC",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Seattle Sounders FC",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Sporting Kansas City",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "New England Revolution",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Chicago Fire FC",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 3,
+      "article_count": 3,
+      "source": "LA Galaxy",
+      "target": "Real Salt Lake"
+    }
+  ]
+}

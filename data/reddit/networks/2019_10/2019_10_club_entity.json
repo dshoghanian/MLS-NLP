@@ -1,0 +1,448 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "CHEERS Dennis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julian Gressel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Benezet"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick DeLeon"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Blake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rafa Marquez"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Moralez Agrees"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Playoff Match"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "James O\u2019Connor"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Shinyashiki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gareth Bale"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS CUP"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Peter Vermes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Harrison"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kristian Dyer"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Tab Ramos"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Announcement Dynamo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "CHRISTIAN RAMIREZ APPRECIATION THREAD"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Newcomer"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Transfer Feed]"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander B\u00fcttner"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Transfer Feed] Dutch"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Sims"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Fernandez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Damir Kreilach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Rose"
+    },
+    {
+      "entity_type": "player",
+      "id": "Scott Sutter"
+    },
+    {
+      "entity_type": "player",
+      "id": "Georges Mukumbilwa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dan Riccio] Vancouver Whitecaps"
+    },
+    {
+      "entity_type": "player",
+      "id": "Olivier Giroud"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "CHEERS Dennis"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "CHRISTIAN RAMIREZ APPRECIATION THREAD"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Julian Gressel"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Nicolas Benezet"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Nick DeLeon"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Rafa Marquez"
+    },
+    {
+      "weight": 1,
+      "source": "Julian Gressel",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Julian Gressel",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nicolas Benezet",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nicolas Benezet",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nick DeLeon",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nick DeLeon",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "MLS CUP"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Andre Blake"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Josh Sims"
+    },
+    {
+      "weight": 1,
+      "source": "Rafa Marquez",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Moralez Agrees"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Playoff Match"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "James O\u2019Connor"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Andre Shinyashiki"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Gareth Bale"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Peter Vermes"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Defender Harrison"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Kristian Dyer"
+    },
+    {
+      "weight": 3,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Announcement Dynamo"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "CHRISTIAN RAMIREZ APPRECIATION THREAD"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "CHRISTIAN RAMIREZ APPRECIATION THREAD"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "MLS Newcomer"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "MLS Transfer Feed]"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Alexander B\u00fcttner"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "MLS Transfer Feed] Dutch"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Brian Fernandez"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Damir Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Andy Rose"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Scott Sutter"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Georges Mukumbilwa"
+    },
+    {
+      "weight": 1,
+      "source": "Damir Kreilach",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Andy Rose",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Scott Sutter",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Georges Mukumbilwa",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Dan Riccio] Vancouver Whitecaps"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Olivier Giroud"
+    },
+    {
+      "weight": 1,
+      "source": "Dan Riccio] Vancouver Whitecaps",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Olivier Giroud",
+      "target": "Inter Miami CF"
+    }
+  ]
+}

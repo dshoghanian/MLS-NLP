@@ -1,0 +1,337 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Riley McGree Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Riley McGree"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Details"
+    },
+    {
+      "entity_type": "player",
+      "id": "Louis Morgan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAFC 2-0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela 90'+3'"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gio Reyna"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander Alvarado"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Vines"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Smith"
+    },
+    {
+      "entity_type": "player",
+      "id": "Damir Kreilach\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "RSL 2 - 1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Handwalla Bwana"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Winston Reid"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Francisco Calvo\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Memo Rodriguez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Timmy Parker"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gerhard Struber"
+    },
+    {
+      "entity_type": "player",
+      "id": "mls Getting"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Polo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogart"
+    },
+    {
+      "entity_type": "player",
+      "id": "Simon Colyn"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Riley McGree Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Riley McGree"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Match Details"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Louis Morgan"
+    },
+    {
+      "weight": 1,
+      "source": "Match Details",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Louis Morgan",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Memo Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LAFC 2-0"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela 90'+3'"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC 2-0",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Carlos Vela 90'+3'",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Gio Reyna"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Alexander Alvarado"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Cole Bassett"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Sam Vines"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Ryan Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Damir Kreilach\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "RSL 2 - 1"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "RSL 2 - 1",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Andy Polo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Handwalla Bwana"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Winston Reid"
+    },
+    {
+      "weight": 1,
+      "source": "Winston Reid",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Defender Francisco Calvo\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Timmy Parker"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Gerhard Struber"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "mls Getting"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tom Bogart"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Simon Colyn"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "FC Dallas",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 2,
+      "article_count": 2,
+      "source": "Houston Dynamo FC",
+      "target": "New England Revolution"
+    }
+  ]
+}

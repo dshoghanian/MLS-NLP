@@ -1,0 +1,652 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "My Breakdown of DCU - OCSC My Breakdown of DCU - OCSC Welcome"
+    },
+    {
+      "entity_type": "player",
+      "id": "Derrick Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Adams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Miller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Durkin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Weston McKennie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Ku-DiPietro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauricio Pereyra"
+    },
+    {
+      "entity_type": "player",
+      "id": "Armchair Himself"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pedro Santos"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lewis O'Brien"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nottingham Forest\u2019s Lewis O\u2019Brien"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAFC Star"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Klein"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Sands Returns"
+    },
+    {
+      "entity_type": "player",
+      "id": "Loan Spell"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Filip Forsberg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Giannis Antetokounmpo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cade Cowell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Quakes II"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "JORDAN FUCKING MORRIS"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Aztex"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Bold"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benny ball"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Clark"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Burn Jersey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Davis St"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bin Jeong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeong Sang-Bin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Tifo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dejuan Jones"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Bye"
+    },
+    {
+      "entity_type": "player",
+      "id": "Djordje Petrovich"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dylan Borrero"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Espa\u00f1a"
+    },
+    {
+      "entity_type": "player",
+      "id": "Estadio Olimpico Metropolitano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Lopez](https://elbocon.pe"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "My Breakdown of DCU - OCSC My Breakdown of DCU - OCSC Welcome"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Derrick Williams"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Tyler Adams"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Tyler Miller"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Durkin"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Weston McKennie"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ted Ku-DiPietro"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Mauricio Pereyra"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Armchair Himself"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Pedro Santos"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Lewis O'Brien"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Nottingham Forest\u2019s Lewis O\u2019Brien"
+    },
+    {
+      "weight": 1,
+      "source": "My Breakdown of DCU - OCSC My Breakdown of DCU - OCSC Welcome",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "My Breakdown of DCU - OCSC My Breakdown of DCU - OCSC Welcome",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "My Breakdown of DCU - OCSC My Breakdown of DCU - OCSC Welcome",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Derrick Williams",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Derrick Williams",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Derrick Williams",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Adams",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Adams",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Adams",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Miller",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Miller",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Miller",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Durkin",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Durkin",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Durkin",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Weston McKennie",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Weston McKennie",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Weston McKennie",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Ku-DiPietro",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Ku-DiPietro",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Ku-DiPietro",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Mauricio Pereyra",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Mauricio Pereyra",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Mauricio Pereyra",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Armchair Himself",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Armchair Himself",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Armchair Himself",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Pedro Santos",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Pedro Santos",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Pedro Santos",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Chris Klein"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Austin Aztex"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Austin Bold"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LAFC Star"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Austin Aztex"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Austin Bold"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "James Sands Returns"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Loan Spell"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Benny ball"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Filip Forsberg"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Giannis Antetokounmpo"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Revs Tifo"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Quakes II"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Benny ball"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "JORDAN FUCKING MORRIS"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Aztex"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Bold"
+    },
+    {
+      "weight": 1,
+      "source": "Austin Aztex",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Austin Bold",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Burn Jersey"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Davis St"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Benny ball"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Benny ball",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Steve Clark",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Tifo"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Dejuan Jones"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Brandon Bye"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Djordje Petrovich"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Dylan Borrero"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Bin Jeong"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Jeong Sang-Bin"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Real Espa\u00f1a"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Estadio Olimpico Metropolitano"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Luis Lopez](https://elbocon.pe"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Dane Murphy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Gomez"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ken Miknuk"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rubiel Vazquez"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Dean's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Fishkin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dante Vanzeir"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gary Smiths"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "apart midseason"
+    },
+    {
+      "entity_type": "player",
+      "id": "Niko Tsakiris"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Schmetzer"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Titus"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Soldier Field"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Retro Burn Night"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stadium Bag"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alfaro OG"
+    },
+    {
+      "entity_type": "player",
+      "id": "S. Nealis"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aljaz Ivacic"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Turner"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tayvon Gray"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS MVP"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Dane Murphy"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "apart midseason"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Alfaro OG"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "S. Nealis"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Diego Gomez"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Soldier Field"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Ken Miknuk"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Rubiel Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "apart midseason"
+    },
+    {
+      "weight": 1,
+      "source": "Rubiel Vazquez",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Mike Dean's"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Mark Titus"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Mark Fishkin"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Dante Vanzeir"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Gary Smiths"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Niko Tsakiris"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "MLS MVP"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brian Schmetzer"
+    },
+    {
+      "weight": 1,
+      "source": "Brian Schmetzer",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Soldier Field"
+    },
+    {
+      "weight": 1,
+      "source": "Soldier Field",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Retro Burn Night"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Stadium Bag"
+    },
+    {
+      "weight": 1,
+      "source": "Retro Burn Night",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Stadium Bag",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Alfaro OG",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "S. Nealis",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Aljaz Ivacic"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Matt Turner"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Tayvon Gray"
+    }
+  ]
+}

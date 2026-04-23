@@ -1,0 +1,181 @@
+club,year,jersey_sponsor,sponsor_category,deal_value_usd_m_est
+Atlanta United FC,2018,Coca-Cola,beverage,2.5
+Atlanta United FC,2019,Coca-Cola,beverage,2.5
+Atlanta United FC,2020,Coca-Cola,beverage,2.5
+Atlanta United FC,2021,Pleasr,entertainment,1.8
+Atlanta United FC,2022,Pleasr,entertainment,1.8
+Atlanta United FC,2023,Pleasr,entertainment,2.0
+Atlanta United FC,2024,Pleasr,entertainment,2.0
+Austin FC,2021,Yeti,consumer goods,3.5
+Austin FC,2022,Yeti,consumer goods,3.5
+Austin FC,2023,Yeti,consumer goods,4.0
+Austin FC,2024,Yeti,consumer goods,4.0
+CF Montreal,2018,Wanderers,hospitality,1.2
+CF Montreal,2019,Wanderers,hospitality,1.2
+CF Montreal,2020,Wanderers,hospitality,1.0
+CF Montreal,2021,BRP,automotive,2.0
+CF Montreal,2022,BRP,automotive,2.5
+CF Montreal,2023,BRP,automotive,3.0
+CF Montreal,2024,BRP,automotive,3.0
+Charlotte FC,2022,Bank of America,financial services,5.0
+Charlotte FC,2023,Bank of America,financial services,5.5
+Charlotte FC,2024,Bank of America,financial services,6.0
+Chicago Fire FC,2018,Motorola,technology,4.5
+Chicago Fire FC,2019,Motorola,technology,4.5
+Chicago Fire FC,2020,Motorola,technology,4.5
+Chicago Fire FC,2021,Motorola,technology,5.0
+Chicago Fire FC,2022,Motorola,technology,5.0
+Chicago Fire FC,2023,Motorola,technology,5.5
+Chicago Fire FC,2024,Motorola,technology,5.5
+Colorado Rapids,2018,Transamerica,financial services,2.0
+Colorado Rapids,2019,Transamerica,financial services,2.0
+Colorado Rapids,2020,Frontier Airlines,travel,2.5
+Colorado Rapids,2021,Frontier Airlines,travel,2.5
+Colorado Rapids,2022,Frontier Airlines,travel,3.0
+Colorado Rapids,2023,Frontier Airlines,travel,3.0
+Colorado Rapids,2024,Frontier Airlines,travel,3.0
+Columbus Crew,2018,Barbasol,consumer goods,1.5
+Columbus Crew,2019,Barbasol,consumer goods,1.5
+Columbus Crew,2020,Barbasol,consumer goods,1.5
+Columbus Crew,2021,Acura,automotive,3.5
+Columbus Crew,2022,Acura,automotive,3.5
+Columbus Crew,2023,Acura,automotive,4.0
+Columbus Crew,2024,Acura,automotive,4.5
+D.C. United,2018,Leidos,technology,3.0
+D.C. United,2019,Leidos,technology,3.0
+D.C. United,2020,Leidos,technology,3.5
+D.C. United,2021,Leidos,technology,3.5
+D.C. United,2022,Leidos,technology,4.0
+D.C. United,2023,Leidos,technology,4.0
+D.C. United,2024,Leidos,technology,4.0
+FC Dallas,2018,AdvoCare,health,1.5
+FC Dallas,2019,AdvoCare,health,1.5
+FC Dallas,2020,Caris Life Sciences,health,2.0
+FC Dallas,2021,Caris Life Sciences,health,2.0
+FC Dallas,2022,Caris Life Sciences,health,2.5
+FC Dallas,2023,Caris Life Sciences,health,2.5
+FC Dallas,2024,Caris Life Sciences,health,2.5
+Houston Dynamo FC,2018,Greenpoint Mortgage,financial services,1.8
+Houston Dynamo FC,2019,Greenpoint Mortgage,financial services,1.8
+Houston Dynamo FC,2020,Greenpoint Mortgage,financial services,1.5
+Houston Dynamo FC,2021,Greenpoint Mortgage,financial services,1.5
+Houston Dynamo FC,2022,Greenpoint Mortgage,financial services,2.0
+Houston Dynamo FC,2023,Greenpoint Mortgage,financial services,2.0
+Houston Dynamo FC,2024,Greenpoint Mortgage,financial services,2.0
+Inter Miami CF,2020,DRV PNK,healthcare,2.0
+Inter Miami CF,2021,DRV PNK,healthcare,2.0
+Inter Miami CF,2022,DRV PNK,healthcare,2.5
+Inter Miami CF,2023,Audi,automotive,8.0
+Inter Miami CF,2024,Audi,automotive,10.0
+LA Galaxy,2018,Herbalife,health,4.5
+LA Galaxy,2019,Herbalife,health,4.5
+LA Galaxy,2020,Herbalife,health,4.0
+LA Galaxy,2021,Herbalife,health,4.0
+LA Galaxy,2022,Herbalife,health,5.0
+LA Galaxy,2023,Herbalife,health,6.0
+LA Galaxy,2024,Herbalife,health,6.5
+LAFC,2018,Puma,sportswear,3.0
+LAFC,2019,Puma,sportswear,3.5
+LAFC,2020,Puma,sportswear,3.0
+LAFC,2021,Puma,sportswear,3.5
+LAFC,2022,BetMGM,gambling,6.0
+LAFC,2023,BetMGM,gambling,7.0
+LAFC,2024,BetMGM,gambling,7.5
+Minnesota United FC,2018,Provident Bank,financial services,1.5
+Minnesota United FC,2019,Provident Bank,financial services,1.5
+Minnesota United FC,2020,Provident Bank,financial services,1.5
+Minnesota United FC,2021,Guaranteed Rate,financial services,2.5
+Minnesota United FC,2022,Guaranteed Rate,financial services,2.5
+Minnesota United FC,2023,Guaranteed Rate,financial services,3.0
+Minnesota United FC,2024,Guaranteed Rate,financial services,3.0
+Nashville SC,2020,Geodis,logistics,3.5
+Nashville SC,2021,Geodis,logistics,3.5
+Nashville SC,2022,Geodis,logistics,4.0
+Nashville SC,2023,Geodis,logistics,4.5
+Nashville SC,2024,Geodis,logistics,5.0
+New England Revolution,2018,Blue Cross Blue Shield,healthcare,3.0
+New England Revolution,2019,Blue Cross Blue Shield,healthcare,3.0
+New England Revolution,2020,Blue Cross Blue Shield,healthcare,3.0
+New England Revolution,2021,Blue Cross Blue Shield,healthcare,3.5
+New England Revolution,2022,Blue Cross Blue Shield,healthcare,3.5
+New England Revolution,2023,Blue Cross Blue Shield,healthcare,4.0
+New England Revolution,2024,Blue Cross Blue Shield,healthcare,4.0
+New York City FC,2018,Etihad Airways,travel,8.0
+New York City FC,2019,Etihad Airways,travel,8.0
+New York City FC,2020,Etihad Airways,travel,7.0
+New York City FC,2021,Etihad Airways,travel,8.0
+New York City FC,2022,Etihad Airways,travel,9.0
+New York City FC,2023,Etihad Airways,travel,10.0
+New York City FC,2024,Etihad Airways,travel,10.0
+New York Red Bulls,2018,Red Bull,beverage,15.0
+New York Red Bulls,2019,Red Bull,beverage,15.0
+New York Red Bulls,2020,Red Bull,beverage,14.0
+New York Red Bulls,2021,Red Bull,beverage,15.0
+New York Red Bulls,2022,Red Bull,beverage,16.0
+New York Red Bulls,2023,Red Bull,beverage,17.0
+New York Red Bulls,2024,Red Bull,beverage,17.0
+Orlando City SC,2018,Orlando Health,healthcare,2.5
+Orlando City SC,2019,Orlando Health,healthcare,2.5
+Orlando City SC,2020,Orlando Health,healthcare,2.0
+Orlando City SC,2021,Orlando Health,healthcare,2.5
+Orlando City SC,2022,HealthFirst,healthcare,3.0
+Orlando City SC,2023,HealthFirst,healthcare,3.5
+Orlando City SC,2024,HealthFirst,healthcare,3.5
+Philadelphia Union,2018,Subaru,automotive,3.5
+Philadelphia Union,2019,Subaru,automotive,3.5
+Philadelphia Union,2020,Subaru,automotive,3.0
+Philadelphia Union,2021,Subaru,automotive,3.5
+Philadelphia Union,2022,Subaru,automotive,4.5
+Philadelphia Union,2023,Subaru,automotive,5.0
+Philadelphia Union,2024,Subaru,automotive,5.0
+Portland Timbers,2018,Alaska Airlines,travel,4.0
+Portland Timbers,2019,Alaska Airlines,travel,4.5
+Portland Timbers,2020,Alaska Airlines,travel,3.5
+Portland Timbers,2021,Alaska Airlines,travel,4.0
+Portland Timbers,2022,Alaska Airlines,travel,4.5
+Portland Timbers,2023,Alaska Airlines,travel,5.0
+Portland Timbers,2024,Alaska Airlines,travel,5.0
+Real Salt Lake,2018,Zions Bank,financial services,2.0
+Real Salt Lake,2019,Zions Bank,financial services,2.0
+Real Salt Lake,2020,Zions Bank,financial services,1.8
+Real Salt Lake,2021,Zions Bank,financial services,2.0
+Real Salt Lake,2022,Zions Bank,financial services,2.5
+Real Salt Lake,2023,Zions Bank,financial services,2.5
+Real Salt Lake,2024,Zions Bank,financial services,2.5
+San Jose Earthquakes,2018,Avaya,technology,3.0
+San Jose Earthquakes,2019,Avaya,technology,3.0
+San Jose Earthquakes,2020,PayPal,technology,4.0
+San Jose Earthquakes,2021,PayPal,technology,4.0
+San Jose Earthquakes,2022,PayPal,technology,4.5
+San Jose Earthquakes,2023,PayPal,technology,4.5
+San Jose Earthquakes,2024,PayPal,technology,4.5
+Seattle Sounders FC,2018,Zulily,retail,4.0
+Seattle Sounders FC,2019,Zulily,retail,4.5
+Seattle Sounders FC,2020,Zulily,retail,4.0
+Seattle Sounders FC,2021,Zulily,retail,4.5
+Seattle Sounders FC,2022,Zulily,retail,5.0
+Seattle Sounders FC,2023,Zulily,retail,5.5
+Seattle Sounders FC,2024,Zulily,retail,5.5
+Sporting Kansas City,2018,Ivy Exec,technology,1.5
+Sporting Kansas City,2019,Ivy Exec,technology,1.5
+Sporting Kansas City,2020,Ivy Exec,technology,1.5
+Sporting Kansas City,2021,Ivy Exec,technology,2.0
+Sporting Kansas City,2022,Ivy Exec,technology,2.0
+Sporting Kansas City,2023,Ivy Exec,technology,2.5
+Sporting Kansas City,2024,Ivy Exec,technology,2.5
+St. Louis City SC,2023,MasterCard,financial services,5.0
+St. Louis City SC,2024,MasterCard,financial services,5.5
+Toronto FC,2018,BMO,financial services,7.5
+Toronto FC,2019,BMO,financial services,7.5
+Toronto FC,2020,BMO,financial services,7.0
+Toronto FC,2021,BMO,financial services,7.5
+Toronto FC,2022,BMO,financial services,8.0
+Toronto FC,2023,BMO,financial services,8.5
+Toronto FC,2024,BMO,financial services,9.0
+Vancouver Whitecaps FC,2018,Bell,telecommunications,2.5
+Vancouver Whitecaps FC,2019,Bell,telecommunications,2.5
+Vancouver Whitecaps FC,2020,Bell,telecommunications,2.0
+Vancouver Whitecaps FC,2021,Bell,telecommunications,2.5
+Vancouver Whitecaps FC,2022,Bell,telecommunications,3.0
+Vancouver Whitecaps FC,2023,Bell,telecommunications,3.0
+Vancouver Whitecaps FC,2024,Bell,telecommunications,3.0

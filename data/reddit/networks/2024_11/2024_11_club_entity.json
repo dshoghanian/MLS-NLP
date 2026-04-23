@@ -1,0 +1,641 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dani Pereira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Sanabria"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Retro Adidas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier Mascherano"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Tata Martino"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Pec"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacob Schneider"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "ADVANCE \u203c\ufe0f"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Edvard Tagseth"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Jim Curtin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Luna"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake's"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bruce Arena"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bruce Arena Go Quakes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stephen Afrifa"
+    },
+    {
+      "entity_type": "player",
+      "id": "William Agada"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zorhan Bassong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Logan Ndenbe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Memo Rodriguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Schewe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Voloder"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Castellanos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ozzie Cisneros"
+    },
+    {
+      "entity_type": "player",
+      "id": "Danny Flores"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Rindov"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andreu Fontas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Melia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Remi Walter"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wilfried Nancy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Mansueto"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gregg Murphy -"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gregg Megaw - Technical"
+    },
+    {
+      "entity_type": "player",
+      "id": "Head Coach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gregg Broughton\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gregg Wilson - UC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Barbara Men\u2019s"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Gregg Olson - Macalaster"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Gregg Munn - Mars Hill"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Gregg Miller - Manhattanville"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Lauren Gregg - Assistant"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Nigeria Women"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aaron Long"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "I. Thank"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Eric Quill"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dayne St Clair"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vince Carter"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Miami"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Losing"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jim Curtin-- Revs"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Olof Mellberg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aziel Jackson"
+    },
+    {
+      "entity_type": "coach",
+      "id": "John Herdman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Osorio"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Molinaro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Spencer\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vanni Sartini"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "source": "Austin FC",
+      "target": "Dani Pereira"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Alex Sanabria"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Retro Adidas"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Javier Mascherano"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Tata Martino"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Jacob Schneider"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "ADVANCE \u203c\ufe0f"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Revs Miami"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Revs Losing"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Gabriel Pec"
+    },
+    {
+      "weight": 1,
+      "source": "Jacob Schneider",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Edvard Tagseth"
+    },
+    {
+      "weight": 2,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin-- Revs"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Diego Luna"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake's"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Bruce Arena"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Bruce Arena Go Quakes"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Stephen Afrifa"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "William Agada"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Zorhan Bassong"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Logan Ndenbe"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Memo Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Ryan Schewe"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Robert Voloder"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Robert Castellanos"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Ozzie Cisneros"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Danny Flores"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Chris Rindov"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Andreu Fontas"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Tim Melia"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Remi Walter"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Wilfried Nancy"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Aziel Jackson"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Joe Mansueto"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Murphy -"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Megaw - Technical"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Head Coach"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Broughton\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Wilson - UC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Barbara Men\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Olson - Macalaster"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Munn - Mars Hill"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gregg Miller - Manhattanville"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Lauren Gregg - Assistant"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nigeria Women"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Aaron Long"
+    },
+    {
+      "weight": 1,
+      "source": "Head Coach",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "I. Thank"
+    },
+    {
+      "weight": 2,
+      "source": "FC Dallas",
+      "target": "Eric Quill"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Dayne St Clair"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Vince Carter"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "John Herdman"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jonathan Osorio"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "John Molinaro"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Andrew Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Miami"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Losing"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Jim Curtin-- Revs"
+    },
+    {
+      "weight": 2,
+      "source": "St. Louis City SC",
+      "target": "Olof Mellberg"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "John Spencer\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Vanni Sartini"
+    }
+  ]
+}

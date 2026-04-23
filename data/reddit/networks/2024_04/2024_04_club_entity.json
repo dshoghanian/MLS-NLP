@@ -1,0 +1,382 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diehard Hornets"
+    },
+    {
+      "entity_type": "player",
+      "id": "Def am"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin Kelsy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shakhtar Donetsk FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shakhtar Donetsk"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Tenorio"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fox Deportes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Max Arfsten"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Nick Cushing"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Duncan McGuire"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "A. Raise"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Godoy Cruz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Hern\u00e1n L\u00f3pez"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Xavier Arreaga"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Wilfried Nancy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Micael Micael"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cameron Harper"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "C\u00e9lio Pompeu"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sean Longstaff"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Herdman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dan Ashworth"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthem Unipiper's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian White"
+    },
+    {
+      "entity_type": "player",
+      "id": "Canucks \ud83c\udfd2"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carl Robinson's"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Diehard Hornets"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Def am"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Kevin Kelsy"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Shakhtar Donetsk FC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Shakhtar Donetsk"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Paul Tenorio"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Fox Deportes"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Fox Deportes"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Max Arfsten"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Wilfried Nancy"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Nick Cushing"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Duncan McGuire"
+    },
+    {
+      "weight": 1,
+      "source": "Duncan McGuire",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "A. Raise"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Godoy Cruz"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Midfielder Hern\u00e1n L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Xavier Arreaga"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Micael Micael"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Cameron Harper"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "C\u00e9lio Pompeu"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Sean Longstaff"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "John Herdman"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Dan Ashworth"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Carl Robinson's"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Anthem Unipiper's"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Canucks \ud83c\udfd2"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Carl Robinson's"
+    }
+  ]
+}

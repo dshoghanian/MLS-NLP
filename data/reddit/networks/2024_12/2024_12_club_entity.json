@@ -1,0 +1,625 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jamal Thiar\u00e9"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Ronny Deila"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Beat Brad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ronald Hern\u00e1ndez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Almiron"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kim Joon Hong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matai Akinmboni"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Aguayo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o Peglow"
+    },
+    {
+      "entity_type": "player",
+      "id": "Radomiak Radom"
+    },
+    {
+      "entity_type": "player",
+      "id": "Neymar Reportedly"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lionel Messi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sergio Ramos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mohamed Salah"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "La Habra"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Facundo Torres"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mitch Carroll"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Draft"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Harris"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew Senanou"
+    },
+    {
+      "entity_type": "player",
+      "id": "Besides Harris"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Elias Manoel"
+    },
+    {
+      "entity_type": "player",
+      "id": "700k GAM"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Winger Tyler Wolff"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Studio Futbol"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark-Anthony Kaye"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dave Romney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Harkes"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Nick"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert / Quakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Vasquez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Vazquez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Leitch"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jake Reid"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Jack Elliott"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omari Glasgow"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Ferreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Shaq Moore Via"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Bernardeschi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Congrats Greg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Delgado Congrats Greg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Delgado Glad"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Merritt Paulson"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthony Kyaw"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Martino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauricio Pochettino"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Reynolds"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fafa Picault \u26bd\ufe0f"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thoughts \ud83d\udcad"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Jamal Thiar\u00e9"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 2,
+      "source": "Atlanta United FC",
+      "target": "Ronny Deila"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Beat Brad"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Ronald Hern\u00e1ndez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Winger Tyler Wolff"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Real Salt Lake Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Beat Brad"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Neymar Reportedly"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Lionel Messi"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Sergio Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Mohamed Salah"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Miguel Almiron"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kim Joon Hong"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Matai Akinmboni"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Gabriel Aguayo"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Jo\u00e3o Peglow"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Radomiak Radom"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "La Habra"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Facundo Torres"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Mitch Carroll"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "MLS Draft"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Alex Harris"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Matthew Senanou"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Besides Harris"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Elias Manoel"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "700k GAM"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Winger Tyler Wolff"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Elias Manoel",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "700k GAM",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 2,
+      "source": "FC Dallas",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Studio Futbol"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Defender Shaq Moore Via"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Mark-Anthony Kaye"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Dave Romney"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ian Harkes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Defender Nick"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tom Bogert / Quakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Brandon Vasquez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Brandon Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Leitch"
+    },
+    {
+      "weight": 1,
+      "source": "Mark-Anthony Kaye",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Dave Romney",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Ian Harkes",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Leitch",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Jake Reid"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Defender Jack Elliott"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Omari Glasgow"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Defender Shaq Moore Via",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Federico Bernardeschi"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Congrats Greg"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Delgado Congrats Greg"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Delgado Glad"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Merritt Paulson"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Anthony Kyaw"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Kyle Martino"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Mauricio Pochettino"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Fafa Picault \u26bd\ufe0f"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Thoughts \ud83d\udcad"
+    }
+  ]
+}

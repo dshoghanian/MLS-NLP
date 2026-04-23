@@ -1,0 +1,368 @@
+# MLS entity reference data for 2018–2024
+# Used by the NLP enricher for entity matching and normalization
+
+clubs:
+  # Format: canonical_name: [aliases...]
+  "Atlanta United FC":
+    aliases: ["Atlanta United", "ATL United", "Five Stripes"]
+    abbreviation: "ATL"
+    conference: "Eastern"
+    active_years: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Austin FC":
+    aliases: ["Austin"]
+    abbreviation: "ATX"
+    conference: "Western"
+    active_years: [2021, 2022, 2023, 2024]
+
+  "CF Montréal":
+    aliases: ["Montreal Impact", "CF Montreal", "Montreal", "Impact"]
+    abbreviation: "MTL"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Charlotte FC":
+    aliases: ["Charlotte"]
+    abbreviation: "CLT"
+    conference: "Eastern"
+    active_years: [2022, 2023, 2024]
+
+  "Chicago Fire FC":
+    aliases: ["Chicago Fire", "Fire", "Chicago FC"]
+    abbreviation: "CHI"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Colorado Rapids":
+    aliases: ["Colorado", "Rapids"]
+    abbreviation: "COL"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Columbus Crew":
+    aliases: ["Columbus", "Crew", "Columbus Crew SC", "Black and Gold"]
+    abbreviation: "CLB"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "D.C. United":
+    aliases: ["DC United", "D.C. United", "DCU"]
+    abbreviation: "DC"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "FC Cincinnati":
+    aliases: ["Cincinnati", "FCC"]
+    abbreviation: "CIN"
+    conference: "Eastern"
+    active_years: [2019, 2020, 2021, 2022, 2023, 2024]
+
+  "FC Dallas":
+    aliases: ["Dallas", "FCD"]
+    abbreviation: "DAL"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Houston Dynamo FC":
+    aliases: ["Houston Dynamo", "Houston", "Dynamo"]
+    abbreviation: "HOU"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Inter Miami CF":
+    aliases: ["Inter Miami", "Miami", "IMCF"]
+    abbreviation: "MIA"
+    conference: "Eastern"
+    active_years: [2020, 2021, 2022, 2023, 2024]
+
+  "LA Galaxy":
+    aliases: ["Galaxy", "Los Angeles Galaxy", "LAG"]
+    abbreviation: "LAG"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "LAFC":
+    aliases: ["Los Angeles FC", "LA Football Club", "Black and Gold"]
+    abbreviation: "LAFC"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Minnesota United FC":
+    aliases: ["Minnesota United", "Minnesota", "Loons", "MNUFC"]
+    abbreviation: "MIN"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Nashville SC":
+    aliases: ["Nashville", "NSC"]
+    abbreviation: "NSH"
+    conference: "Eastern"
+    active_years: [2020, 2021, 2022, 2023, 2024]
+
+  "New England Revolution":
+    aliases: ["New England", "Revolution", "Revs", "NE Revolution"]
+    abbreviation: "NE"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "New York City FC":
+    aliases: ["NYCFC", "NYC FC", "New York City"]
+    abbreviation: "NYC"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "New York Red Bulls":
+    aliases: ["Red Bulls", "NYRB", "New York RB"]
+    abbreviation: "NYRB"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Orlando City SC":
+    aliases: ["Orlando City", "Orlando", "Lions"]
+    abbreviation: "ORL"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Philadelphia Union":
+    aliases: ["Philadelphia", "Union", "Philly Union"]
+    abbreviation: "PHI"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Portland Timbers":
+    aliases: ["Portland", "Timbers", "PTFC"]
+    abbreviation: "POR"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Real Salt Lake":
+    aliases: ["RSL", "Salt Lake"]
+    abbreviation: "RSL"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "San Jose Earthquakes":
+    aliases: ["San Jose", "Earthquakes", "Quakes", "SJ Earthquakes"]
+    abbreviation: "SJ"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Seattle Sounders FC":
+    aliases: ["Seattle Sounders", "Seattle", "Sounders", "SSFC"]
+    abbreviation: "SEA"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Sporting Kansas City":
+    aliases: ["Kansas City", "SKC", "Sporting KC"]
+    abbreviation: "SKC"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "St. Louis City SC":
+    aliases: ["St. Louis City", "St Louis City", "STLC"]
+    abbreviation: "STL"
+    conference: "Western"
+    active_years: [2023, 2024]
+
+  "Toronto FC":
+    aliases: ["Toronto", "TFC"]
+    abbreviation: "TOR"
+    conference: "Eastern"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+  "Vancouver Whitecaps FC":
+    aliases: ["Vancouver Whitecaps", "Vancouver", "Whitecaps", "VWFC"]
+    abbreviation: "VAN"
+    conference: "Western"
+    active_years: [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+# MLS league entities
+league_entities:
+  - "Major League Soccer"
+  - "MLS"
+  - "MLS SuperDraft"
+  - "Allocation Order"
+  - "Designated Player"
+  - "Homegrown Player"
+  - "U.S. Open Cup"
+  - "CONCACAF Champions League"
+  - "Leagues Cup"
+  - "MLS Cup"
+  - "MLS Playoffs"
+  - "Eastern Conference"
+  - "Western Conference"
+  - "MLS Commissioner"
+  - "Don Garber"
+
+# Event type keyword patterns
+event_types:
+  transfer_signing:
+    keywords:
+      - signed
+      - signs
+      - acquired
+      - acquires
+      - joins
+      - joined
+      - transfer
+      - transfers
+      - deal
+      - contract
+      - loan
+      - loaned
+      - sold
+      - sell
+      - allocation
+      - SuperDraft
+      - draft pick
+      - Designated Player
+      - DP signing
+      - free agent
+  injury:
+    keywords:
+      - injury
+      - injured
+      - sideline
+      - sidelined
+      - surgery
+      - surgery
+      - torn
+      - fracture
+      - hamstring
+      - knee
+      - ankle
+      - return from injury
+      - out for
+      - day-to-day
+      - ruled out
+      - concussion
+      - unavailable
+  match_result:
+    keywords:
+      - wins
+      - defeats
+      - beat
+      - lost
+      - draw
+      - drew
+      - victory
+      - goals
+      - scored
+      - shutout
+      - clean sheet
+      - comeback
+      - hat-trick
+      - penalty
+      - stoppage time
+      - equalizer
+  coach_change:
+    keywords:
+      - fired
+      - sacked
+      - dismissed
+      - hired
+      - named head coach
+      - named manager
+      - appointed
+      - resignation
+      - resigned
+      - interim head coach
+      - coaching staff
+      - assistant coach
+      - technical director
+  financial:
+    keywords:
+      - salary
+      - budget
+      - wage
+      - allocation money
+      - transfer fee
+      - million
+      - contract extension
+      - stadium
+      - expansion fee
+      - valuation
+      - revenue
+      - sponsorship
+  ownership:
+    keywords:
+      - ownership
+      - owner
+      - investor
+      - sold
+      - acquisition
+      - majority stake
+      - minority stake
+      - franchise
+      - expansion franchise
+      - new stadium
+      - stadium naming rights
+  controversy:
+    keywords:
+      - suspension
+      - suspended
+      - fine
+      - fined
+      - red card
+      - investigation
+      - complaint
+      - protest
+      - allegation
+      - misconduct
+      - doping
+      - ban
+      - disciplinary
+      - racism
+      - harassment
+  league_news:
+    keywords:
+      - expansion
+      - expansion team
+      - new team
+      - CBA
+      - collective bargaining
+      - commissioner
+      - rules change
+      - roster rules
+      - salary cap
+      - allocation
+      - VAR
+      - broadcast rights
+      - TV deal
+  rumor:
+    keywords:
+      - rumored
+      - rumor
+      - linked
+      - interest
+      - reportedly
+      - report
+      - sources say
+      - according to
+      - could sign
+      - eyeing
+      - targeting
+      - pursuit
+      - bid
+  performance:
+    keywords:
+      - performance
+      - form
+      - standings
+      - playoffs
+      - MLS Cup
+      - Supporters Shield
+      - Champions League
+      - CONCACAF
+      - Leagues Cup
+
+# Season temporal windows
+temporal_windows:
+  preseason: {months: [1, 2], label: "preseason"}
+  transfer_window_winter: {months: [1, 2], label: "transfer_window_winter"}
+  regular_season_start: {months: [3, 4, 5], label: "early_season"}
+  regular_season_mid: {months: [6, 7], label: "mid_season"}
+  transfer_window_summer: {months: [7, 8], label: "transfer_window_summer"}
+  regular_season_late: {months: [8, 9, 10], label: "late_season"}
+  playoffs: {months: [11, 12], label: "playoffs"}

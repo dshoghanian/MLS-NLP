@@ -1,0 +1,920 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Welcoming Valencia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Driussi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread] Charlotte FC v Inter"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juncta Juvant Kit FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juncta Juvant Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stiven Jimenez"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Yedlin Inter"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Yedlin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC 1-2"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83c\udfc6 Fulltime"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Higuain"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Xherdan Shaqiri"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Rasmussen Great Volley Goal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Xherdan Shaqiri\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Valentin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oscar Pareja"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Freeman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Losing Nani"
+    },
+    {
+      "entity_type": "player",
+      "id": "Facundo Torres"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ercan Kara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cesar Araujo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Muzzi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jarred Dillon"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jamiro Monteiro"
+    },
+    {
+      "entity_type": "player",
+      "id": "200k GAM"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Grant Wahl's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jefferson Savarino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Claret Top"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cobalt Sleeves"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aston Villa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thick Line"
+    },
+    {
+      "entity_type": "player",
+      "id": "Plum Alley"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Believe Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cade Cowell"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o Paulo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Xavier Arreaga"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jairo Torres"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick McCraney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Twitter Xherdan Shaqiri"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Atletico Madrid"
+    },
+    {
+      "entity_type": "player",
+      "id": "ESPN Mexico"
+    },
+    {
+      "entity_type": "player",
+      "id": "Secondary Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Gitau"
+    },
+    {
+      "entity_type": "player",
+      "id": "Winger Alan Velasco"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alan Velasco"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dallas History"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marco Farfan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Crescendo Kit - 3rd"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kenny Cooper Jr."
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adrian Heath"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jozy Altidore"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Brady"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marc Stein"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Aaron"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ashley Fletcher"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Selmir Pidro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Morrow"
+    },
+    {
+      "entity_type": "player",
+      "id": "Domenico Criscito"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Genoa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian White"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marc Dos Santos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Berhalter"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Welcoming Valencia"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Sebastian Driussi"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Xherdan Shaqiri"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Patrick McCraney"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Twitter Xherdan Shaqiri"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Match Thread] Charlotte FC v Inter"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC 1-2"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "\ud83c\udfc6 Fulltime"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread] Charlotte FC v Inter",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "DeAndre Yedlin Inter"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "DeAndre Yedlin"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Juncta Juvant Kit FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Juncta Juvant Kit"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Stiven Jimenez"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Federico Higuain"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Sebastian Berhalter"
+    },
+    {
+      "weight": 4,
+      "source": "Chicago Fire FC",
+      "target": "Xherdan Shaqiri"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Xherdan Shaqiri\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jairo Torres"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Patrick McCraney"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Twitter Xherdan Shaqiri"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Justin Rasmussen Great Volley Goal"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Grant Wahl's"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "David Valentin"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Oscar Pareja"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Alex Freeman"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Losing Nani"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Facundo Torres"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Ercan Kara"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Cesar Araujo"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Luis Muzzi"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jarred Dillon"
+    },
+    {
+      "weight": 1,
+      "source": "Oscar Pareja",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Oscar Pareja",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Freeman",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Freeman",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Losing Nani",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Losing Nani",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Facundo Torres",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Facundo Torres",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Ercan Kara",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Ercan Kara",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Cesar Araujo",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Cesar Araujo",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Luis Muzzi",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Luis Muzzi",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Jarred Dillon",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Jarred Dillon",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Claret Top"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Cobalt Sleeves"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Aston Villa"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Thick Line"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Plum Alley"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Winger Alan Velasco"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Alan Velasco"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Dallas History"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Marco Farfan"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Crescendo Kit - 3rd"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Kenny Cooper Jr."
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Grant Wahl's"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Andre Gitau"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Jamiro Monteiro"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "200k GAM"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 2,
+      "source": "Jamiro Monteiro",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 2,
+      "source": "200k GAM",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Claret Top"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Cobalt Sleeves"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Aston Villa"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Thick Line"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Plum Alley"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Jefferson Savarino"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Anderson Julio Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Claret Top"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Cobalt Sleeves"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Aston Villa"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Thick Line"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Plum Alley"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Believe Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Claret Top",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Cobalt Sleeves",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Aston Villa",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Thick Line",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Plum Alley",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jo\u00e3o Paulo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Xavier Arreaga"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Atletico Madrid"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "ESPN Mexico"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Secondary Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Andre Gitau"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Marco Farfan"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Adrian Heath"
+    },
+    {
+      "weight": 2,
+      "source": "New England Revolution",
+      "target": "Jozy Altidore"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tom Brady"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Marc Stein"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Defender Aaron"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Ashley Fletcher"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Selmir Pidro"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Justin Morrow"
+    },
+    {
+      "weight": 2,
+      "source": "Toronto FC",
+      "target": "Domenico Criscito"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "MLS Genoa"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Marc Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Sebastian Berhalter"
+    }
+  ]
+}

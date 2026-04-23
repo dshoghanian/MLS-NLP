@@ -1,0 +1,457 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff] Shared"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Najar"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Durkin"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Vazquez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Manu Ledesma"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Hegardt"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC]"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Gustavo Vallecilla"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matias Almeyda"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Buzz] Matias Almeyda"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Khiry Shelton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Salloi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Higua\u00edn"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hazy Pitch"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "H\u00e9ctor Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Omar Tapia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelo Palomino"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marco Farfan"
+    },
+    {
+      "entity_type": "player",
+      "id": "His Worth"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs 3-0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs 3-0 Pumas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Earl Edwards Jr."
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Barlow Nearly Levels"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bradley Wright-Phillips"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Manuel Veth] Sources"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roman B\u00fcrki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom\u00e1\u0161 Ostr\u00e1k"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Domenico Criscito"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andres Blazquez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "MARCH Looks"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kenny Cooper"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Polo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rachel Lewis"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Chris Hegardt"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC]"
+    },
+    {
+      "weight": 2,
+      "source": "Match Thread",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs 3-0"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs 3-0 Pumas"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Earl Edwards Jr."
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steven Goff] Shared"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Andy Najar"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Chris Durkin"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Chris Durkin"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Luis Omar Tapia"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Marcelo Palomino"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Brandon Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Manu Ledesma"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Defender Gustavo Vallecilla"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Defender Gustavo Vallecilla"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Khiry Shelton"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Matias Almeyda"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "MLS Buzz] Matias Almeyda"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Federico Higua\u00edn"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Hazy Pitch"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Marco Farfan"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "His Worth"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Tom Barlow Nearly Levels"
+    },
+    {
+      "weight": 2,
+      "source": "New York Red Bulls",
+      "target": "Bradley Wright-Phillips"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Manuel Veth] Sources"
+    },
+    {
+      "weight": 2,
+      "source": "St. Louis City SC",
+      "target": "Roman B\u00fcrki"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tom\u00e1\u0161 Ostr\u00e1k"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Domenico Criscito"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Andres Blazquez"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "MARCH Looks"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Kenny Cooper"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Andy Polo"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Rachel Lewis"
+    }
+  ]
+}

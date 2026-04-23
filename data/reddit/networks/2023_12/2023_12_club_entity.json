@@ -1,0 +1,545 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Bonagura"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Cohen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Maccabi Haifa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Dean Smith"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frank Lampard"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lionel Messi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shohei Ohtani's"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Kuntz"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Greg Vanney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Tyler Boyd"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adam King"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aidan Morris"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Freese"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dax McCarty"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Boyd"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauricio Pereyra"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Oscar Pareja Agree"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nico Lodeiro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omir Fernandez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Armas"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Gutman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Navarro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "RSL Damir"
+    },
+    {
+      "entity_type": "player",
+      "id": "Damir Kreilach"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kreilach King Kreilach"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jamar Ricketts"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jose Arnaiz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordi Alba"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefan Frei"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zorhan Bassong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Moreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nah\n- New GM"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Frank Klopas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Griffin Dorsey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Ramirez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin Molino"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabrizio Romano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emil Forsberg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Edelman"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Durkin"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Weston McKennie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Russell Teibert 2024"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Berhalter"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Kyle Bonagura"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Josh Cohen"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Maccabi Haifa"
+    },
+    {
+      "weight": 2,
+      "source": "Charlotte FC",
+      "target": "Dean Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Frank Lampard"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "Lionel Messi"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Shohei Ohtani's"
+    },
+    {
+      "weight": 1,
+      "source": "Lionel Messi",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Will Kuntz"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Greg Vanney"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Midfielder Tyler Boyd"
+    },
+    {
+      "weight": 1,
+      "source": "Midfielder Tyler Boyd",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Dax McCarty"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Tyler Boyd"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Adam King"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Aidan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Steven Moreira"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Kevin Molino"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Weston McKennie"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Matt Freese"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Mauricio Pereyra"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Oscar Pareja Agree"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Nico Lodeiro"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Omir Fernandez"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Chris Armas"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Andrew Gutman"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Miguel Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Omir Fernandez",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Armas",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Fabrizio Romano"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Emil Forsberg"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Daniel Edelman"
+    },
+    {
+      "weight": 1,
+      "source": "Andrew Gutman",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Miguel Navarro",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nah\n- New GM"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Frank Klopas"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "RSL Damir"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Damir Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kreilach King Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Damir Kreilach",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Kreilach King Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Russell Teibert 2024"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Sebastian Berhalter"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jamar Ricketts"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jose Arnaiz"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jordi Alba"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Stefan Frei"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Zorhan Bassong"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Griffin Dorsey"
+    },
+    {
+      "weight": 1,
+      "source": "Christian Ramirez",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "Kevin Molino",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Chris Durkin"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Durkin",
+      "target": "D.C. United"
+    }
+  ]
+}

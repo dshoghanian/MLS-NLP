@@ -1,0 +1,345 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eduardo Margain"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew McConaughey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bryan Sheffield"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marius Haas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Voodoo Doughnuts"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Rodriguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Ring\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Forl\u00e1n"
+    },
+    {
+      "entity_type": "player",
+      "id": "H\u00e9ctor Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcos Llorente"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fafa Picault"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy Thompson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Smith's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelyn Rowe"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Ramirez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Striker Christian Ramirez"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "MIN Toye"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Sims"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darren Mattocks"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Eduardo Margain"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matthew McConaughey"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Bryan Sheffield"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Marius Haas"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Voodoo Doughnuts"
+    },
+    {
+      "weight": 1,
+      "source": "Voodoo Doughnuts",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Brian Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Striker Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Graham Smith's"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alex Ring\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Diego Forl\u00e1n"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Marcos Llorente"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Fafa Picault"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MIN Toye"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Graham Smith's"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kelyn Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Striker Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "MIN Toye"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Josh Sims"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Darren Mattocks"
+    },
+    {
+      "weight": 1,
+      "source": "Darren Mattocks",
+      "target": "FC Cincinnati"
+    }
+  ]
+}

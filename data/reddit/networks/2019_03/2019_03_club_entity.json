@@ -1,0 +1,270 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Dodd Stadium"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adidas Merch"
+    },
+    {
+      "entity_type": "player",
+      "id": "Junro Narita"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin Baxter"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Jansson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kellyn Acosta"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jared Shawlee"
+    },
+    {
+      "entity_type": "player",
+      "id": "Danny Coyle's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabian Penalty"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Crew Cat"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gaston Sauro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Gaitan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Lewandowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Micheal Azira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tomas Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darwin Quintero"
+    },
+    {
+      "entity_type": "player",
+      "id": "Snow Classico"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Bobby Dodd Stadium"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Adidas Merch"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Junro Narita"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Kevin Baxter"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Robin Jansson"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Kellyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Snow Classico"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jared Shawlee"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Danny Coyle's"
+    },
+    {
+      "weight": 1,
+      "source": "Jared Shawlee",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Danny Coyle's",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nicolas Gaitan"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Robert Lewandowski"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell's"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Fabian Penalty"
+    },
+    {
+      "weight": 1,
+      "source": "Johnny Russell's",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Fabian Penalty",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Crew Cat"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Gaston Sauro"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Micheal Azira"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Tomas Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Micheal Azira",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Tomas Martinez",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Darwin Quintero"
+    }
+  ]
+}

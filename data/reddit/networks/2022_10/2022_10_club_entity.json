@@ -1,0 +1,419 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Felipe Cardenas] Josef Mart\u00ednez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adobe Scan"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lisando Isei"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Christian Lattanzio"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Zoran Krneta"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Victor Lonchuk"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carson Galaxy**](https://imgur.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Allen Chapman](http://proreferees.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carson Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Denis Bouanga"
+    },
+    {
+      "entity_type": "player",
+      "id": "Samuel Grandsir"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Wooden"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Zubak"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zac MacMath"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Beating Seattle"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nemanja Radoja"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacen Russell-Rowe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pedro Santos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jhon Duran"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "the Houston Dash"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eddie Robinson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC FO"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Greder"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Meara"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Tolkin"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Merritt Paulson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ricardo Pepi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Sargent"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Stephanie Labb\u00e9"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Felipe Cardenas] Josef Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Adobe Scan"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC FO"
+    },
+    {
+      "weight": 1,
+      "source": "Adobe Scan",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Austin FC FO"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Lisando Isei"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Christian Lattanzio"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Zoran Krneta"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Bogert",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Victor Lonchuk"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carson Galaxy**](https://imgur.com"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Allen Chapman](http://proreferees.com"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carson Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Denis Bouanga"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Samuel Grandsir"
+    },
+    {
+      "weight": 1,
+      "source": "Carson Galaxy**](https://imgur.com",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Allen Chapman](http://proreferees.com",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Carson Galaxy",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Denis Bouanga",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Samuel Grandsir",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Eddie Robinson"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Brian Wooden"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Ethan Zubak"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Pedro Santos"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jhon Duran"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Ricardo Pepi"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Josh Sargent"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Zac MacMath"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Merritt Paulson"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Beating Seattle"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Nemanja Radoja"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Jacen Russell-Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Pedro Santos"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "the Houston Dash"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Andy Greder"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Ryan Meara"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "John Tolkin"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Stephanie Labb\u00e9"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Carlos Bocanegra"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Carlos Bocanegra https://www.atlutd.com/news/atlanta-united-parts-ways-with-vp-technical-director-carlos-bocanegra"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ashley Westwood"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Nathan Byrne"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Walz"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Winds North @"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Don Garber Watches Replay"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Filip Dujic - Canadian"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kick Childhood Cancer"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Fisher"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jackson Ragen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew Gaudreau"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Dean"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 0 - [1]"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lawrence Ennali"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelvin Yeboah"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Felipe Mora"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Rodr\u00edguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sounders Fan - Thank"
+    },
+    {
+      "entity_type": "player",
+      "id": "Obligatory Fuck LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stuart Armstrong"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Carlos Bocanegra"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Carlos Bocanegra https://www.atlutd.com/news/atlanta-united-parts-ways-with-vp-technical-director-carlos-bocanegra"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Ashley Westwood"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Defender Nathan Byrne"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Tim Walz"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Filip Dujic - Canadian"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Kick Childhood Cancer"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Winds North @"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Lawrence Ennali"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Sounders Fan - Thank"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Obligatory Fuck LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Winds North @",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Don Garber Watches Replay"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Filip Dujic - Canadian"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Kick Childhood Cancer"
+    },
+    {
+      "weight": 1,
+      "source": "Filip Dujic - Canadian",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Filip Dujic - Canadian",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Filip Dujic - Canadian",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Filip Dujic - Canadian",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Kick Childhood Cancer",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Kick Childhood Cancer",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Kick Childhood Cancer",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Kick Childhood Cancer",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jonathan Dean"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "John Fisher"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Stuart Armstrong"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jackson Ragen"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Sounders Fan - Thank"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Obligatory Fuck LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Matthew Gaudreau"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jonathan Dean"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 0 - [1]"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC 0 - [1]",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Lawrence Ennali"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Kelvin Yeboah"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Felipe Mora"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jonathan Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sounders Fan - Thank"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Obligatory Fuck LAFC"
+    },
+    {
+      "weight": 2,
+      "source": "Stuart Armstrong",
+      "target": "Vancouver Whitecaps FC"
+    }
+  ]
+}

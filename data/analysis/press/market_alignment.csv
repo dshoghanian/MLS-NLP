@@ -1,0 +1,181 @@
+entity,year,narrative_rank,performance_rank,gap,pagerank,degree,total_weight,momentum_label,points,wins,losses,draws,finish,made_playoffs,cup_result,conference,valuation_usd_m,revenue_usd_m,valuation_rank,market_gap
+Atlanta United FC,2018,7,2,-5,0.044433,25,251,stable,69,21,6,7,1,1,MLS Cup Winner,Eastern,500,49,1,-6
+Atlanta United FC,2019,5,7,2,0.047734,27,302,rising,50,14,13,7,6,1,Conference Final,Eastern,485,62,2,-3
+Atlanta United FC,2020,16,15,-1,0.031462,23,158,falling,26,7,7,2,10,0,group_stage,Eastern,450,46,1,-15
+Atlanta United FC,2021,16,14,-2,0.031315,25,144,rising,44,12,12,6,9,1,first_round,Eastern,480,52,1,-15
+Atlanta United FC,2022,20,9,-11,0.028167,26,166,falling,49,14,10,9,5,1,conference_semifinal,Eastern,535,71,5,-15
+Atlanta United FC,2023,16,18,2,0.03005,25,220,rising,44,12,13,7,8,0,missed_playoffs,Eastern,630,82,7,-9
+Atlanta United FC,2024,20,8,-12,0.026898,24,181,falling,52,15,11,8,5,1,conference_semifinal,Eastern,720,94,7,-13
+Austin FC,2021,24,21,-3,0.027158,23,120,rising,38,10,16,8,10,0,missed_playoffs,Western,200,28,25,1
+Austin FC,2022,24,3,-21,0.026859,26,157,rising,59,19,9,6,3,1,conference_semifinal,Western,310,46,17,-7
+Austin FC,2023,29,18,-11,0.018508,26,114,falling,44,12,14,8,9,0,missed_playoffs,Western,390,58,17,-12
+Austin FC,2024,28,17,-11,0.016498,25,93,stable,46,13,14,7,10,1,first_round,Western,445,68,18,-10
+CF Montreal,2018,8,20,12,0.044361,26,248,stable,38,9,17,8,12,0,missed_playoffs,Eastern,165,28,23,15
+CF Montreal,2019,4,11,7,0.050585,26,321,rising,45,12,14,8,9,0,missed_playoffs,Eastern,185,31,21,17
+CF Montreal,2020,2,20,18,0.060705,27,328,rising,24,6,8,2,12,0,missed_playoffs,Eastern,175,26,23,21
+CF Montreal,2021,6,3,-3,0.044973,27,218,falling,59,18,8,8,2,1,conference_final,Eastern,210,35,22,16
+CF Montreal,2022,1,4,3,0.062768,27,413,rising,57,17,8,9,3,1,conference_semifinal,Eastern,270,44,22,21
+CF Montreal,2023,3,14,11,0.051104,26,403,falling,46,13,12,9,7,1,first_round,Eastern,340,54,21,18
+CF Montreal,2024,3,12,9,0.052647,28,387,stable,48,13,12,9,7,1,first_round,Eastern,390,62,22,19
+Charlotte FC,2022,23,13,-10,0.026991,26,152,rising,44,12,14,8,8,0,missed_playoffs,Eastern,200,38,27,4
+Charlotte FC,2023,19,9,-10,0.027317,26,194,rising,51,14,11,9,6,1,first_round,Eastern,340,62,21,2
+Charlotte FC,2024,26,4,-22,0.02081,22,130,stable,55,16,10,8,4,1,conference_semifinal,Eastern,420,74,20,-6
+Chicago Fire FC,2018,13,12,-1,0.03663,25,201,stable,46,13,13,8,8,0,missed_playoffs,Eastern,290,47,10,-3
+Chicago Fire FC,2019,10,23,13,0.036166,24,219,falling,33,8,19,7,13,0,missed_playoffs,Eastern,280,44,10,0
+Chicago Fire FC,2020,26,15,-11,0.01771,20,75,falling,26,7,7,2,11,0,missed_playoffs,Eastern,255,38,10,-16
+Chicago Fire FC,2021,15,16,1,0.032564,24,152,rising,41,11,14,7,10,0,missed_playoffs,Eastern,295,48,12,-3
+Chicago Fire FC,2022,8,24,16,0.040953,27,255,rising,41,11,14,9,10,0,missed_playoffs,Eastern,370,62,14,6
+Chicago Fire FC,2023,14,18,4,0.033489,28,246,falling,44,12,13,8,7,0,missed_playoffs,Eastern,480,74,11,-3
+Chicago Fire FC,2024,16,25,9,0.031421,26,217,stable,38,10,16,8,11,0,missed_playoffs,Eastern,560,84,11,-5
+Colorado Rapids,2018,16,19,3,0.034946,25,160,stable,40,11,15,8,11,0,missed_playoffs,Western,210,34,14,-2
+Colorado Rapids,2019,18,17,-1,0.029859,26,173,falling,41,11,14,9,10,0,missed_playoffs,Western,215,36,14,-4
+Colorado Rapids,2020,14,8,-6,0.032475,24,164,stable,35,9,6,5,4,1,conference_semifinal,Western,200,30,16,2
+Colorado Rapids,2021,14,2,-12,0.034418,25,160,rising,64,19,8,7,2,1,conference_final,Western,240,40,17,3
+Colorado Rapids,2022,21,13,-8,0.027182,26,157,falling,44,12,14,8,9,0,missed_playoffs,Western,310,52,17,-4
+Colorado Rapids,2023,24,24,0,0.0224,25,146,falling,42,11,14,9,10,0,missed_playoffs,Western,380,60,19,-5
+Colorado Rapids,2024,18,23,5,0.029329,25,198,rising,40,10,15,9,12,0,missed_playoffs,Western,435,68,19,1
+Columbus Crew,2018,2,10,8,0.056096,26,318,stable,49,14,10,10,4,1,conference_semifinal,Eastern,235,38,13,11
+Columbus Crew,2019,11,12,1,0.036142,26,218,falling,44,12,13,9,8,1,conference_semifinal,Eastern,245,40,13,2
+Columbus Crew,2020,15,1,-14,0.031793,27,157,stable,55,15,5,6,1,1,MLS Cup Winner,Eastern,250,42,11,-4
+Columbus Crew,2021,11,6,-5,0.036139,26,170,falling,53,15,10,9,5,1,conference_final,Eastern,310,52,9,-2
+Columbus Crew,2022,14,13,-1,0.033388,26,203,stable,44,12,14,8,9,0,missed_playoffs,Eastern,380,60,11,-3
+Columbus Crew,2023,7,9,2,0.045017,28,346,rising,51,15,11,8,5,1,conference_semifinal,Eastern,460,72,12,5
+Columbus Crew,2024,2,1,-1,0.055586,28,414,rising,62,18,8,8,1,1,MLS Cup Winner,Eastern,540,82,12,10
+D.C. United,2018,10,6,-4,0.038556,24,213,stable,54,16,11,7,3,1,conference_semifinal,Eastern,310,52,7,-3
+D.C. United,2019,15,19,4,0.031858,26,189,falling,39,10,16,8,11,0,missed_playoffs,Eastern,320,54,9,-6
+D.C. United,2020,19,23,4,0.028217,24,136,falling,18,4,10,2,14,0,missed_playoffs,Eastern,285,42,9,-10
+D.C. United,2021,17,24,7,0.03117,24,144,rising,34,9,17,6,12,0,missed_playoffs,Eastern,310,50,9,-8
+D.C. United,2022,16,26,10,0.031615,25,191,rising,35,9,17,8,13,0,missed_playoffs,Eastern,375,60,13,-3
+D.C. United,2023,21,27,6,0.025233,24,176,falling,36,9,17,8,13,0,missed_playoffs,Eastern,450,70,15,-6
+D.C. United,2024,25,24,-1,0.022058,24,139,falling,39,10,16,8,10,0,missed_playoffs,Eastern,515,78,14,-11
+FC Dallas,2018,14,16,2,0.035953,24,196,stable,43,11,13,10,9,1,first_round,Western,185,32,19,5
+FC Dallas,2019,8,6,-2,0.044065,27,275,rising,51,15,11,8,4,1,conference_semifinal,Western,195,34,20,12
+FC Dallas,2020,11,26,15,0.037459,24,195,falling,0,0,0,0,0,0,withdrew_covid,Western,180,28,22,11
+FC Dallas,2021,27,22,-5,0.023409,23,100,falling,36,9,17,8,11,0,missed_playoffs,Western,215,36,20,-7
+FC Dallas,2022,12,20,8,0.034769,26,215,rising,43,12,14,8,10,0,missed_playoffs,Western,270,46,22,10
+FC Dallas,2023,20,18,-2,0.026868,27,185,falling,44,12,13,9,9,0,missed_playoffs,Western,330,54,23,3
+FC Dallas,2024,21,17,-4,0.025474,28,165,rising,46,13,13,8,10,1,first_round,Western,385,62,23,2
+Houston Dynamo FC,2018,11,14,3,0.037878,25,207,stable,44,12,14,8,8,1,conference_final,Western,195,34,17,6
+Houston Dynamo FC,2019,22,21,-1,0.024136,25,134,falling,37,10,16,8,11,0,missed_playoffs,Western,200,36,18,-4
+Houston Dynamo FC,2020,20,20,0,0.024478,22,115,falling,24,6,9,1,9,0,missed_playoffs,Western,185,30,20,0
+Houston Dynamo FC,2021,18,22,4,0.031007,26,141,rising,36,9,17,8,11,0,missed_playoffs,Western,210,36,22,4
+Houston Dynamo FC,2022,27,12,-15,0.01942,23,102,falling,46,13,14,7,8,1,first_round,Western,265,46,24,-3
+Houston Dynamo FC,2023,12,6,-6,0.034745,26,258,rising,52,15,12,7,6,1,MLS Cup Runner-up,Western,325,54,25,13
+Houston Dynamo FC,2024,23,15,-8,0.023492,26,150,falling,47,13,13,8,9,1,conference_semifinal,Western,375,62,25,2
+Inter Miami CF,2020,10,24,14,0.041884,26,218,rising,16,4,10,2,10,0,missed_playoffs,Eastern,200,22,16,6
+Inter Miami CF,2021,20,20,0,0.029937,21,137,falling,39,10,16,8,11,0,missed_playoffs,Eastern,215,30,20,0
+Inter Miami CF,2022,9,13,4,0.039933,25,253,rising,44,12,14,8,8,1,first_round,Eastern,285,46,19,10
+Inter Miami CF,2023,1,2,1,0.07308,28,594,rising,54,16,10,8,4,1,conference_semifinal,Eastern,970,120,1,0
+Inter Miami CF,2024,1,2,1,0.066252,28,501,falling,61,18,9,7,2,1,conference_final,Eastern,1200,165,1,0
+LA Galaxy,2018,1,13,12,0.059933,24,348,stable,45,13,13,8,7,1,MLS Cup Runner-up,Western,480,82,2,1
+LA Galaxy,2019,3,12,9,0.053133,26,339,falling,44,12,13,9,9,1,first_round,Western,500,86,1,-2
+LA Galaxy,2020,8,15,7,0.045497,26,243,falling,26,6,9,3,8,0,missed_playoffs,Western,440,64,2,-6
+LA Galaxy,2021,8,16,8,0.04145,27,198,rising,41,11,14,9,9,0,missed_playoffs,Western,480,76,1,-7
+LA Galaxy,2022,3,10,7,0.053019,27,346,rising,48,14,13,7,6,1,conference_semifinal,Western,585,92,3,0
+LA Galaxy,2023,6,6,0,0.04524,28,348,falling,52,15,10,9,5,1,conference_semifinal,Western,900,118,3,-3
+LA Galaxy,2024,6,3,-3,0.050819,28,376,rising,56,17,10,7,4,1,MLS Cup Runner-up,Western,1050,138,3,-3
+LAFC,2018,9,4,-5,0.040894,25,226,stable,57,16,9,9,1,1,conference_semifinal,Western,300,50,9,0
+LAFC,2019,6,1,-5,0.047262,26,301,rising,72,21,4,9,1,1,conference_final,Western,390,64,5,-1
+LAFC,2020,4,5,1,0.054659,25,300,falling,41,11,5,4,2,1,conference_final,Western,355,50,5,1
+LAFC,2021,22,9,-13,0.029364,25,133,falling,51,15,11,8,4,1,conference_semifinal,Western,410,62,6,-16
+LAFC,2022,4,1,-3,0.052616,26,344,rising,67,21,6,7,1,1,MLS Cup Winner,Western,780,102,1,-3
+LAFC,2023,2,4,2,0.063927,28,510,stable,53,16,11,7,3,1,conference_semifinal,Western,970,126,1,-1
+LAFC,2024,7,4,-3,0.04886,28,358,falling,55,16,10,8,6,1,first_round,Western,1100,148,2,-5
+Minnesota United FC,2018,19,21,2,0.032568,24,169,stable,36,9,16,9,12,0,missed_playoffs,Western,185,30,19,0
+Minnesota United FC,2019,20,12,-8,0.029151,26,169,falling,44,12,14,8,8,1,conference_semifinal,Western,200,34,18,-2
+Minnesota United FC,2020,17,6,-11,0.030941,24,155,stable,38,10,6,4,3,1,conference_semifinal,Western,190,28,18,1
+Minnesota United FC,2021,25,13,-12,0.024997,21,109,falling,46,12,12,10,7,1,first_round,Western,225,38,18,-7
+Minnesota United FC,2022,26,13,-13,0.022785,24,122,falling,44,12,14,8,10,0,missed_playoffs,Western,285,48,19,-7
+Minnesota United FC,2023,26,18,-8,0.021315,27,136,rising,44,12,13,9,8,0,missed_playoffs,Western,350,56,20,-6
+Minnesota United FC,2024,14,12,-2,0.032972,27,228,rising,48,13,12,9,8,1,first_round,Western,405,64,21,7
+Nashville SC,2020,5,10,5,0.050754,25,275,rising,33,8,6,4,5,1,conference_semifinal,Eastern,190,26,18,13
+Nashville SC,2021,19,7,-12,0.030912,25,141,falling,52,15,11,8,4,1,conference_semifinal,Eastern,260,42,15,-4
+Nashville SC,2022,15,5,-10,0.032893,27,200,rising,55,17,8,9,1,1,Supporters_Shield,Eastern,380,62,11,-4
+Nashville SC,2023,13,13,0,0.034205,26,254,rising,47,14,12,8,4,1,first_round,Eastern,460,74,12,-1
+Nashville SC,2024,12,20,8,0.03418,28,235,falling,44,12,13,9,8,1,first_round,Eastern,520,84,13,1
+New England Revolution,2018,21,14,-7,0.024726,21,125,stable,44,12,13,9,9,1,first_round,Eastern,260,46,11,-10
+New England Revolution,2019,19,18,-1,0.029643,24,173,rising,40,10,14,10,10,1,first_round,Eastern,270,48,11,-8
+New England Revolution,2020,25,9,-16,0.018303,20,78,falling,34,9,6,5,3,1,conference_final,Eastern,250,40,11,-14
+New England Revolution,2021,5,1,-4,0.047254,27,232,rising,73,22,5,7,1,1,Supporters_Shield,Eastern,305,52,11,6
+New England Revolution,2022,25,20,-5,0.026355,25,153,falling,43,12,14,8,11,0,missed_playoffs,Eastern,380,62,11,-14
+New England Revolution,2023,15,14,-1,0.033262,28,243,rising,46,13,12,9,6,1,first_round,Eastern,455,72,14,-1
+New England Revolution,2024,19,22,3,0.027871,26,187,falling,42,11,14,9,9,0,missed_playoffs,Eastern,510,80,15,-4
+New York City FC,2018,17,6,-11,0.03441,26,186,stable,54,15,8,11,2,1,conference_final,Eastern,350,64,6,-11
+New York City FC,2019,17,2,-15,0.030207,24,176,rising,55,16,9,9,3,1,conference_semifinal,Eastern,375,68,6,-11
+New York City FC,2020,18,12,-6,0.030072,25,144,falling,29,7,7,4,9,1,first_round,Eastern,345,54,6,-12
+New York City FC,2021,3,10,7,0.049476,26,243,rising,50,15,11,8,6,1,MLS Cup Winner,Eastern,415,72,5,2
+New York City FC,2022,5,23,18,0.044871,28,284,falling,42,12,14,8,12,0,missed_playoffs,Eastern,600,92,2,-3
+New York City FC,2023,10,24,14,0.037983,28,286,falling,42,11,14,9,11,0,missed_playoffs,Eastern,730,108,5,-5
+New York City FC,2024,8,15,7,0.044492,28,323,rising,47,13,12,9,6,1,conference_semifinal,Eastern,840,122,5,-3
+New York Red Bulls,2018,6,1,-5,0.047455,25,268,stable,71,22,7,5,1,1,conference_final,Eastern,355,60,5,-1
+New York Red Bulls,2019,21,5,-16,0.024679,24,138,falling,52,15,11,8,4,1,conference_semifinal,Eastern,370,64,7,-14
+New York Red Bulls,2020,24,15,-9,0.020278,20,89,stable,26,7,8,3,8,1,first_round,Eastern,335,50,7,-17
+New York Red Bulls,2021,13,15,2,0.034769,24,163,rising,43,12,13,9,8,1,conference_semifinal,Eastern,380,64,7,-6
+New York Red Bulls,2022,11,13,2,0.037581,27,233,rising,44,12,14,8,11,0,missed_playoffs,Eastern,460,76,7,-4
+New York Red Bulls,2023,9,14,5,0.038758,28,295,stable,46,13,12,9,9,1,first_round,Eastern,555,88,8,-1
+New York Red Bulls,2024,9,8,-1,0.037225,26,269,falling,52,15,11,8,8,1,conference_semifinal,Eastern,635,98,8,-1
+Orlando City SC,2018,12,22,10,0.036862,24,203,stable,35,8,15,11,13,0,missed_playoffs,Eastern,195,34,17,5
+Orlando City SC,2019,16,12,-4,0.030669,27,178,falling,44,12,14,8,7,1,first_round,Eastern,210,38,16,0
+Orlando City SC,2020,1,2,1,0.06838,27,379,rising,45,12,7,3,2,1,conference_final,Eastern,200,30,16,15
+Orlando City SC,2021,4,12,8,0.048121,26,236,falling,47,14,13,7,7,1,conference_semifinal,Eastern,245,42,16,12
+Orlando City SC,2022,19,8,-11,0.028185,25,167,falling,52,15,11,8,4,1,conference_final,Eastern,315,54,16,-3
+Orlando City SC,2023,17,23,6,0.029924,27,216,rising,43,12,13,9,10,0,missed_playoffs,Eastern,390,64,17,0
+Orlando City SC,2024,15,19,4,0.03247,27,226,rising,45,13,14,7,9,0,missed_playoffs,Eastern,455,74,17,2
+Philadelphia Union,2018,18,9,-9,0.032755,26,173,stable,50,14,11,9,5,1,conference_semifinal,Eastern,200,36,15,-3
+Philadelphia Union,2019,9,4,-5,0.036626,26,221,stable,54,16,10,8,2,1,conference_final,Eastern,215,38,14,5
+Philadelphia Union,2020,13,3,-10,0.036142,25,187,rising,44,12,5,9,1,1,MLS Cup Runner-up,Eastern,210,34,14,1
+Philadelphia Union,2021,2,5,3,0.050915,25,230,rising,54,16,9,9,3,1,conference_final,Eastern,265,46,14,12
+Philadelphia Union,2022,2,1,-1,0.058492,28,374,rising,67,21,5,8,1,1,MLS Cup Runner-up,Eastern,420,68,9,7
+Philadelphia Union,2023,5,11,6,0.045243,28,348,falling,50,15,12,7,5,1,first_round,Eastern,510,80,10,5
+Philadelphia Union,2024,10,12,2,0.037065,28,261,falling,48,13,12,9,7,1,conference_semifinal,Eastern,575,88,10,0
+Portland Timbers,2018,4,11,7,0.050041,26,287,stable,47,13,12,9,6,1,conference_semifinal,Western,310,56,7,3
+Portland Timbers,2019,7,10,3,0.04578,26,288,falling,47,13,12,9,6,1,MLS Cup Winner,Western,330,58,8,1
+Portland Timbers,2020,9,12,3,0.043044,26,227,falling,29,7,7,4,7,0,missed_playoffs,Western,305,48,8,-1
+Portland Timbers,2021,7,11,4,0.042369,26,204,stable,49,14,12,8,6,1,MLS Cup Runner-up,Western,355,60,8,1
+Portland Timbers,2022,10,20,10,0.039024,28,239,falling,43,12,14,8,11,0,missed_playoffs,Western,440,72,8,-2
+Portland Timbers,2023,28,17,-11,0.018766,20,116,falling,45,12,12,10,7,1,first_round,Western,520,82,9,-19
+Portland Timbers,2024,22,20,-2,0.025453,27,166,rising,44,12,13,9,11,0,missed_playoffs,Western,580,90,9,-13
+Real Salt Lake,2018,23,16,-7,0.020023,21,94,stable,43,11,13,10,10,1,first_round,Western,175,30,21,-2
+Real Salt Lake,2019,12,9,-3,0.034217,26,206,rising,48,13,12,9,7,1,first_round,Western,180,32,23,11
+Real Salt Lake,2020,12,14,2,0.03725,22,196,rising,28,6,8,6,10,0,missed_playoffs,Western,170,26,25,13
+Real Salt Lake,2021,9,16,7,0.039487,27,188,stable,41,11,15,8,10,0,missed_playoffs,Western,200,34,25,16
+Real Salt Lake,2022,13,10,-3,0.033656,25,207,falling,48,14,14,6,7,1,first_round,Western,255,44,26,13
+Real Salt Lake,2023,25,2,-23,0.022007,25,143,falling,54,16,10,8,4,1,conference_semifinal,Western,315,52,27,2
+Real Salt Lake,2024,17,4,-13,0.029652,28,198,rising,55,16,10,8,5,1,conference_semifinal,Western,365,60,27,10
+San Jose Earthquakes,2018,22,23,1,0.022542,21,111,stable,34,8,16,10,14,0,missed_playoffs,Western,195,34,17,-5
+San Jose Earthquakes,2019,24,22,-2,0.020998,23,112,stable,36,9,16,9,12,0,missed_playoffs,Western,200,36,18,-6
+San Jose Earthquakes,2020,21,22,1,0.023157,20,109,rising,22,5,10,3,12,0,missed_playoffs,Western,185,28,20,-1
+San Jose Earthquakes,2021,26,24,-2,0.023666,22,101,rising,34,9,18,7,12,0,missed_playoffs,Western,215,36,20,-6
+San Jose Earthquakes,2022,28,27,-1,0.018503,23,96,falling,31,7,20,7,14,0,missed_playoffs,Western,270,46,22,-6
+San Jose Earthquakes,2023,27,26,-1,0.019524,26,120,stable,38,10,16,8,12,0,missed_playoffs,Western,330,54,23,-4
+San Jose Earthquakes,2024,27,28,1,0.020385,24,124,rising,35,8,17,9,14,0,missed_playoffs,Western,380,62,24,-3
+Seattle Sounders FC,2018,3,8,5,0.05375,24,311,stable,52,15,11,8,3,1,MLS Cup Runner-up,Western,385,68,4,1
+Seattle Sounders FC,2019,1,2,1,0.067672,27,441,rising,55,16,9,9,2,1,MLS Cup Winner,Western,420,74,4,3
+Seattle Sounders FC,2020,7,3,-4,0.049476,25,266,falling,44,12,6,2,1,1,conference_final,Western,390,58,4,-3
+Seattle Sounders FC,2021,1,4,3,0.061959,27,309,falling,55,16,9,9,3,1,MLS Cup Winner,Western,455,76,3,2
+Seattle Sounders FC,2022,6,7,1,0.044471,27,283,falling,53,16,10,8,2,1,CONCACAF_CCL_Winner,Western,560,88,4,-2
+Seattle Sounders FC,2023,4,11,7,0.04576,28,344,stable,50,15,11,8,6,1,conference_semifinal,Western,780,108,4,0
+Seattle Sounders FC,2024,5,8,3,0.051748,28,379,rising,52,15,11,8,7,1,conference_semifinal,Western,920,128,4,-1
+Sporting Kansas City,2018,20,3,-17,0.032156,23,172,stable,58,18,8,8,2,1,conference_final,Western,250,46,12,-8
+Sporting Kansas City,2019,23,16,-7,0.022417,24,122,falling,42,11,14,9,9,1,first_round,Western,260,48,12,-11
+Sporting Kansas City,2020,22,6,-16,0.022901,21,107,stable,38,10,6,4,3,1,conference_semifinal,Western,240,38,13,-9
+Sporting Kansas City,2021,12,7,-5,0.035843,25,169,rising,52,15,12,7,5,1,conference_semifinal,Western,285,50,13,1
+Sporting Kansas City,2022,18,24,6,0.028243,23,167,falling,41,11,14,9,12,0,missed_playoffs,Western,355,60,15,-3
+Sporting Kansas City,2023,23,27,4,0.023167,26,154,falling,36,9,17,8,11,0,missed_playoffs,Western,435,70,16,-7
+Sporting Kansas City,2024,24,27,3,0.022968,26,144,stable,37,9,17,8,13,0,missed_playoffs,Western,490,78,16,-8
+St. Louis City SC,2023,22,6,-16,0.023414,26,156,rising,52,15,11,8,5,1,first_round,Western,185,38,28,6
+St. Louis City SC,2024,29,29,0,0.013618,21,69,falling,28,6,18,10,14,0,missed_playoffs,Western,260,52,28,-1
+Toronto FC,2018,5,4,-1,0.048603,25,277,stable,57,17,9,8,2,1,conference_semifinal,Eastern,420,76,3,-2
+Toronto FC,2019,2,8,6,0.056236,27,363,rising,49,14,12,8,5,1,conference_semifinal,Eastern,450,80,3,1
+Toronto FC,2020,3,15,12,0.060138,25,332,falling,26,6,9,3,13,0,missed_playoffs,Eastern,415,62,3,0
+Toronto FC,2021,10,27,17,0.038724,23,186,falling,27,6,18,10,14,0,missed_playoffs,Eastern,455,72,3,-7
+Toronto FC,2022,7,28,21,0.042574,25,271,rising,28,7,19,8,14,0,missed_playoffs,Eastern,535,86,5,-2
+Toronto FC,2023,11,29,18,0.037972,27,285,stable,35,8,18,8,14,0,missed_playoffs,Eastern,680,100,6,-5
+Toronto FC,2024,4,25,21,0.052218,28,385,rising,38,9,16,9,12,0,missed_playoffs,Eastern,780,112,6,2
+Vancouver Whitecaps FC,2018,15,18,3,0.03587,26,194,stable,41,11,14,9,11,0,missed_playoffs,Western,175,30,21,6
+Vancouver Whitecaps FC,2019,14,19,5,0.033197,25,199,falling,39,10,15,9,11,0,missed_playoffs,Western,185,32,21,7
+Vancouver Whitecaps FC,2020,6,11,5,0.050088,24,272,rising,31,7,7,6,6,1,first_round,Western,175,26,23,17
+Vancouver Whitecaps FC,2021,21,19,-2,0.029884,24,136,falling,40,11,16,7,8,0,missed_playoffs,Western,205,34,24,3
+Vancouver Whitecaps FC,2022,17,13,-4,0.030103,27,180,rising,44,12,13,9,8,1,first_round,Western,260,44,25,8
+Vancouver Whitecaps FC,2023,18,4,-14,0.028192,27,200,falling,53,16,10,8,3,1,conference_semifinal,Western,320,52,26,8
+Vancouver Whitecaps FC,2024,13,11,-2,0.033082,28,227,rising,50,14,11,9,8,1,first_round,Western,370,60,26,13

@@ -1,0 +1,530 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Pogba"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alberth Elis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Lodeiro"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Dom\u00e8nec Torrent"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "JOSHUA TREE"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Jason Kreis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "S\u00e9bastien Le Toux"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefan Aigner"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marc Burch"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Cronin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mohammed Saeid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Gatt"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle 2-0 Win Post-Match Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle 2-0 Win"
+    },
+    {
+      "entity_type": "player",
+      "id": "Our Wondo"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick Lima"
+    },
+    {
+      "entity_type": "player",
+      "id": "Guram Kashia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Monarchs"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Salloi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell](https://twitter.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Khiry Shelton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Salloi](https://twitter.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eric Alexander"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roger Espinoza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Willis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Carrol"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dylan Wolpers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Ching\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Representing Houston"
+    },
+    {
+      "entity_type": "player",
+      "id": "Megan Ryan's"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlie Davies"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Vieira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesse Marsch"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Osorio"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Valeri"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Paul Pogba"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Alberth Elis"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Nicolas Lodeiro"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Will Osorio"
+    },
+    {
+      "weight": 1,
+      "source": "Alberth Elis",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Alberth Elis",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Alberth Elis",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nicolas Lodeiro",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Nicolas Lodeiro",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Nicolas Lodeiro",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Stefan Aigner"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle 2-0 Win Post-Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle 2-0 Win"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Monarchs"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Our Wondo"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Dom\u00e8nec Torrent"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Patrick Vieira"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "JOSHUA TREE"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jason Kreis"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "S\u00e9bastien Le Toux"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Marc Burch"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Sam Cronin"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Mohammed Saeid"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Josh Gatt"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Dylan Wolpers"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Megan Ryan's"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Seattle 2-0 Win Post-Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Seattle 2-0 Win"
+    },
+    {
+      "weight": 1,
+      "source": "Our Wondo",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Nick Lima"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Guram Kashia"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell](https://twitter.com"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Khiry Shelton"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Daniel Salloi](https://twitter.com"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Eric Alexander"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Roger Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Joe Willis"
+    },
+    {
+      "weight": 1,
+      "source": "Daniel Salloi",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Johnny Russell](https://twitter.com",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Khiry Shelton",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Daniel Salloi](https://twitter.com",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Eric Alexander",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Roger Espinoza",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Joe Willis",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Brian Ching\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Representing Houston"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "John Carrol"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Charlie Davies"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Patrick Vieira"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Jesse Marsch"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Match Thread"
+    }
+  ]
+}

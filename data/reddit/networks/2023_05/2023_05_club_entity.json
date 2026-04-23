@@ -1,0 +1,390 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Benteke"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brek Shea"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Tsay"
+    },
+    {
+      "entity_type": "player",
+      "id": "DJ Lord"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eric BoBo"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Keith Costigan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Klein"
+    },
+    {
+      "entity_type": "player",
+      "id": "Galaxy Supporters"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ercan Kara"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Good"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83c\udfaf Lalas Abubakar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fuck Tony"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Conor Casey"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Player"
+    },
+    {
+      "entity_type": "player",
+      "id": "Quake Marcos L\u00f3pez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cody Baker Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cody Baker"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefan Frei"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Atencio - Bellevue"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cody Baker - Issaquah\nReed Baker-Whiting - Seattle"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Dobbelaere - Seattle"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris - Mercer Island"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chicago Fire-themed"
+    },
+    {
+      "entity_type": "player",
+      "id": "Boniek Garcia"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Che"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gerhard Struber"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Hiebert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Valeri"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zac McGraw"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Vamos United"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Christian Benteke"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Brek Shea"
+    },
+    {
+      "weight": 1,
+      "source": "Brek Shea",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Brandon Tsay"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "DJ Lord"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Eric BoBo"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Galaxy Supporters"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Keith Costigan"
+    },
+    {
+      "weight": 2,
+      "source": "LA Galaxy",
+      "target": "Chris Klein"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Galaxy Supporters"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Ercan Kara"
+    },
+    {
+      "weight": 1,
+      "source": "Galaxy Supporters",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Chicago Fire-themed"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Real Good"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "\ud83c\udfaf Lalas Abubakar"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Fuck Tony"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Conor Casey"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "MLS Player"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Quake Marcos L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cody Baker Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cody Baker"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Stefan Frei"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Josh Atencio - Bellevue"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cody Baker - Issaquah\nReed Baker-Whiting - Seattle"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ethan Dobbelaere - Seattle"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jordan Morris - Mercer Island"
+    },
+    {
+      "weight": 1,
+      "source": "Josh Atencio - Bellevue",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Josh Atencio - Bellevue",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Cody Baker - Issaquah\nReed Baker-Whiting - Seattle",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Cody Baker - Issaquah\nReed Baker-Whiting - Seattle",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Ethan Dobbelaere - Seattle",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Ethan Dobbelaere - Seattle",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Jordan Morris - Mercer Island",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Jordan Morris - Mercer Island",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Zac McGraw"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Justin Che"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Gerhard Struber"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Kyle Hiebert"
+    }
+  ]
+}

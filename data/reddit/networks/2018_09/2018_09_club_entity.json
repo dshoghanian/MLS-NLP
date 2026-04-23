@@ -1,0 +1,298 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Anthem"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dark Money"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wear Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Antoine Griezmann"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Beckham's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Portland MNUFC\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Damir Kreilach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier Morales"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick Rimando"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seat Geek"
+    },
+    {
+      "entity_type": "player",
+      "id": "Madison Pro Soccer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pro Soccer USA"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "89'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yellow Card"
+    },
+    {
+      "entity_type": "player",
+      "id": "NY-Alex"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kemar Lawrence"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Semi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caleb Porter"
+    },
+    {
+      "entity_type": "player",
+      "id": "Los Dos Diegos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Miazga"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Carl Robinson Vancouver"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Carl Robinson"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Anthem"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Dark Money"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Wear Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Antoine Griezmann"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "David Beckham's"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Portland MNUFC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Madison Pro Soccer"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Pro Soccer USA"
+    },
+    {
+      "weight": 1,
+      "source": "Portland MNUFC\u2019s",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Caleb Porter"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Los Dos Diegos"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Damir Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Javier Morales"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Nick Rimando"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Seat Geek"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Matt Miazga"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "89'"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Yellow Card"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "NY-Alex"
+    },
+    {
+      "weight": 1,
+      "source": "89'",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Yellow Card",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "NY-Alex",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Kemar Lawrence"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "MLS Semi"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "MLS Semi"
+    },
+    {
+      "weight": 1,
+      "source": "MLS Semi",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Carl Robinson Vancouver"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Carl Robinson"
+    }
+  ]
+}

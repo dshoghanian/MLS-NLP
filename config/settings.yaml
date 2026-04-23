@@ -1,0 +1,73 @@
+# Pipeline-wide settings
+
+pipeline:
+  # Base data directory (relative to project root)
+  data_dir: "data"
+  state_dir: "state"
+  log_dir: "logs"
+
+  # Log level: DEBUG, INFO, WARNING, ERROR
+  log_level: "INFO"
+
+collection:
+  # Whether to attempt full-text extraction for each article URL
+  extract_full_text: true
+  # Full text extraction timeout (seconds)
+  extraction_timeout: 8
+  # Minimum article text length to keep (chars)
+  min_text_length: 100
+  # Maximum articles to store per month (0 = unlimited)
+  max_articles_per_month: 0
+  # Whether to skip months already marked complete in the checkpoint DB
+  skip_completed: true
+  # Deduplication: "url" or "content_hash"
+  dedup_strategy: "url_and_content"
+
+enrichment:
+  # spaCy model to use
+  spacy_model: "en_core_web_sm"
+  # Batch size for spaCy processing
+  spacy_batch_size: 32
+  # Whether to run sentiment analysis
+  run_sentiment: true
+  # Whether to classify event type
+  run_event_classification: true
+  # Minimum confidence for entity match (0.0–1.0)
+  entity_match_threshold: 0.7
+  # Skip already-enriched files
+  skip_completed: true
+
+networks:
+  # Time windows for network construction
+  # Options: "monthly", "quarterly", "yearly"
+  time_windows:
+    - "yearly"
+    - "quarterly"
+    - "monthly"
+  # Minimum co-occurrence count to create an edge
+  min_edge_weight: 2
+  # Whether to build directed or undirected graphs
+  directed: false
+  # Network types to build
+  build_club_cooccurrence: true
+  build_club_entity: true
+  # Domains excluded from network construction (aggregators that inflate co-occurrence).
+  # Articles from these domains are kept in enriched data but not used to build graphs.
+  excluded_domains:
+    - themaneland.com
+  # Drop articles where avg clubs per article suggests automated roundup.
+  # Any article mentioning more than this many clubs is excluded from network edges.
+  max_clubs_per_article: 8
+
+analysis:
+  # Centrality measures to compute
+  centrality_measures:
+    - "degree"
+    - "eigenvector"
+    - "pagerank"
+    - "betweenness"
+    - "closeness"
+  # Narrative momentum rolling window (in time periods)
+  momentum_window: 3
+  # Output format: "csv" or "parquet"
+  output_format: "csv"

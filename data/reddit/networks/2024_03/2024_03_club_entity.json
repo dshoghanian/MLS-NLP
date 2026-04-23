@@ -1,0 +1,305 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Wolff"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Wolff Nothing"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Liel Abada"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Yedlin"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Olivier Giroud"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gooo G\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joseph Paintsil"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Concept Kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cavan Sullivan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fidel Barajas"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeremy Ebobisse"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benny Feilhaber"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Herrera"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nico Estevez"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paxton Pomykal"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Marc de Grandpr\u00e9"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joakim Nilsson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Ahmed"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Josh Wolff"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Josh Wolff Nothing"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Liel Abada"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "DeAndre Yedlin"
+    },
+    {
+      "weight": 1,
+      "source": "DeAndre Yedlin",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 2,
+      "source": "LAFC",
+      "target": "Olivier Giroud"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Gooo G\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Joseph Paintsil"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Away Concept Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Cavan Sullivan"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Fidel Barajas"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jeremy Ebobisse"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ali Ahmed"
+    },
+    {
+      "weight": 1,
+      "source": "Jeremy Ebobisse",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Benny Feilhaber"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Nico Estevez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ali Ahmed"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Paxton Pomykal"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Marc de Grandpr\u00e9"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Joakim Nilsson"
+    }
+  ]
+}

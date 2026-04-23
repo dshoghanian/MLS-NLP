@@ -1,0 +1,880 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebasti\u00e1n Driussi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luciano Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santiago Arias"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Ferrell"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dennis Shroder"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Mavinga"
+    },
+    {
+      "entity_type": "player",
+      "id": "Memo Rodr\u00edguez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Facundo Torres"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marlo Ilic"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Mensa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Mensah"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Peter Vermes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Djevencio van der Kust"
+    },
+    {
+      "entity_type": "player",
+      "id": "Utrecht Houston"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Edwin"
+    },
+    {
+      "entity_type": "player",
+      "id": "DeAndre Yedlin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Battlehawks \ud83e\udd1d"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 2-3 St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 2-3 St. Louis City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jon Gallagher"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Parker"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o Klauss"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick Lima"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zan Kolmanic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julio Cascante"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kipp Keller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leo V\u00e4is\u00e4nen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Owen Wolff"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander Ring"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Pereira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emiliano Rigoni"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Fagundez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Finlay"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Bersano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Jimenez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jhojan Valencia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Bruin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roman B\u00fcrki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jake Nerwinski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Hiebert"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Nelson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Indiana Vassilev"
+    },
+    {
+      "entity_type": "player",
+      "id": "Njabulo Blom"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rasmus Alm"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicholas Gioacchini"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eduard L\u00f6wen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom\u00e1s Ostr\u00e1k"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Perez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jared Stroud"
+    },
+    {
+      "entity_type": "player",
+      "id": "C\u00e9lio Pompeu"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joshua Yaro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Akil Watts"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Lundt"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aziel Jackson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Selmir Pidro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Events"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 2"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "player",
+      "id": "Erik Tillisch"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yohei Takaoka"
+    },
+    {
+      "entity_type": "player",
+      "id": "Best XI"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Espa\u00f1a"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 3,
+      "source": "Austin FC",
+      "target": "Sebasti\u00e1n Driussi"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC kit"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 2-3 St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 2-3 St. Louis City"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jon Gallagher"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Tim Parker"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jo\u00e3o Klauss"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Nick Lima"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Zan Kolmanic"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Julio Cascante"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Kipp Keller"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Leo V\u00e4is\u00e4nen"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Owen Wolff"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Alexander Ring"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Daniel Pereira"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Emiliano Rigoni"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Diego Fagundez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Ethan Finlay"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matt Bersano"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Hector Jimenez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jhojan Valencia"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Will Bruin"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Roman B\u00fcrki"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jake Nerwinski"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Kyle Hiebert"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "John Nelson"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Indiana Vassilev"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Njabulo Blom"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rasmus Alm"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Nicholas Gioacchini"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Eduard L\u00f6wen"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Tom\u00e1s Ostr\u00e1k"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Miguel Perez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jared Stroud"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "C\u00e9lio Pompeu"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Joshua Yaro"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Akil Watts"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Ben Lundt"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Aziel Jackson"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Selmir Pidro"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Match Events"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 1"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 2"
+    },
+    {
+      "weight": 1,
+      "source": "Sebasti\u00e1n Driussi",
+      "target": "St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Luciano Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Santiago Arias"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Will Ferrell"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Chris Mavinga"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Memo Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dennis Shroder"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Chris Mavinga"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Memo Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Facundo Torres"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Marlo Ilic"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jonathan Mensa"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jonathan Mensah"
+    },
+    {
+      "weight": 1,
+      "source": "Jonathan Mensa",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Jonathan Mensah"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Peter Vermes"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Djevencio van der Kust"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Utrecht Houston"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "DeAndre Edwin"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "DeAndre Yedlin"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Battlehawks \ud83e\udd1d"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Austin FC 2-3 St. Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Austin FC 2-3 St. Louis City"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jon Gallagher"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tim Parker"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jo\u00e3o Klauss"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Nick Lima"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Zan Kolmanic"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Julio Cascante"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Kipp Keller"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Leo V\u00e4is\u00e4nen"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Owen Wolff"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Alexander Ring"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Daniel Pereira"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Emiliano Rigoni"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Diego Fagundez"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Ethan Finlay"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Matt Bersano"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Hector Jimenez"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jhojan Valencia"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Will Bruin"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Roman B\u00fcrki"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jake Nerwinski"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Kyle Hiebert"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "John Nelson"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Indiana Vassilev"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Njabulo Blom"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Rasmus Alm"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Nicholas Gioacchini"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Eduard L\u00f6wen"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tom\u00e1s Ostr\u00e1k"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Miguel Perez"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jared Stroud"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "C\u00e9lio Pompeu"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Joshua Yaro"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Akil Watts"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Ben Lundt"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Aziel Jackson"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Selmir Pidro"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Match Events"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Austin FC 1"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Austin FC 2"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Erik Tillisch"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Yohei Takaoka"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Best XI"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Real Espa\u00f1a"
+    }
+  ]
+}

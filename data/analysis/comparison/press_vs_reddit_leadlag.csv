@@ -1,0 +1,30 @@
+club,best_lag_months,max_correlation
+FC Dallas,-37,0.217
+Toronto FC,-31,0.218
+Nashville SC,-11,0.312
+Vancouver Whitecaps FC,-6,0.278
+D.C. United,-6,0.225
+Real Salt Lake,-1,0.23
+New York City FC,0,0.302
+Chicago Fire FC,0,0.206
+Portland Timbers,0,0.237
+Inter Miami CF,0,0.52
+Houston Dynamo FC,0,0.325
+Charlotte FC,0,0.468
+Orlando City SC,0,0.427
+Columbus Crew,0,0.333
+Austin FC,0,0.31
+Minnesota United FC,1,0.322
+New England Revolution,2,0.224
+Atlanta United FC,2,0.251
+Philadelphia Union,5,0.354
+Sporting Kansas City,17,0.285
+St. Louis City SC,20,0.557
+San Jose Earthquakes,25,0.202
+Seattle Sounders FC,31,0.219
+LAFC,32,0.255
+FC Cincinnati,32,0.222
+Colorado Rapids,35,0.25
+LA Galaxy,37,0.185
+CF Montreal,43,0.179
+New York Red Bulls,60,0.234

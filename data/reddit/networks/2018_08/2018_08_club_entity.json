@@ -1,0 +1,440 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fanendo Adi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adam Serrano"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leaked Draft Austin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zlatan Ibrahimovic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pro Soccer USA"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin David] So"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin David"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Morgan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juan Mata"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Blake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cory Burke"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Nicholson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Boateng Stoppage"
+    },
+    {
+      "entity_type": "player",
+      "id": "Niki Jackson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Edgar Castillo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "the King of Spain"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Albert Rusnak"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Krisztian Nemeth"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Carr] .@SportingKC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Reto Ziegler"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bradley Wright-Phillips"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "jersey grabs"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Dale"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jorge Villafa\u00f1a Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jorge Villafa\u00f1a"
+    },
+    {
+      "entity_type": "player",
+      "id": "Peter Stroud"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "LeBron James"
+    },
+    {
+      "entity_type": "player",
+      "id": "James\" LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roberto Dom\u00ednguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ruining Portland's"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Boateng Stoppage"
+    },
+    {
+      "weight": 1,
+      "source": "Bill Hamid",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Andre Blake"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Fanendo Adi"
+    },
+    {
+      "weight": 1,
+      "source": "Fanendo Adi",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Adam Serrano"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Zlatan Ibrahimovic"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Sam Nicholson"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Niki Jackson"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Leaked Draft Austin"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin David] So"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin David"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Pro Soccer USA"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Austin David] So"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Austin David"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Alex Morgan"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Juan Mata"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Cory Burke"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Edgar Castillo"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "the King of Spain"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Albert Rusnak"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake's"
+    },
+    {
+      "weight": 1,
+      "source": "Albert Rusnak",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake's",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Krisztian Nemeth"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Paul Carr] .@SportingKC"
+    },
+    {
+      "weight": 1,
+      "source": "Krisztian Nemeth",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Reto Ziegler"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Bradley Wright-Phillips"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "jersey grabs"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Peter Stroud"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "jersey grabs"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jonathan Dale"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jorge Villafa\u00f1a Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jorge Villafa\u00f1a"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ruining Portland's"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LeBron James"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "James\" LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Roberto Dom\u00ednguez"
+    }
+  ]
+}

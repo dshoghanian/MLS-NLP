@@ -1,0 +1,497 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Heinze"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jackie Venson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jon Gallagher"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dale Austin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Miguel \u00c1ngel Ram\u00edrez Charlotte"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Miguel \u00c1ngel Ram\u00edrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Charlotte"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juan Soto Rocking DCU Kit Juan Soto Rocking DCU Kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83d\ude03 GET"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaap Stam"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matuidi Out Matuidi Out"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matuidi Gonzolo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rual Ruidiaz 67'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rual Ruidiaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark-Anthony Kaye"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price \ud83d\udc68"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 0-[1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Mahomes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders 0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders 1 - ["
+    },
+    {
+      "entity_type": "player",
+      "id": "Cameron Duke"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ignacio Aliseda"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs] Buksa"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kerr]Aaron Heard"
+    },
+    {
+      "entity_type": "player",
+      "id": "Philip Gyau\u2019s Instagram"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Paul Mariner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Valeri"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zack Steffen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 3,
+      "source": "Atlanta United FC",
+      "target": "Gabriel Heinze"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jackie Venson"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jon Gallagher"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Dale Austin"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rual Ruidiaz 67'"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rual Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 0-[1"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Jon Gallagher",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Miguel \u00c1ngel Ram\u00edrez Charlotte"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Miguel \u00c1ngel Ram\u00edrez"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Will Charlotte"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Juan Soto Rocking DCU Kit Juan Soto Rocking DCU Kit"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "\ud83d\ude03 GET"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "\ud83d\ude03 GET"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Paul Mariner"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jaap Stam"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Matuidi Out Matuidi Out"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Matuidi Gonzolo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Rual Ruidiaz 67'"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Rual Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Austin FC 0-[1"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders 0"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders 1 - ["
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cameron Duke"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Mark-Anthony Kaye"
+    },
+    {
+      "weight": 1,
+      "source": "Mark-Anthony Kaye",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price \ud83d\udc68"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "Anderson Julio",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Patrick Mahomes"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Seattle Sounders 0"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Seattle Sounders 1 - ["
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Cameron Duke"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Ignacio Aliseda"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs] Buksa"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Kerr]Aaron Heard"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Philip Gyau\u2019s Instagram"
+    },
+    {
+      "weight": 1,
+      "source": "Kerr]Aaron Heard",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Philip Gyau\u2019s Instagram",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Zack Steffen"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Wayne Rooney"
+    }
+  ]
+}

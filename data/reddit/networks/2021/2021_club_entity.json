@@ -1,0 +1,7595 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aaron Atlanta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hank Aaron"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Besler"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Q2 Stadium - Austin's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Statesman"
+    },
+    {
+      "entity_type": "player",
+      "id": "AUSTIN FC SELECTS DANIEL"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Fagundez"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaminton Campaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tolima Charlotte FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mesut Ozil"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Hernan Losada"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Diego Alonso"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Fray"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelo Claure's"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kim Moon-Hwan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Murillo"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jorge Villafa\u00f1a LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jorge Villafa\u00f1a"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "CF Montr\u00e9al's"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Harrison"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frank Lampard"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sean Johnson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander Ring"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Callens"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Villa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gudmundur Thorarinsson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Walker Zimmerman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Radamel Falcao"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Jacobs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Jansson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Kai Wagner"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Barrios"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Vines"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Wood"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Baird"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justen Glad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Timi Sobowale"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake City"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Layun"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Schmetzer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Henry Wingo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benny Feilhaber"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roger Espinoza"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arlo White"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Joe Mansueto"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Roepken"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Corona"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Ashe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Turner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelyn Rowe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Vieira"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Jewsbury"
+    },
+    {
+      "entity_type": "player",
+      "id": "Felipe Mora"
+    },
+    {
+      "entity_type": "player",
+      "id": "Larrys Mabiala"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vancouver White Caps"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert] Source"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Rose"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom\u00e1s Pochettino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Announce English TV Partnership"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arch Bell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Third Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "player",
+      "id": "Concacaf Men's"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pity Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brenner Souza da Silva"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Shawcross"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miami Herald"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michelle Kaufman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Jersey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dwayne De Rosario"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sup Reddit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodrigo Pi\u00f1eiro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexandre Pato"
+    },
+    {
+      "entity_type": "player",
+      "id": "Silvester van der Water"
+    },
+    {
+      "entity_type": "player",
+      "id": "William Yarbrough"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Edwards Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Edwards"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luke Mulholland"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelyn Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Grant Whal\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Terez Paylor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gianluca Busio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Isimat-Mirin Sporting"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Isimat-Mirin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Donatos Pizza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Salcedo's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Zanotta"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Weah"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Becky Sauerbrunn"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lori Chalupny"
+    },
+    {
+      "entity_type": "player",
+      "id": "Abby Wambach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Serena Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Morrow"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eryk Williamson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Blanco"
+    },
+    {
+      "entity_type": "player",
+      "id": "Evan Newton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nikos Overheul"
+    },
+    {
+      "entity_type": "player",
+      "id": "AUSTIN FC TO PLAY FRANCHISE-OPENING"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandt Bronico Loaned"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bronico Loaned"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joevin Jones"
+    },
+    {
+      "entity_type": "player",
+      "id": "Van Halen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cobain Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Sands"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel R\u00edos Agrees"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leon Flach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Leon Flach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oliver Larraz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jason Kreis"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Ochoa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cade Cowell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dallas Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "entity_type": "player",
+      "id": "MNUFC Re-Signs Osvaldo Alonso MNUFC Re-Signs Osvaldo Alonso"
+    },
+    {
+      "entity_type": "player",
+      "id": "Legendary Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arnor Ingvi Traustason Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arnor Ingvi Traustason"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tajon Buchanan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caio Alexandre"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jasser Khmiri"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Telemundo Charlotte"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC - Artificial Turf Companies"
+    },
+    {
+      "entity_type": "player",
+      "id": "Supporters Shields"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luciano Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Titi Rodriguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leo Jara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Edison Flores"
+    },
+    {
+      "entity_type": "player",
+      "id": "La Barra Brava"
+    },
+    {
+      "entity_type": "player",
+      "id": "District Ultras"
+    },
+    {
+      "entity_type": "player",
+      "id": "Banda del Distrito"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rose Room Collective"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Hern\u00e1n Losada"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Najar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Formula 1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos Black"
+    },
+    {
+      "entity_type": "player",
+      "id": "GONNA LIE"
+    },
+    {
+      "entity_type": "player",
+      "id": "ANTHONY PRECOURT"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthony Precourt"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alfredo Morales"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brenden Aaronson"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Kimball"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Ryan Smith"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefan Frei"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dani Rojas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daaaamn Daniel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aaron Long"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sean Nealis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Gutman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Duncan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian White"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Barlow"
+    },
+    {
+      "entity_type": "player",
+      "id": "Youba Diarra"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sean Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Royer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caden Clark"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristian C\u00e1sseres Jr."
+    },
+    {
+      "entity_type": "player",
+      "id": "Wikelman Carmona"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Meara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andr\u00e9s Reyes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Amro Tarek"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cameron Harper"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Tolkin"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Pulskamp"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lu\u00eds Martins"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaylin Lindsey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gadi Kinda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alan Pulido"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Salloi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Khiry Shelton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roberto Puncec"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wilson Harris"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kaveh Rad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cameron Duke"
+    },
+    {
+      "entity_type": "player",
+      "id": "Grayson Barber"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caden Clark NYRB"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristian Casseres Jr."
+    },
+    {
+      "entity_type": "player",
+      "id": "Mobile App Free"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Beric"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ignacio Aliseda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alvaro Medran"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauricio Pineda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Brady"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Slonina"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicholas Slonina"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Reynolds"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier Casas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Gutierrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Monis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Allan Rodriguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Francisco Calvo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luka Stojanovic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chinonso Offor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stanislav Ivanov"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jhon Jairo Espinoza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jhon Jader Duran"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Bornstein"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Angel Navarro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Shuttleworth"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kenneth Kronholm"
+    },
+    {
+      "entity_type": "player",
+      "id": "G. Slonina"
+    },
+    {
+      "entity_type": "player",
+      "id": "Elliot Collier"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabian Herbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Raphael Wicky"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johan Kappelhof"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Teran"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ram\u00f3n \u00c1bila"
+    },
+    {
+      "entity_type": "player",
+      "id": "TONIGHT REYNOSO STARTS"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adrian Heath"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew Scianitti"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sporting Lisbon"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gotham FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patryk Klimala"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frankie Amaya"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Singh"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yeferson Soteldo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Valeri's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kamron Habibullah"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jean Pyerre"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dos Santos'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelly\u2019s alma mater"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Bobby Belair"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Marc Nicholls"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Nick Kelly"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dos Santos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rubio Rubin 43'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Talles Magno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Tansey] Gazdag's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Gazdag"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Ferguson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Berman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Gabriel Brener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Hollingshead"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gift Card"
+    },
+    {
+      "entity_type": "player",
+      "id": "Card Offer - Terms"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Lod"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gil MVP"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lutz Interview"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kemar Lawrence"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderlecht Kloke"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Stuver - Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Fuchs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chattanooga FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Ingram"
+    },
+    {
+      "entity_type": "player",
+      "id": "RIP Big Rob"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lionel Messi '"
+    },
+    {
+      "entity_type": "player",
+      "id": "Phil Neville"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Larry Freedman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luke Haakenson 91'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bicycle Kick) Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bicycle Kick"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rob McElhenney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bring Wrexham"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Toni Datkovi\u0107"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Jesse Fioranelli"
+    },
+    {
+      "entity_type": "player",
+      "id": "OL Reign"
+    },
+    {
+      "entity_type": "player",
+      "id": "Historic Doubleheader"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeff Cunningham"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Nyarko"
+    },
+    {
+      "entity_type": "player",
+      "id": "Teenage Hadebe"
+    },
+    {
+      "entity_type": "player",
+      "id": "CJ Sapong"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Ferreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matts Hedges"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Luchi Gonzalez's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Kraft"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Don Garber"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gerard Craft Joins"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gerard Craft"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeremy Rutherford"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lutz Pfannenstiel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will St Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Quentin Westberg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Heinze"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jackie Venson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jon Gallagher"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dale Austin"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Miguel \u00c1ngel Ram\u00edrez Charlotte"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Miguel \u00c1ngel Ram\u00edrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Charlotte"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juan Soto Rocking DCU Kit Juan Soto Rocking DCU Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83d\ude03 GET"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaap Stam"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matuidi Out Matuidi Out"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matuidi Gonzolo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rual Ruidiaz 67'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rual Ruidiaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark-Anthony Kaye"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price \ud83d\udc68"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC 0-[1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Mahomes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders 0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders 1 - ["
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs] Buksa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kerr]Aaron Heard"
+    },
+    {
+      "entity_type": "player",
+      "id": "Philip Gyau\u2019s Instagram"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Paul Mariner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Valeri"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zack Steffen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Guzan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Doug Roberson"
+    },
+    {
+      "entity_type": "executive",
+      "id": "\u2066 Nick Kelly \u2069"
+    },
+    {
+      "entity_type": "player",
+      "id": "Guzm\u00e1n Corujo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC - Contract"
+    },
+    {
+      "entity_type": "player",
+      "id": "Landon Donovan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fuck El Tri"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Sands Selected"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Lodeiro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Venezia FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frankie Hejduk"
+    },
+    {
+      "entity_type": "player",
+      "id": "Congrats Gyasi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Manchester United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Navarro"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Matt Jordan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tab Ramos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dark Clouds"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tajon Buchanan's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Derrick Etienne Jr."
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodney Wallace"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Bowman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yo Gotti"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santos Laguna"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruidiaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelino Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Barrios Portland"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Lewis"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Dave Checketts"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Player"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stay Mad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Bradley"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luchi Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ricardo Pepi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Zusi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Game Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bert Kreischer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kick Salt Lake"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Chris Albright"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Vazquez"
+    },
+    {
+      "entity_type": "player",
+      "id": "kick goal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Federico Higua\u00edn"
+    },
+    {
+      "entity_type": "player",
+      "id": "Casey Stengel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anton Tinnerholm"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paxton Aarnonson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stejskal] Top Costa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joel Campbell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alvaro Saborio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stejskal] Top Costa Rican"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Melia"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Pat Onstad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darwin Quintero"
+    },
+    {
+      "entity_type": "player",
+      "id": "Callum Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Supporters'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bruce Arena"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Giovinco"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Info:**"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Clark"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josecarlos van Rankin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dario \u017dupari\u0107"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pablo Bonilla"
+    },
+    {
+      "entity_type": "player",
+      "id": "George Fochive"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristhian Paredes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dairon Asprilla"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yimmi Char\u00e1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hunter Sulte"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zac McGraw"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marvin Lor\u00eda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Blake Bodily"
+    },
+    {
+      "entity_type": "player",
+      "id": "Renzo Zambrano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jaros\u0142aw Niezgoda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santiago Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jakob Nerwi\u0144ski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Florian Jungwirth"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristi\u00e1n Guti\u00e9rrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcus Godinho"
+    },
+    {
+      "entity_type": "player",
+      "id": "Russell Teibert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Janio Bikel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javain Brown"
+    },
+    {
+      "entity_type": "player",
+      "id": "D\u00e9iber Caicedo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thomas Hasal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bruno Gaspar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Baldisimo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leonard Owusu"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Raposo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Metcalfe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Y. Chara"
+    },
+    {
+      "entity_type": "player",
+      "id": "D. Asprilla"
+    },
+    {
+      "entity_type": "player",
+      "id": "B. White"
+    },
+    {
+      "entity_type": "player",
+      "id": "L. Cavallini"
+    },
+    {
+      "entity_type": "player",
+      "id": "B. Gaspar"
+    },
+    {
+      "entity_type": "player",
+      "id": "S. Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "L. Owusu"
+    },
+    {
+      "entity_type": "player",
+      "id": "R. Teibert"
+    },
+    {
+      "entity_type": "player",
+      "id": "J. Niezgoda"
+    },
+    {
+      "entity_type": "player",
+      "id": "F. Mora"
+    },
+    {
+      "entity_type": "player",
+      "id": "Z. McGraw"
+    },
+    {
+      "entity_type": "player",
+      "id": "J. Van Rankin"
+    },
+    {
+      "entity_type": "player",
+      "id": "8.2"
+    },
+    {
+      "entity_type": "player",
+      "id": "75"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Marcinkowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luciano Abecasis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oswaldo Alan\u00eds"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcos L\u00f3pez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier L\u00f3pez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eric Remedi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cristian Espinoza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benjamin Kikanovic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Vega"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy Thompson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Marie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tanner Beason"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Fierro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shea Salinas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Rios"
+    },
+    {
+      "entity_type": "player",
+      "id": "S. Salinas"
+    },
+    {
+      "entity_type": "player",
+      "id": "C. Fierro"
+    },
+    {
+      "entity_type": "player",
+      "id": "C. Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "B. Kikanovic"
+    },
+    {
+      "entity_type": "player",
+      "id": "C. Cowell"
+    },
+    {
+      "entity_type": "player",
+      "id": "J. Brown"
+    },
+    {
+      "entity_type": "player",
+      "id": "T. Ricketts"
+    },
+    {
+      "entity_type": "player",
+      "id": "R. Raposo"
+    },
+    {
+      "entity_type": "player",
+      "id": "J. Bikel"
+    },
+    {
+      "entity_type": "player",
+      "id": "K. Habibullah"
+    },
+    {
+      "entity_type": "player",
+      "id": "4"
+    },
+    {
+      "entity_type": "player",
+      "id": "\n"
+    },
+    {
+      "entity_type": "player",
+      "id": "7.9"
+    },
+    {
+      "entity_type": "player",
+      "id": "86"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "6.7"
+    },
+    {
+      "entity_type": "player",
+      "id": "24 "
+    },
+    {
+      "entity_type": "player",
+      "id": "0"
+    },
+    {
+      "entity_type": "player",
+      "id": "7"
+    },
+    {
+      "entity_type": "player",
+      "id": "3 "
+    },
+    {
+      "entity_type": "player",
+      "id": "6.6"
+    },
+    {
+      "entity_type": "player",
+      "id": "87 "
+    },
+    {
+      "entity_type": "player",
+      "id": "29"
+    },
+    {
+      "entity_type": "player",
+      "id": "5"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rob Valentino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Season Opener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Q2 Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff] Shared"
+    },
+    {
+      "entity_type": "player",
+      "id": "Proud Bailey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Francis Suarez's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jenna Fischer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ronny Deila"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Leitch"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "entity_type": "player",
+      "id": "Niko Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Ezra Hendrickson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wade Barrett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Davy Arnaud"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal's"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Owen Coyle"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Matt Jordan's"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Jake Silverstein"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tab Ramos Dynamo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Boniek Garcia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adrian Hunou"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shep Messing"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Cangialosi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Twitter St. Louis CITY"
+    },
+    {
+      "entity_type": "player",
+      "id": "GM Ali Curtis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Armas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Curtis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Unkel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roger Gonzalez] \ud83d\udea8 Hearing"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miles Robinson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roger Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Bils"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Finlay Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Finlay"
+    },
+    {
+      "entity_type": "player",
+      "id": "Potential Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC Full Schedule"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vinicius Mello"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brendan Hines-Ike"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yaw Yeboah"
+    },
+    {
+      "entity_type": "player",
+      "id": "Home Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lewis Morgan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodolfo Pizarro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Lletget"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steres Galaxy"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Chris Klein"
+    },
+    {
+      "entity_type": "player",
+      "id": "Proud Boy Rally"
+    },
+    {
+      "entity_type": "player",
+      "id": "Valentin Castellanos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frank Anderson - ["
+    },
+    {
+      "entity_type": "player",
+      "id": "Oscar Mitchell Carvalho - ["
+    },
+    {
+      "entity_type": "player",
+      "id": "Fotis Bazakos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander Callens"
+    },
+    {
+      "entity_type": "player",
+      "id": "[](/yellow"
+    },
+    {
+      "entity_type": "player",
+      "id": "[](/sub-off"
+    },
+    {
+      "entity_type": "player",
+      "id": "72'"
+    },
+    {
+      "entity_type": "player",
+      "id": "#7 Alfredo Morales"
+    },
+    {
+      "entity_type": "player",
+      "id": "#27"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Barraza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Tuiloma"
+    },
+    {
+      "entity_type": "player",
+      "id": "#15 Tony Rocha"
+    },
+    {
+      "entity_type": "player",
+      "id": "#17 Ismael"
+    },
+    {
+      "entity_type": "player",
+      "id": "[](/sub"
+    },
+    {
+      "entity_type": "player",
+      "id": "[](/sub-on"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tayvon Gray"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jes\u00fas Medina"
+    },
+    {
+      "entity_type": "player",
+      "id": "Maxi Morales"
+    },
+    {
+      "entity_type": "player",
+      "id": "Van Rankin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Van Rankin's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santiago Rodr\u00edguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ismael Tajouri-Shradi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Char\u00e1"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gudmundur Th\u00f3rarinsson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Malte Amundsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Maxi Moralez"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYCFC Announce Victory Parade"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Joy"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYCFC BATTLES"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mauricio Pereyra"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gaston Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Uri Rosell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Sciaretta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dantouma Toure"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Salazar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alejandro Moreno"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Robin Fraser"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bryan Acosta"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Real Salt Lake Real Salt Lake Names Pablo Mastroeni Permanent"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Daniels"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joevin Jones'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lamar Neagle"
+    },
+    {
+      "entity_type": "coach",
+      "id": "C.J. Brown"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michele Giannone] Been"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cruz Azul"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roberto Alvarado"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Defender"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omar Gonzalez New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omar Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lorenzo Insigne"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alistair Johnson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Forbes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tristan Blackmon"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Aaron Atlanta"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Hank Aaron"
+    },
+    {
+      "weight": 3,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Pity Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Supporters Shields"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Luciano Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Titi Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Leo Jara"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Ben Olsen\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Edison Flores"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "La Barra Brava"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "District Ultras"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Banda del Distrito"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Rose Room Collective"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Hern\u00e1n Losada"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Kelly\u2019s alma mater"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 3,
+      "source": "Atlanta United FC",
+      "target": "Gabriel Heinze"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Marcelino Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Brandon Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Rob Valentino"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Roger Gonzalez] \ud83d\udea8 Hearing"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Miles Robinson"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Roger Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matt Besler"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Q2 Stadium - Austin's"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Statesman"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "AUSTIN FC SELECTS DANIEL"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Diego Fagundez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Corey Roepken"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Joe Corona"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Tom\u00e1s Pochettino"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Announce English TV Partnership"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Arch Bell"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "AUSTIN FC TO PLAY FRANCHISE-OPENING"
+    },
+    {
+      "weight": 2,
+      "source": "Austin FC",
+      "target": "Austin FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "GONNA LIE"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "ANTHONY PRECOURT"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Brad Stuver - Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jackie Venson"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Jon Gallagher"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Dale Austin"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rual Ruidiaz 67'"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rual Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC 0-[1"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Bert Kreischer"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Season Opener"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Q2 Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Chris Bils"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Midfielder"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Ethan Finlay Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Ethan Finlay"
+    },
+    {
+      "weight": 3,
+      "source": "Matt Besler",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Benny Feilhaber"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Roger Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Terez Paylor"
+    },
+    {
+      "weight": 3,
+      "source": "Sporting Kansas City",
+      "target": "Gianluca Busio"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Nicolas Isimat-Mirin Sporting"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Nicolas Isimat-Mirin"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Brad Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Dani Rojas"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Daaaamn Daniel"
+    },
+    {
+      "weight": 3,
+      "source": "Sporting Kansas City",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Aaron Long"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Sean Nealis"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Andrew Gutman"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Kyle Duncan"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Tom Barlow"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Youba Diarra"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Sean Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Daniel Royer"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Caden Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Cristian C\u00e1sseres Jr."
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Wikelman Carmona"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Ryan Meara"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Andr\u00e9s Reyes"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Amro Tarek"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Cameron Harper"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "John Tolkin"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "John Pulskamp"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Lu\u00eds Martins"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Jaylin Lindsey"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Gadi Kinda"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Alan Pulido"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Khiry Shelton"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Roberto Puncec"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Wilson Harris"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Kaveh Rad"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Cameron Duke"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Grayson Barber"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Caden Clark NYRB"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Cristian Casseres Jr."
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Patrick Mahomes"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Seattle Sounders 0"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Seattle Sounders 1 - ["
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Venezia FC"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Tim Melia"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Uri Rosell"
+    },
+    {
+      "weight": 1,
+      "source": "Diego Fagundez",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 3,
+      "source": "New England Revolution",
+      "target": "Matt Turner"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Kelyn Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Legendary Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Andrew Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Arnor Ingvi Traustason Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Arnor Ingvi Traustason"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 2,
+      "source": "New England Revolution",
+      "target": "Tajon Buchanan"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Matthew Scianitti"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Sporting Lisbon"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Gil MVP"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Bob Kraft"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs] Buksa"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tajon Buchanan's"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "MLS Supporters'"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Bruce Arena"
+    },
+    {
+      "weight": 2,
+      "source": "New England Revolution",
+      "target": "Sebastian Lletget"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Omar Gonzalez New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Omar Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Jaminton Campaz"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Tolima Charlotte FC"
+    },
+    {
+      "weight": 2,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC's"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Third Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Brandt Bronico Loaned"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Bronico Loaned"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Telemundo Charlotte"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC - Artificial Turf Companies"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Kelly\u2019s alma mater"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 2,
+      "source": "Charlotte FC",
+      "target": "Christian Fuchs"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Chattanooga FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Miguel \u00c1ngel Ram\u00edrez Charlotte"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Miguel \u00c1ngel Ram\u00edrez"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Will Charlotte"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "\u2066 Nick Kelly \u2069"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Guzm\u00e1n Corujo"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC - Contract"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Alex Bowman"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Potential Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC Full Schedule"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Vinicius Mello"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Jaylin Lindsey"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Tristan Blackmon"
+    },
+    {
+      "weight": 1,
+      "source": "Jaminton Campaz",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Tolima Charlotte FC",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Sean Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Alexander Ring"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Alex Callens"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "David Villa"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Gudmundur Thorarinsson"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Donatos Pizza"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Anthony Precourt"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Jeff Cunningham"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Frankie Hejduk"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Congrats Gyasi"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Pat Onstad"
+    },
+    {
+      "weight": 2,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Mesut Ozil"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Hernan Losada"
+    },
+    {
+      "weight": 2,
+      "source": "D.C. United",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Concacaf Men's"
+    },
+    {
+      "weight": 2,
+      "source": "D.C. United",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Supporters Shields"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Luciano Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Titi Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Leo Jara"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ben Olsen\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Edison Flores"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "La Barra Brava"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "District Ultras"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Banda del Distrito"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Rose Room Collective"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Hern\u00e1n Losada"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Andy Najar"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Joe Tansey] Gazdag's"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Mark Ingram"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "RIP Big Rob"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Phil Neville"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Juan Soto Rocking DCU Kit Juan Soto Rocking DCU Kit"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "\ud83d\ude03 GET"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Yo Gotti"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Marcelino Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Brandon Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steven Goff] Shared"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Brendan Hines-Ike"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Yaw Yeboah"
+    },
+    {
+      "weight": 1,
+      "source": "Wayne Rooney",
+      "target": "New York City FC"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Diego Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Ian Fray"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Marcelo Claure's"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "Ryan Shawcross"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Miami Herald"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Michelle Kaufman"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Joevin Jones"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Formula 1"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Andy Najar"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Lionel Messi '"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Federico Higua\u00edn"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Sean Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Francis Suarez's"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Home Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Lewis Morgan"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Rodolfo Pizarro"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Kim Moon-Hwan"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jesus Murillo"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Corey Baird"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "AUSTIN FC TO PLAY FRANCHISE-OPENING"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Vamos Black"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "GONNA LIE"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "ANTHONY PRECOURT"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Larry Freedman"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Mark-Anthony Kaye"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Alex Ferguson"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jenna Fischer"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Jorge Villafa\u00f1a LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Jorge Villafa\u00f1a"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Away Jersey"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dwayne De Rosario"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Kelly\u2019s alma mater"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Bobby Belair"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Marc Nicholls"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Nick Kelly"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dos Santos"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Landon Donovan"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Vamos Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Adrian Hunou"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Steres Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Chris Klein"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Sebastian Lletget"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Brian Schmetzer"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Henry Wingo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Kelyn Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Van Halen"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cobain Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Away Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Stefan Frei"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Robert Beric"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ignacio Aliseda"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Alvaro Medran"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Mauricio Pineda"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Chris Brady"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Gabriel Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Nicholas Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Andre Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Javier Casas"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brian Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Alex Monis"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Allan Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Francisco Calvo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Luka Stojanovic"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Chinonso Offor"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Stanislav Ivanov"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jhon Jairo Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jhon Jader Duran"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Radamel Falcao"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jonathan Bornstein"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Miguel Angel Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Bobby Shuttleworth"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Kenneth Kronholm"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "G. Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Elliot Collier"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Fabian Herbers"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Raphael Wicky"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Johan Kappelhof"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Carlos Teran"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "TONIGHT REYNOSO STARTS"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "OL Reign"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Historic Doubleheader"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jeremy Rutherford"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Lutz Pfannenstiel"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Rual Ruidiaz 67'"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Rual Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Austin FC 0-[1"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders - Raul Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders 0"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders 1 - ["
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cameron Duke"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Nicolas Lodeiro"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Santos Laguna"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Niko Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ted Unkel"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Chris Daniels"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Joevin Jones"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Joevin Jones'"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Lamar Neagle"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "CF Montr\u00e9al's"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Matuidi Out Matuidi Out"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Matuidi Gonzolo"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Christian Fuchs"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Alistair Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Jack Harrison"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Frank Lampard"
+    },
+    {
+      "weight": 3,
+      "source": "New York City FC",
+      "target": "Sean Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alexander Ring"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alex Callens"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "David Villa"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Gudmundur Thorarinsson"
+    },
+    {
+      "weight": 3,
+      "source": "New York City FC",
+      "target": "James Sands"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Alfredo Morales"
+    },
+    {
+      "weight": 3,
+      "source": "New York City FC",
+      "target": "Talles Magno"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Zack Steffen"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "James Sands Selected"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Casey Stengel"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Anton Tinnerholm"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ronny Deila"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Proud Boy Rally"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Felipe Mora"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Valentin Castellanos"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Frank Anderson - ["
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Oscar Mitchell Carvalho - ["
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Fotis Bazakos"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Alexander Callens"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Josecarlos van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "[](/yellow"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "George Fochive"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "[](/sub-off"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "72'"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "#7 Alfredo Morales"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "\n"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "#27"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Luis Barraza"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Bill Tuiloma"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "#15 Tony Rocha"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Marvin Lor\u00eda"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "#17 Ismael"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "[](/sub"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "[](/sub-on"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Santiago Moreno"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Jaros\u0142aw Niezgoda"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Tayvon Gray"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Yimmi Char\u00e1"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Larrys Mabiala"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Jes\u00fas Medina"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Maxi Morales"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Cristhian Paredes"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Van Rankin's"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Santiago Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ismael Tajouri-Shradi"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Dairon Asprilla"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Diego Char\u00e1"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Gudmundur Th\u00f3rarinsson"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Malte Amundsen"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Maxi Moralez"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "NYCFC Announce Victory Parade"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ian Joy"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "NYCFC BATTLES"
+    },
+    {
+      "weight": 1,
+      "source": "Sean Johnson",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Sean Johnson",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Sean Johnson",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Sean Johnson",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Sean Johnson",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Alexander Ring",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Alexander Ring",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Alexander Ring",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Alexander Ring",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Alexander Ring",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Callens",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Callens",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Callens",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Callens",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Alex Callens",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "David Villa",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "David Villa",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "David Villa",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "David Villa",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "David Villa",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Gudmundur Thorarinsson",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Gudmundur Thorarinsson",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Gudmundur Thorarinsson",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Gudmundur Thorarinsson",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Gudmundur Thorarinsson",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Robin Jansson"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Alexandre Pato"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Silvester van der Water"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Gotham FC"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Brad Guzan"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Doug Roberson"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Stay Mad"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Mauricio Pereyra"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Gaston Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Uri Rosell"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Patrick Vieira"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Justin Morrow"
+    },
+    {
+      "weight": 2,
+      "source": "Toronto FC",
+      "target": "Michael Singh"
+    },
+    {
+      "weight": 3,
+      "source": "Toronto FC",
+      "target": "Yeferson Soteldo"
+    },
+    {
+      "weight": 2,
+      "source": "Toronto FC",
+      "target": "Kemar Lawrence"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Anderlecht Kloke"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Luke Haakenson 91'"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Quentin Westberg"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "\ud83d\ude03 DC 7-1 TFC POST-MATCH"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "\ud83d\ude03 GET"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Paul Mariner"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 2,
+      "source": "Toronto FC",
+      "target": "Sebastian Giovinco"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Matt Jordan"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Wade Barrett"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Davy Arnaud"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ted Segal's"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Owen Coyle"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Pat Onstad"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Matt Jordan's"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jake Silverstein"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "GM Ali Curtis"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Chris Armas"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ali Curtis"
+    },
+    {
+      "weight": 3,
+      "source": "Toronto FC",
+      "target": "Lorenzo Insigne"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Alistair Johnson"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Will Forbes"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Daaaamn Daniel"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Aaron Long"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Sean Nealis"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Andrew Gutman"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Kyle Duncan"
+    },
+    {
+      "weight": 2,
+      "source": "New York Red Bulls",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Tom Barlow"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Youba Diarra"
+    },
+    {
+      "weight": 3,
+      "source": "New York Red Bulls",
+      "target": "Sean Davis"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Daniel Royer"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Caden Clark"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Cristian C\u00e1sseres Jr."
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Wikelman Carmona"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Ryan Meara"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Andr\u00e9s Reyes"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Amro Tarek"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Cameron Harper"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "John Tolkin"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "John Pulskamp"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Nicolas Isimat-Mirin"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Lu\u00eds Martins"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Jaylin Lindsey"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Roger Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Gadi Kinda"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Alan Pulido"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Gianluca Busio"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Khiry Shelton"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Roberto Puncec"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Wilson Harris"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Kaveh Rad"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Cameron Duke"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Grayson Barber"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Caden Clark NYRB"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Cristian Casseres Jr."
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Patryk Klimala"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Frankie Amaya"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Fuck El Tri"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Derrick Etienne Jr."
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Shep Messing"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Steve Cangialosi"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Lewis Morgan"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Defender Kai Wagner"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Leon Flach"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Midfielder Leon Flach"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Brenden Aaronson"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Daniel Gazdag"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Bicycle Kick) Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Bicycle Kick"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Rob McElhenney"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Bring Wrexham"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Kerr]Aaron Heard"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Philip Gyau\u2019s Instagram"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Paxton Aarnonson"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Ian Joy"
+    },
+    {
+      "weight": 4,
+      "source": "Portland Timbers",
+      "target": "Felipe Mora"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Larrys Mabiala"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Eryk Williamson"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sebastian Blanco"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Valeri's"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Dos Santos'"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "OL Reign"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Historic Doubleheader"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jon Gallagher"
+    },
+    {
+      "weight": 4,
+      "source": "Portland Timbers",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Rodney Wallace"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Michael Barrios Portland"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Michael Barrios"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "kick goal"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Match Info:**"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "Josecarlos van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Dario \u017dupari\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Pablo Bonilla"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "George Fochive"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Cristhian Paredes"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Dairon Asprilla"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "Yimmi Char\u00e1"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Hunter Sulte"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Zac McGraw"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Marvin Lor\u00eda"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Blake Bodily"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Renzo Zambrano"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "Jaros\u0142aw Niezgoda"
+    },
+    {
+      "weight": 3,
+      "source": "Portland Timbers",
+      "target": "Santiago Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jakob Nerwi\u0144ski"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Florian Jungwirth"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Cristi\u00e1n Guti\u00e9rrez"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Marcus Godinho"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Russell Teibert"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Janio Bikel"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Javain Brown"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "D\u00e9iber Caicedo"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Thomas Hasal"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Bruno Gaspar"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Michael Baldisimo"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Leonard Owusu"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ryan Raposo"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Patrick Metcalfe"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Y. Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "D. Asprilla"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "B. White"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "L. Cavallini"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "B. Gaspar"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "S. Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "L. Owusu"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "R. Teibert"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "J. Niezgoda"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "F. Mora"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Z. McGraw"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "J. Van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "8.2"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "75"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ted Unkel"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Proud Boy Rally"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Valentin Castellanos"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Frank Anderson - ["
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Oscar Mitchell Carvalho - ["
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Fotis Bazakos"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Alexander Callens"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "[](/yellow"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "[](/sub-off"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "72'"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "#7 Alfredo Morales"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "James Sands"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "\n"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "#27"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Luis Barraza"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Bill Tuiloma"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "#15 Tony Rocha"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "#17 Ismael"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "Talles Magno"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "[](/sub"
+    },
+    {
+      "weight": 2,
+      "source": "Portland Timbers",
+      "target": "[](/sub-on"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Tayvon Gray"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jes\u00fas Medina"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Maxi Morales"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Van Rankin's"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Santiago Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ismael Tajouri-Shradi"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Char\u00e1"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Gudmundur Th\u00f3rarinsson"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Malte Amundsen"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Alfredo Morales"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Maxi Moralez"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "NYCFC BATTLES"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sebastian Salazar"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Alejandro Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Robin Fraser"
+    },
+    {
+      "weight": 2,
+      "source": "Nashville SC",
+      "target": "Walker Zimmerman"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Radamel Falcao"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Mike Jacobs"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Sup Reddit"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Rodrigo Pi\u00f1eiro"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Away Jersey"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Daniel R\u00edos Agrees"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Luke Haakenson 91'"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Sean Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Walker Zimmerman",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Radamel Falcao",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Radamel Falcao",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "Radamel Falcao",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 2,
+      "source": "Colorado Rapids",
+      "target": "Michael Barrios"
+    },
+    {
+      "weight": 2,
+      "source": "Colorado Rapids",
+      "target": "Sam Vines"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "William Yarbrough"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Michael Edwards Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Michael Edwards"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Oliver Larraz"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Mark-Anthony Kaye"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price \ud83d\udc68"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Cole Bassett"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Michael Barrios Portland"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jonathan Lewis"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Brian Sciaretta"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Dantouma Toure"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Sebastian Salazar"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Alejandro Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Robin Fraser"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Bryan Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Michael Barrios",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Andre Zanotta"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Dallas Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Ryan Hollingshead"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Robin Lod"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Luchi Gonzalez"
+    },
+    {
+      "weight": 2,
+      "source": "FC Dallas",
+      "target": "Ricardo Pepi"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Game Thread"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "MLS Defender"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Roger Gonzalez"
+    },
+    {
+      "weight": 3,
+      "source": "Real Salt Lake",
+      "target": "Bobby Wood"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Corey Baird"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Justen Glad"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Timi Sobowale"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake City"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Luke Mulholland"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Andy Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kelyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Grant Whal\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Jason Kreis"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "David Ochoa"
+    },
+    {
+      "weight": 3,
+      "source": "Real Salt Lake",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "John Kimball"
+    },
+    {
+      "weight": 4,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Ryan Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Rubio Rubin 43'"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Defender"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Defender Toni Datkovi\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Landon Donovan"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Dave Checketts"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kick Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Stejskal] Top Costa"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Joel Campbell"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Alvaro Saborio"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Stejskal] Top Costa Rican"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake Real Salt Lake Names Pablo Mastroeni Permanent"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Miguel Layun"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Dwayne De Rosario"
+    },
+    {
+      "weight": 3,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Rubio Rubin 43'"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Jesse Fioranelli"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "MLS Player"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "kick goal"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Match Info:**"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Andy Rose"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jakob Nerwi\u0144ski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Bruno Gaspar"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Russell Teibert"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Leonard Owusu"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "D\u00e9iber Caicedo"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Thomas Hasal"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Marcus Godinho"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Javain Brown"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Janio Bikel"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ryan Raposo"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Patrick Metcalfe"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Michael Baldisimo"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Kamron Habibullah"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "James Marcinkowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Luciano Abecasis"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Oswaldo Alan\u00eds"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Marcos L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Javier L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Eric Remedi"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Cristian Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Benjamin Kikanovic"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Daniel Vega"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "Paul Marie"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tanner Beason"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Carlos Fierro"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Shea Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Andy Rios"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "B. White"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "S. Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "C. Fierro"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "C. Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "B. Kikanovic"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "C. Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "J. Brown"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "T. Ricketts"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "R. Raposo"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "J. Bikel"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "K. Habibullah"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "4"
+    },
+    {
+      "weight": 2,
+      "source": "San Jose Earthquakes",
+      "target": "\n"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "7.9"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "86"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "6.7"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "24 "
+    },
+    {
+      "weight": 4,
+      "source": "San Jose Earthquakes",
+      "target": "0"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "7"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "3 "
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "6.6"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "87 "
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "29"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "5"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Sam Stejskal"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Leitch"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Arlo White"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Joe Mansueto"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "weight": 2,
+      "source": "Chicago Fire FC",
+      "target": "Anthony Precourt"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Mobile App Free"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Robert Beric"
+    },
+    {
+      "weight": 2,
+      "source": "Chicago Fire FC",
+      "target": "Ignacio Aliseda"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Alvaro Medran"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Mauricio Pineda"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Chris Brady"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Gabriel Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nicholas Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Andre Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Javier Casas"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Brian Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Alex Monis"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Allan Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Francisco Calvo"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Luka Stojanovic"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Chinonso Offor"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Stanislav Ivanov"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jhon Jairo Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jhon Jader Duran"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jonathan Bornstein"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Miguel Angel Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bobby Shuttleworth"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Kenneth Kronholm"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "G. Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Elliot Collier"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Fabian Herbers"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Raphael Wicky"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Johan Kappelhof"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Carlos Teran"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bicycle Kick) Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bicycle Kick"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Patrick Nyarko"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Manchester United"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Federico Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Ezra Hendrickson"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "C.J. Brown"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Corey Roepken"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Joe Corona"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Corey Ashe"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Carlos Salcedo's"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Robert Beric"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ignacio Aliseda"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Alvaro Medran"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Mauricio Pineda"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Chris Brady"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Nicholas Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Andre Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Javier Casas"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Brian Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Alex Monis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Allan Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Francisco Calvo"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Luka Stojanovic"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Chinonso Offor"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Stanislav Ivanov"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jhon Jairo Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jhon Jader Duran"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jonathan Bornstein"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Miguel Angel Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Bobby Shuttleworth"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Kenneth Kronholm"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "G. Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Elliot Collier"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Fabian Herbers"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Raphael Wicky"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Johan Kappelhof"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Carlos Teran"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Alex Ferguson"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Mark Berman"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Mark Ingram"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Larry Freedman"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Teenage Hadebe"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Matt Jordan"
+    },
+    {
+      "weight": 3,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 3,
+      "source": "Houston Dynamo FC",
+      "target": "Pat Onstad"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Darwin Quintero"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Wade Barrett"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Davy Arnaud"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal's"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Owen Coyle"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Matt Jordan's"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jake Silverstein"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos Dynamo"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Michele Giannone] Been"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Cruz Azul"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Roberto Alvarado"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jack Jewsbury"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Vancouver White Caps"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tom Bogert] Source"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Andy Rose"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Evan Newton"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Nikos Overheul"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Caio Alexandre"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jasser Khmiri"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Kamron Habibullah"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jean Pyerre"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "CJ Sapong"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Matts Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Luchi Gonzalez's"
+    },
+    {
+      "weight": 4,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 5,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Game Thread"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Match Info:**"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Steve Clark"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Josecarlos van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Dario \u017dupari\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Pablo Bonilla"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "George Fochive"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Cristhian Paredes"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Dairon Asprilla"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Sebasti\u00e1n Blanco"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Yimmi Char\u00e1"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Felipe Mora"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Hunter Sulte"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Zac McGraw"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Marvin Lor\u00eda"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Blake Bodily"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Diego Valeri"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Renzo Zambrano"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jaros\u0142aw Niezgoda"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Santiago Moreno"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jakob Nerwi\u0144ski"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Florian Jungwirth"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Cristi\u00e1n Guti\u00e9rrez"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Marcus Godinho"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Russell Teibert"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Janio Bikel"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Javain Brown"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "D\u00e9iber Caicedo"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Thomas Hasal"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Bruno Gaspar"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Michael Baldisimo"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Leonard Owusu"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Raposo"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Patrick Metcalfe"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Y. Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "D. Asprilla"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "B. White"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "L. Cavallini"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "B. Gaspar"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "S. Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "L. Owusu"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "R. Teibert"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "J. Niezgoda"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "F. Mora"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Z. McGraw"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "J. Van Rankin"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "8.2"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "75"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "James Marcinkowski"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Luciano Abecasis"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Oswaldo Alan\u00eds"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Marcos L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Javier L\u00f3pez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Eric Remedi"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Cristian Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Benjamin Kikanovic"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Daniel Vega"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Paul Marie"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tanner Beason"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Carlos Fierro"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Shea Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Andy Rios"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "S. Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "C. Fierro"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "C. Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "B. Kikanovic"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "C. Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "J. Brown"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "T. Ricketts"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "R. Raposo"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "J. Bikel"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "K. Habibullah"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "4"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "\n"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "7.9"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "86"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "6.7"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "24 "
+    },
+    {
+      "weight": 4,
+      "source": "Vancouver Whitecaps FC",
+      "target": "0"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "7"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "3 "
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "6.6"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "87 "
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "29"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "5"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tristan Blackmon"
+    },
+    {
+      "weight": 1,
+      "source": "Josef Martinez",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Pity Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Brenner Souza da Silva"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Robert Beric"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Ignacio Aliseda"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Alvaro Medran"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Mauricio Pineda"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Chris Brady"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Gabriel Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Nicholas Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Andre Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Javier Casas"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Brian Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Alex Monis"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Allan Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Francisco Calvo"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Luka Stojanovic"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Chinonso Offor"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Stanislav Ivanov"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jhon Jairo Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jhon Jader Duran"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jonathan Bornstein"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Miguel Angel Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Bobby Shuttleworth"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Kenneth Kronholm"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "G. Slonina"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Elliot Collier"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Fabian Herbers"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Raphael Wicky"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Johan Kappelhof"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Carlos Teran"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Frankie Amaya"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jaap Stam"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Chris Albright"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Brandon Vazquez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Paxton Aarnonson"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Season Opener"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Q2 Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Proud Bailey"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Patrick Weah"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MNUFC Re-Signs Osvaldo Alonso MNUFC Re-Signs Osvaldo Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Ram\u00f3n \u00c1bila"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "TONIGHT REYNOSO STARTS"
+    },
+    {
+      "weight": 2,
+      "source": "Minnesota United FC",
+      "target": "Adrian Heath"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "David Ochoa"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Gift Card"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Card Offer - Terms"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Robin Lod"
+    },
+    {
+      "weight": 2,
+      "source": "Minnesota United FC",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Dark Clouds"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Callum Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Diego Chara\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Becky Sauerbrunn"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lori Chalupny"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Abby Wambach"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Serena Williams"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lutz Interview"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Don Garber"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Gerard Craft Joins"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Gerard Craft"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Jeremy Rutherford"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lutz Pfannenstiel"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Will St Louis City SC"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Kerr]Aaron Heard"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Philip Gyau\u2019s Instagram"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Twitter St. Louis CITY"
+    }
+  ]
+}

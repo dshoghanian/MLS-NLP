@@ -1,0 +1,186 @@
+entity,year,avg_pagerank,max_pagerank,avg_degree_centrality,avg_momentum,windows_rising,windows_falling,net_momentum_signal,narrative_trend,network_type
+D.C. United,2018,0.036063,0.036063,0.095238,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2018,0.028953,0.028953,0.095238,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2018,0.2083335,0.25,0.26666650000000003,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2018,0.08409966666666667,0.110039,0.11269866666666668,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2018,0.3333335,0.5,0.6,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2018,0.24444466666666667,0.5,0.42380966666666664,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2018,0.141483,0.25,0.1909524,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2018,0.15654775,0.25,0.19285724999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2018,0.142845,0.25,0.2065475,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2018,0.1795045,0.25,0.23452374999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2018,0.1509324,0.25,0.1985714,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2018,0.018259,0.018259,0.047619,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2018,0.066667,0.066667,0.071429,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2018,0.18807475,0.5,0.334524,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2018,0.051351,0.051351,0.071429,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2018,0.20010825000000002,0.5,0.334524,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2018,0.16374466666666668,0.291891,0.25714299999999995,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2018,0.15295125,0.25,0.2065475,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2018,0.09732500000000001,0.142857,0.136508,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2018,0.090909,0.090909,0.1,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2018,0.152896,0.208493,0.238095,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2018,0.090909,0.090909,0.1,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2019,0.016642,0.016642,0.041667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2019,0.16203700000000001,0.25,0.20039666666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2019,0.12417100000000002,0.154055,0.199074,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2019,0.1416666666666667,0.2,0.16798933333333332,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2019,0.21941725,0.5,0.42083325000000005,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2019,0.17777774999999998,0.25,0.22569424999999999,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2019,0.025712,0.025712,0.083333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2019,0.2212373333333333,0.5,0.412037,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2019,0.17220549999999998,0.25,0.21944424999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2019,0.1557256,0.25,0.2041268,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2019,0.1316235,0.25,0.167361,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Chicago Fire FC,2019,0.155303,0.25,0.19206333333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2019,0.26230380000000003,0.5,0.4682538,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2019,0.30409366666666665,0.5,0.5396823333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2019,0.016192,0.016192,0.041667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2019,0.15000000000000002,0.2,0.1805555,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2019,0.125,0.125,0.142857,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2019,0.206082,0.25,0.2916665,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2019,0.18594675,0.25,0.24791649999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2019,0.1704545,0.25,0.21666649999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2019,0.1691235,0.25,0.2229165,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2019,0.169657,0.25,0.22738075,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2019,0.111111,0.111111,0.125,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2019,0.090909,0.090909,0.1,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2019,0.15061449999999998,0.25,0.21666649999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2020,0.149257625,0.25,0.303550875,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2020,0.120641,0.25,0.20065,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2020,0.15,0.25,0.1929825,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2020,0.05871233333333334,0.083333,0.12133466666666669,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2020,0.13783775,0.2,0.18942299999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2020,0.145655,0.25,0.5789475,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2020,0.1058385,0.25,0.2102195,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2020,0.13475585714285712,0.25,0.20530685714285715,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2020,0.05,0.05,0.052632,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2020,0.1750854,0.25,0.24129539999999997,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2020,0.1217106,0.25,0.20411600000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2020,0.2147935,0.291891,0.330128,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2020,0.1185922,0.25,0.1507594,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2020,0.193828,0.25,0.267628,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2020,0.15744783333333331,0.25,0.3833311666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2020,0.05502,0.05502,0.076923,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2020,0.1082542,0.154055,0.20357000000000003,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2020,0.12136100000000001,0.2,0.1634615,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2020,0.15922185714285716,0.291891,0.3899344285714285,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2020,0.07646775,0.104246,0.1426205,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2020,0.046863,0.046863,0.157895,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Chicago Fire FC,2020,0.113521,0.25,0.15429600000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2020,0.1739757142857143,0.5,0.29102814285714285,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2020,0.059822,0.083333,0.215311,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2020,0.271361,0.5,0.5384615,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2020,0.0666665,0.083333,0.14354050000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2020,0.13571450000000002,0.2,0.1634615,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2021,0.0879245,0.215406,0.17224083333333332,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2021,0.14598566666666665,0.298109,0.26045816666666666,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2021,0.110007,0.25,0.14251875,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2021,0.21796700000000002,0.291891,0.3547006666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2021,0.10450742857142857,0.25,0.15492828571428574,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2021,0.11742124999999999,0.178865,0.1871565,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2021,0.13262040000000003,0.25,0.20568179999999997,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2021,0.12625899999999998,0.25,0.18773299999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2021,0.0993085,0.125,0.14835150000000003,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2021,0.1103454,0.2,0.1335664,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2021,0.194357,0.5,0.32829650000000005,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2021,0.18604999999999997,0.486486,0.33764483333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2021,0.074561,0.111111,0.09375,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2021,0.1708575,0.25,0.2916665,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2021,0.10428060000000001,0.2,0.12106639999999999,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2021,0.10436619999999999,0.25,0.151515,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2021,0.09270300000000001,0.132807,0.1496378,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2021,0.17334583333333334,0.5,0.3029226666666666,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2021,0.059253,0.059253,0.083333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Chicago Fire FC,2021,0.07302666666666667,0.083333,0.078914,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2021,0.0723795,0.083333,0.10795450000000001,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2021,0.014288,0.014288,0.074074,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2021,0.03493,0.03493,0.0625,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2021,0.014733,0.014733,0.074074,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2021,0.071429,0.071429,0.076923,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2021,0.165075,0.25,0.25,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2021,0.019584,0.019584,0.111111,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+St. Louis City SC,2021,0.076923,0.076923,0.083333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2022,0.28193840000000003,0.5,0.5648484,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2022,0.1039232,0.154055,0.1681818,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2022,0.18097566666666667,0.291891,0.3285713333333333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2022,0.1339495,0.25,0.18235925,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Chicago Fire FC,2022,0.15589550000000002,0.2,0.1964285,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2022,0.1372164285714286,0.25,0.19019785714285714,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2022,0.21574925,0.5,0.3810605,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2022,0.0458215,0.063843,0.10714300000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2022,0.099043,0.099043,0.3,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2022,0.12980266666666665,0.25,0.2253966666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2022,0.09192475,0.154055,0.16607149999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Charlotte FC,2022,0.027419,0.027419,0.071429,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2022,0.08688019999999999,0.166667,0.1553246,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2022,0.26082466666666665,0.5,0.595238,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2022,0.010229,0.010229,0.038462,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2022,0.17943,0.25,0.2383836666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2022,0.20601366666666665,0.5,0.36118316666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2022,0.23823624999999998,0.5,0.44231600000000004,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2022,0.125,0.166667,0.14545450000000001,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2022,0.066667,0.066667,0.071429,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2022,0.1073475,0.152005,0.3214285,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2022,0.2639,0.5,0.5357145,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2022,0.210766,0.256757,0.5,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2022,0.272071,0.5,0.642857,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2022,0.2029432,0.5,0.4010388,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2022,0.010001,0.010001,0.038462,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2022,0.224232,0.5,0.45887433333333333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Chicago Fire FC,2023,0.028618,0.028618,0.142857,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2023,0.17117399999999997,0.486486,0.2869108333333333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2023,0.20930700000000002,0.5,0.395242,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2023,0.0689032,0.131308,0.11857880000000001,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2023,0.1783407142857143,0.5,0.32103185714285715,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2023,0.1311493333333333,0.319819,0.20179166666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2023,0.08953,0.125,0.09920633333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2023,0.10928980000000002,0.166667,0.1481818,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2023,0.17200849999999998,0.25,0.21874975,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Charlotte FC,2023,0.0958335,0.125,0.10714300000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2023,0.0958335,0.125,0.10714300000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2023,0.105751,0.25,0.1373016,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2023,0.08525300000000001,0.166667,0.112963,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2023,0.10747275,0.25,0.16021824999999998,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2023,0.1027852,0.131308,0.1657286,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2023,0.17439549999999995,0.486486,0.308742,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2023,0.1634615,0.25,0.208333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2023,0.131502,0.25,0.1878155,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+St. Louis City SC,2023,0.2643335,0.5,0.527778,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2023,0.055402,0.083333,0.0732325,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2023,0.182886,0.5,0.345139,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2023,0.10986428571428572,0.166667,0.14944342857142856,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2023,0.08662700000000001,0.134334,0.1607145,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2023,0.1245172,0.245493,0.210635,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2023,0.206082,0.25,0.2916665,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2023,0.011254,0.011254,0.035714,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2023,0.148152,0.256757,0.2857145,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2023,0.06916125000000001,0.125,0.09018775000000001,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2023,0.09144666666666668,0.166667,0.1340066666666667,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Atlanta United FC,2024,0.122972,0.122972,0.222222,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Nashville SC,2024,0.1111115,0.166667,0.129412,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Inter Miami CF,2024,0.14350349999999998,0.25,0.19730383333333332,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Sporting Kansas City,2024,0.16727483333333334,0.25,0.21582233333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+D.C. United,2024,0.1458335,0.25,0.17928925,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Dallas,2024,0.175,0.25,0.222222,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+CF Montreal,2024,0.13518533333333332,0.25,0.16775600000000002,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York City FC,2024,0.17594025,0.25,0.238562,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Philadelphia Union,2024,0.21012733333333333,0.5,0.3899783333333333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Colorado Rapids,2024,0.1,0.1,0.111111,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Real Salt Lake,2024,0.1,0.1,0.111111,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Seattle Sounders FC,2024,0.1964176,0.5,0.3346404,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Vancouver Whitecaps FC,2024,0.1047295,0.166667,0.129412,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New York Red Bulls,2024,0.01212,0.01212,0.038462,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+FC Cincinnati,2024,0.2062675,0.5,0.3571895,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Toronto FC,2024,0.21851866666666667,0.5,0.3899783333333333,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+New England Revolution,2024,0.18648599999999999,0.25,0.2777775,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+San Jose Earthquakes,2024,0.3055555,0.5,0.5625,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LAFC,2024,0.1438565,0.25,0.2142565,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Austin FC,2024,0.12612566666666666,0.25,0.17238566666666666,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Houston Dynamo FC,2024,0.1630026,0.25,0.2190848,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Orlando City SC,2024,0.14279166666666668,0.25,0.18981466666666666,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+LA Galaxy,2024,0.09424433333333333,0.162164,0.13997833333333334,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Columbus Crew,2024,0.1636255,0.25,0.22549,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Portland Timbers,2024,0.22596325,0.5,0.37928925,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Charlotte FC,2024,0.09991050000000001,0.166667,0.129412,0.0,0.0,0.0,0.0,stable,club_cooccurrence
+Minnesota United FC,2024,0.175,0.25,0.222222,0.0,0.0,0.0,0.0,stable,club_cooccurrence

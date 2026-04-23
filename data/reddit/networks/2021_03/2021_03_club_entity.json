@@ -1,0 +1,361 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "AUSTIN FC TO PLAY FRANCHISE-OPENING"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandt Bronico Loaned"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bronico Loaned"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joevin Jones"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Van Halen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cobain Kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Sands"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel R\u00edos Agrees"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leon Flach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Leon Flach"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Vines"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oliver Larraz"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jason Kreis"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Ochoa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cade Cowell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Davis"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dallas Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MNUFC Re-Signs Osvaldo Alonso MNUFC Re-Signs Osvaldo Alonso"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Legendary Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arnor Ingvi Traustason Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arnor Ingvi Traustason"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tajon Buchanan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caio Alexandre"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jasser Khmiri"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "AUSTIN FC TO PLAY FRANCHISE-OPENING"
+    },
+    {
+      "weight": 1,
+      "source": "AUSTIN FC TO PLAY FRANCHISE-OPENING",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Brandt Bronico Loaned"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Bronico Loaned"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Joevin Jones"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Van Halen"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Cobain Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Away Kit"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "James Sands"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Daniel R\u00edos Agrees"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Leon Flach"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Midfielder Leon Flach"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Sam Vines"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Oliver Larraz"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Jason Kreis"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "David Ochoa"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Brad Davis"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Dallas Jos\u00e9 Antonio Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MNUFC Re-Signs Osvaldo Alonso MNUFC Re-Signs Osvaldo Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Legendary Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Andrew Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Arnor Ingvi Traustason Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Arnor Ingvi Traustason"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tajon Buchanan"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Caio Alexandre"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Jasser Khmiri"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Frank de Boer"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodney Redes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Athletico Bilbao"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelo Sarvas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ray Gaddis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Breonna Taylor"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Villa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "OCSC Goal"
+    },
+    {
+      "entity_type": "player",
+      "id": "ANDRE BLAKE CLEAN"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mile High Lokos"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Clint Irwin"
+    },
+    {
+      "entity_type": "player",
+      "id": "William Yarbrough"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nedum Onuoha"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nick Rimando\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shea Salinas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Felipe Gutierrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Houston Dash"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Hoffmann"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "DaMarcus Beasley"
+    },
+    {
+      "entity_type": "player",
+      "id": "Your Houston Dash"
+    },
+    {
+      "entity_type": "player",
+      "id": "Good Luck"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Rebranding Idea Revs Rebranding Idea"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Polster"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joshua Kloke"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Barr's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thomas Hasal"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "@whitecapsfc Instagram"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 2,
+      "source": "Atlanta United FC",
+      "target": "Frank de Boer"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Rodney Redes"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Athletico Bilbao"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Marcelo Sarvas"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Ray Gaddis"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Breonna Taylor"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "ANDRE BLAKE CLEAN"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "David Villa"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Bill Barr's"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "OCSC Goal"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Mile High Lokos"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Nick Rimando\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Clint Irwin"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "William Yarbrough"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Felipe Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Bill Barr's"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Nedum Onuoha"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Shea Salinas"
+    },
+    {
+      "weight": 1,
+      "source": "Shea Salinas",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Thomas Hasal"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Houston Dash"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ian Hoffmann"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "DaMarcus Beasley"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Your Houston Dash"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Good Luck"
+    },
+    {
+      "weight": 1,
+      "source": "Ian Hoffmann",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Rebranding Idea Revs Rebranding Idea"
+    },
+    {
+      "weight": 2,
+      "source": "New England Revolution",
+      "target": "Matt Polster"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Joshua Kloke"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Bill Barr's"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "@whitecapsfc Instagram"
+    }
+  ]
+}

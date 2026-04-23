@@ -1,0 +1,344 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luiz Ara\u00fajo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "entity_type": "player",
+      "id": "Scott Arfield"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ashley Westwood"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Messi Lifelong Inter"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "YOOOOOO MY BEAUTIFUL"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lionel Messi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adem Sipi\u0107"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pedro Gallese"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jason Kelce"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jose Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Luna"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYCFC Supporter"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aidan Morris"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cucho Hern\u00e1ndez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Edson Buddle"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Houston Messi"
+    },
+    {
+      "entity_type": "player",
+      "id": "H\u00e9ctor Herrera"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Ferreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Weston Mckennie"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jozy Altidore"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian White"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Duncan"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roman B\u00fcrki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Parker Named"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Luiz Ara\u00fajo"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Scott Arfield"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Ashley Westwood"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Messi Lifelong Inter"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Lionel Messi"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Kyle Duncan"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "YOOOOOO MY BEAUTIFUL"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Adem Sipi\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Pedro Gallese"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jason Kelce"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jose Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Diego Luna"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "NYCFC Supporter"
+    },
+    {
+      "weight": 1,
+      "source": "NYCFC Supporter",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Aidan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Cucho Hern\u00e1ndez"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Edson Buddle"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Houston Messi"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Weston Mckennie"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Jozy Altidore"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Brian White"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Roman B\u00fcrki"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tim Parker Named"
+    }
+  ]
+}

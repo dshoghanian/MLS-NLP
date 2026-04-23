@@ -1,0 +1,384 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Christian Lattanzio"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Andy Quy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gaston Edul Suarez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gaston Edul"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alvaro Morata"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hirving Lozano"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Casual Ultra"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santa Claus"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "La Barra + Los Caballeros Reales"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cruz Medina"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Luchi Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefan Frei"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Castellanos and/or Davis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alan Pulido"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Schulte"
+    },
+    {
+      "entity_type": "player",
+      "id": "Beep Beep Beep"
+    },
+    {
+      "entity_type": "player",
+      "id": "Beep Beep"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Schuttle"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Guti\u00e9rrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "OBLIGATORY STEVE CLARK APPRECIATION POST"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Khaled El-Ahmad"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom\u00e1s Chancalay"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Barlow"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabrizio Romano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emil Forsberg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roman B\u00fcrki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ultras Burn Images"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Blanco"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Ford"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Caldwell"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Christian Lattanzio"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Andy Quy"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Gaston Edul Suarez"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Gaston Edul"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Alvaro Morata"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Hirving Lozano"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Casual Ultra"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ultras Burn Images"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sebastian Blanco"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Santa Claus"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "La Barra + Los Caballeros Reales"
+    },
+    {
+      "weight": 1,
+      "source": "La Barra + Los Caballeros Reales",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "OBLIGATORY STEVE CLARK APPRECIATION POST"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Cruz Medina"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Luchi Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Stefan Frei"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Castellanos and/or Davis"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Roman B\u00fcrki"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Alan Pulido"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Patrick Schulte"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Beep Beep Beep"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Beep Beep"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Patrick Schuttle"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Midfielder"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Brian Guti\u00e9rrez"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Tom Barlow"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Khaled El-Ahmad"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Tom\u00e1s Chancalay"
+    },
+    {
+      "weight": 1,
+      "source": "Tom Barlow",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Fabrizio Romano"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Emil Forsberg"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Tim Ford"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Steven Caldwell"
+    }
+  ]
+}

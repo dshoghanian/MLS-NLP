@@ -1,0 +1,82 @@
+# News sources configuration for MLS article collection
+# Combines GDELT keyword queries, RSS feeds, and domain filters
+
+# GDELT API configuration
+gdelt:
+  base_url: "https://api.gdeltproject.org/api/v2/doc/doc"
+  mode: "artlist"
+  max_records: 75
+  format: "json"
+  # Rate limiting: seconds between requests
+  request_delay: 1.2
+  # Retry configuration
+  max_retries: 3
+  retry_delay: 5
+
+  # Search queries to run per time window.
+  # Kept to 4 focused queries to avoid result overlap and excess volume.
+  # Target: ~100-200 unique articles per month after deduplication.
+  queries:
+    - query: "Major League Soccer"
+      description: "General MLS news (full name)"
+    - query: "MLS transfer signing"
+      description: "Transfer and roster moves"
+    - query: "MLS playoffs Cup"
+      description: "Competitive results and knockout coverage"
+    - query: "MLS coach fired hired"
+      description: "Coaching changes and management news"
+
+  # Domain whitelist (prefer these domains in scoring)
+  preferred_domains:
+    - mlssoccer.com
+    - americansoccernow.com
+    - mlsplayers.org
+    - socceramerica.com
+    - ussoccer.com
+
+  # Domains to exclude (spam, low quality)
+  excluded_domains:
+    - doubleclick.net
+    - googleadservices.com
+
+  # Language filter
+  language: "eng"
+
+# RSS feed sources
+rss_feeds:
+  - name: "MLS Official"
+    url: "https://www.mlssoccer.com/feed"
+    domain: "mlssoccer.com"
+    type: "official"
+
+  - name: "American Soccer Now"
+    url: "https://americansoccernow.com/feed"
+    domain: "americansoccernow.com"
+    type: "media"
+
+  - name: "Soccer America"
+    url: "https://www.socceramerica.com/feed"
+    domain: "socceramerica.com"
+    type: "media"
+
+  - name: "ESPN Soccer"
+    url: "https://www.espn.com/espn/rss/soccer/news"
+    domain: "espn.com"
+    type: "media"
+
+  - name: "Sports Illustrated Soccer"
+    url: "https://www.si.com/soccer/feed"
+    domain: "si.com"
+    type: "media"
+
+  - name: "Goal.com MLS"
+    url: "https://www.goal.com/en-us/feeds/news"
+    domain: "goal.com"
+    type: "media"
+
+# Collection time range
+collection:
+  start_year: 2018
+  end_year: 2024
+  # Number of days per collection window
+  window_days: 30

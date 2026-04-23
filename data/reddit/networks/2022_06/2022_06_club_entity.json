@@ -1,0 +1,402 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gareth Bale"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julian Gressel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eddie Pope"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAFC Re-Signs Forward"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAFC Re-Signs Forward Carlos Vela"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Guadalajara\n\n\\-"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread SEMI"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "RSL 2 - 0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julio Benitez"
+    },
+    {
+      "entity_type": "player",
+      "id": "William Agada"
+    },
+    {
+      "entity_type": "player",
+      "id": "Erik Thommy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cucho Hernandez"
+    },
+    {
+      "entity_type": "player",
+      "id": "H\u00e9ctor Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesus Ferreira"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omir Fernandez"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eduard L\u00f6wen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Domenico Criscito"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lorenzo Insigne"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ralph Priso"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fanendo Adi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Berlin Announce"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andres Cubas"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Gareth Bale"
+    },
+    {
+      "weight": 2,
+      "source": "Gareth Bale",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Guadalajara\n\n\\-"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Paul Arriola",
+      "target": "D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Julian Gressel"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Eddie Pope"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LAFC Re-Signs Forward"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LAFC Re-Signs Forward Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jesus Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Guadalajara\n\n\\-"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Domenico Criscito"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Lorenzo Insigne"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ralph Priso"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Guadalajara\n\n\\-",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Andres Cubas"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "William Agada"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Erik Thommy"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Berlin Announce"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Match Thread SEMI"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread SEMI",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "RSL 2 - 0"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Julio Benitez"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Ryan Gauld\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 2,
+      "source": "Columbus Crew",
+      "target": "Cucho Hernandez"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Omir Fernandez"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Eduard L\u00f6wen"
+    },
+    {
+      "weight": 1,
+      "source": "Ralph Priso",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Fanendo Adi"
+    }
+  ]
+}

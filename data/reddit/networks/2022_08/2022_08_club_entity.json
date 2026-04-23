@@ -1,0 +1,464 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Conti's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Gutman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Mike Conti's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Product Brian Romero"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Won Rookie"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Shinyashiki"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Benteke"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Miazga"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gareth Bale"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder Riqui Puig"
+    },
+    {
+      "entity_type": "player",
+      "id": "Riqui Puig"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAGalaxy Sell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabrizio Romano"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anyway Puig"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yangel Herrera Taty"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yangel Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cade Cowell"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy Thompson Selected"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam McDowell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Salloi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kool Aid"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fede Navarro Unbelievable"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oscar De La Hoya"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Guill"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Lyle Ayes"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Gabriel Brener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dynamo Boniek Garcia"
+    },
+    {
+      "entity_type": "player",
+      "id": "Boniek Garcia"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Lletget"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stejskal] Big"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bernard Kamungo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "COME GET"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Twitter vs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Reddit Revs Twitter vs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Reddit"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Mike Conti's"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Andrew Gutman"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Mike Conti's"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Andrew Gutman",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Product Brian Romero"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Won Rookie"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Andre Shinyashiki"
+    },
+    {
+      "weight": 1,
+      "source": "Won Rookie",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Christian Benteke"
+    },
+    {
+      "weight": 2,
+      "source": "FC Cincinnati",
+      "target": "Matt Miazga"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Gareth Bale"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "COME GET"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Midfielder Riqui Puig"
+    },
+    {
+      "weight": 2,
+      "source": "LA Galaxy",
+      "target": "Riqui Puig"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "LAGalaxy Sell"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Fabrizio Romano"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Anyway Puig"
+    },
+    {
+      "weight": 1,
+      "source": "Riqui Puig",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Anyway Puig"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Kool Aid"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Fede Navarro Unbelievable"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Yangel Herrera Taty"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Yangel Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Cade Cowell"
+    },
+    {
+      "weight": 1,
+      "source": "Cade Cowell",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tommy Thompson Selected"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Sam McDowell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Daniel Salloi"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Oscar De La Hoya"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ben Guill"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Lyle Ayes"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Dynamo Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Sebastian Lletget"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Stejskal] Big"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Twitter vs"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Reddit Revs Twitter vs"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Reddit"
+    },
+    {
+      "weight": 2,
+      "source": "Sebastian Lletget",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Stejskal] Big",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Bernard Kamungo"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "COME GET"
+    }
+  ]
+}

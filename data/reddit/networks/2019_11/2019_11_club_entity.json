@@ -1,0 +1,570 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Claudio Reyna"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bill Hamid"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "player",
+      "id": "Galaxy\u2019s Zlatan Ibrahimovic"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zlatan Ibrahimovic"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelvin Leerdam"
+    },
+    {
+      "entity_type": "player",
+      "id": "V\u00edctor Rodr\u00edguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jozy Altidore"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thierry Henry"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Dom\u00e8nec Torrent Mutually Agree"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tayvon Gray"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYCFC Homegrown - grew"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dax McCarty"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dave Romney"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lebo Moloto"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Midfielder"
+    },
+    {
+      "entity_type": "player",
+      "id": "Uri Rosell"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "375k Fafa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew Ralph] Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marco Fabian"
+    },
+    {
+      "entity_type": "player",
+      "id": "Haris Medunjanin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Drew Moor"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lalas Abubakar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Auston Trusty"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Beckerman"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emmanuel Ochoa"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS CUP"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gianluca Busio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darlington Nagbe"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darwin Quintero"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tab Ramos"
+    },
+    {
+      "entity_type": "player",
+      "id": "Omid Namazi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pablo Mastroeni"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Hedges"
+    },
+    {
+      "entity_type": "player",
+      "id": "Aston Villa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stewart Kerr"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander B\u00fcttner Revs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexander B\u00fcttner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Bye Revolution re-sign"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Bye"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Whitecaps FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Axel Schuster"
+    },
+    {
+      "entity_type": "player",
+      "id": "Simon Colyn"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Claudio Reyna"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Bill Hamid D.C. United"
+    },
+    {
+      "weight": 2,
+      "source": "D.C. United",
+      "target": "Bill Hamid"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Galaxy\u2019s Zlatan Ibrahimovic"
+    },
+    {
+      "weight": 1,
+      "source": "Carlos Vela",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Galaxy\u2019s Zlatan Ibrahimovic",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Zlatan Ibrahimovic"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Kelvin Leerdam"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "V\u00edctor Rodr\u00edguez"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jozy Altidore"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "MLS CUP"
+    },
+    {
+      "weight": 1,
+      "source": "Kelvin Leerdam",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "V\u00edctor Rodr\u00edguez",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Ra\u00fal Ruid\u00edaz",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Jozy Altidore",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Thierry Henry"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Dom\u00e8nec Torrent Mutually Agree"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Tayvon Gray"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "NYCFC Homegrown - grew"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Dax McCarty"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Dave Romney"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Lebo Moloto"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Midfielder"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Uri Rosell"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "375k Fafa"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Matt Hedges"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Matthew Ralph] Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Marco Fabian"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Haris Medunjanin"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Auston Trusty"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Drew Moor"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Lalas Abubakar"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Auston Trusty"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Lalas Abubakar"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Darlington Nagbe"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kyle Beckerman"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Emmanuel Ochoa"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Gianluca Busio"
+    },
+    {
+      "weight": 1,
+      "source": "Darlington Nagbe",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Darwin Quintero"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Omid Namazi"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Pablo Mastroeni"
+    },
+    {
+      "weight": 1,
+      "source": "Darwin Quintero",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Aston Villa"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Stewart Kerr"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Alexander B\u00fcttner Revs"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Alexander B\u00fcttner"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Brandon Bye Revolution re-sign"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Brandon Bye"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Axel Schuster"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Simon Colyn"
+    }
+  ]
+}

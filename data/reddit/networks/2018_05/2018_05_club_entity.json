@@ -1,0 +1,220 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Scott Farmer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeff Berding"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lee Nguyen"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zlatan Ibrahimovi\u0107"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Freddy Adu D.C. United"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zlatan Ibrahimovic"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew De George"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Ian Ayre"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Price"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Warshaw"
+    },
+    {
+      "entity_type": "player",
+      "id": "Danny Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Williams"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Peter Vermes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Ibarra"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Nicholson"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bradley Wright-Phillips"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Scott Farmer"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Jeff Berding"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Lee Nguyen"
+    },
+    {
+      "weight": 2,
+      "source": "Lee Nguyen",
+      "target": "New England Revolution"
+    },
+    {
+      "weight": 1,
+      "source": "Lee Nguyen",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Zlatan Ibrahimovi\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Freddy Adu D.C. United"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "Zlatan Ibrahimovic"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Matthew De George"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Bobby Warshaw"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Danny Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Andy Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Ian Ayre"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jack Price"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Peter Vermes"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Miguel Ibarra"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Sam Nicholson"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Bradley Wright-Phillips"
+    }
+  ]
+}

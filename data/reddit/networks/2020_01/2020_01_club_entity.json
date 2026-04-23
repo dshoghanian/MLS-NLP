@@ -1,0 +1,495 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Calen Carr"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pablo Maurer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luka Modric"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Javier \u201cChicharito\u201d Hernandez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jon Shard"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jack Maher"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Keaton Parks"
+    },
+    {
+      "entity_type": "player",
+      "id": "S.L. Benfica"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Ronny Deila"
+    },
+    {
+      "entity_type": "coach",
+      "id": "\ud83d\uddfd \ud83d\udcf0\u27a1\ufe0f"
+    },
+    {
+      "entity_type": "coach",
+      "id": "\ud83d\uddfd \ud83d\udcf0\u27a1\ufe0f bit.ly/2MYnXXZ"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Cooper"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Antonio Nocerino"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jamiro Monteiro"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert Source"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kobe Bryant\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Fraser"
+    },
+    {
+      "entity_type": "player",
+      "id": "Signed Abubakar"
+    },
+    {
+      "entity_type": "player",
+      "id": "Younes Namli"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Galvan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Baird"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal RSL"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Beckerman"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Oswaldo Alan\u00eds"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Tom Fox"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gomez Andrade"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o Paulo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Harry Shipp Sounders"
+    },
+    {
+      "entity_type": "player",
+      "id": "Harry Shipp"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lucas Zelarayan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Beric Officially"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelo Palomino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stuart Holden"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Franco Jara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dallas Recognized"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesse Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brandon Servania"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud835\udc0b\ud835\udc2e\ud835\udc22\ud835\udc2c \ud835\udc00\ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc1a"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yimmi Chara"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "\u00c9rik Godoy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Raposo"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Calen Carr"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Pablo Maurer"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Luka Modric"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Javier \u201cChicharito\u201d Hernandez"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Jon Shard"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Jack Maher"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "John Cooper"
+    },
+    {
+      "weight": 1,
+      "source": "Jack Maher",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Keaton Parks"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "S.L. Benfica"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ronny Deila"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "\ud83d\uddfd \ud83d\udcf0\u27a1\ufe0f"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "\ud83d\uddfd \ud83d\udcf0\u27a1\ufe0f bit.ly/2MYnXXZ"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Antonio Nocerino"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jamiro Monteiro"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Tom Bogert Source"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Kobe Bryant\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Gomez Andrade"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Robin Fraser"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Signed Abubakar"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Younes Namli"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Brian Galvan"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Corey Baird"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Sam Stejskal RSL"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Sam Stejskal"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kyle Beckerman"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Oswaldo Alan\u00eds"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tom Fox"
+    },
+    {
+      "weight": 1,
+      "source": "Gomez Andrade",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jo\u00e3o Paulo"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Harry Shipp Sounders"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Harry Shipp"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Lucas Zelarayan"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Robert Beric Officially"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Marcelo Palomino"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Stuart Holden"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Franco Jara"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Dallas Recognized"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesse Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Brandon Servania"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "\ud835\udc0b\ud835\udc2e\ud835\udc22\ud835\udc2c \ud835\udc00\ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc1a"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Yimmi Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "\u00c9rik Godoy"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Raposo"
+    }
+  ]
+}

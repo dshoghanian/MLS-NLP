@@ -1,0 +1,648 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos Austin"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luciano Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leonardo Jara"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mat\u00edas Fern\u00e1ndez"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Walker Zimmerman Agree"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Guillermo Barros Schelotto"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Almiron Breaking"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Sturridge"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Gutman"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benji Michel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tesho Akindele"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stefano Pinho"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Mueller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dom Dwyer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kamal Miller - CB - Syracuse](https://cuse.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy Madden - CM - UNC-Charlotte](https://charlotte49ers.com/roster.aspx?rp_id=5590"
+    },
+    {
+      "entity_type": "player",
+      "id": "Scott DeVoss -"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Blake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Benny Feilhaber"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal Reporting"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rapids Draft Andre"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luke Mulholland RSL"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luke Mulholland"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matias Lopez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ike Opara"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Head Coach"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Caleb Porter"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Tim Bezbatchenko"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jagiellonia Bia\u0142ystok"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Nelson Rodriguez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy McNamara"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zden\u011bk Ondr\u00e1\u0161ek"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bryan Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ozzie Alonso"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Wendy's"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marc Rzatkowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jean-Christophe Koffi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Giovinco's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrea D'Amico"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kristian Jack] Breaking"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Giovinco"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hwang In-beom"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yordy Reyna"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Vamos Austin"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Luciano Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Leonardo Jara"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Mat\u00edas Fern\u00e1ndez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Defender Walker Zimmerman Agree"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Guillermo Barros Schelotto"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Almiron Breaking"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Daniel Sturridge"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Andrew Gutman"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Benji Michel"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Tesho Akindele"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Stefano Pinho"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Chris Mueller"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Dom Dwyer"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Kamal Miller - CB - Syracuse](https://cuse.com"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Tommy Madden - CM - UNC-Charlotte](https://charlotte49ers.com/roster.aspx?rp_id=5590"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Scott DeVoss -"
+    },
+    {
+      "weight": 1,
+      "source": "Benji Michel",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Benji Michel",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Benji Michel",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Tesho Akindele",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Tesho Akindele",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Tesho Akindele",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Stefano Pinho",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Stefano Pinho",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Stefano Pinho",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Mueller",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Mueller",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Mueller",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Dom Dwyer",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Dom Dwyer",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Dom Dwyer",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Kamal Miller - CB - Syracuse](https://cuse.com",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Kamal Miller - CB - Syracuse](https://cuse.com",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Kamal Miller - CB - Syracuse](https://cuse.com",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Tommy Madden - CM - UNC-Charlotte](https://charlotte49ers.com/roster.aspx?rp_id=5590",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Tommy Madden - CM - UNC-Charlotte](https://charlotte49ers.com/roster.aspx?rp_id=5590",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Tommy Madden - CM - UNC-Charlotte](https://charlotte49ers.com/roster.aspx?rp_id=5590",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Scott DeVoss -",
+      "target": "Charlotte FC"
+    },
+    {
+      "weight": 1,
+      "source": "Scott DeVoss -",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Scott DeVoss -",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 2,
+      "source": "Minnesota United FC",
+      "target": "Ike Opara"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Ozzie Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Andre Blake"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Benny Feilhaber"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Sam Stejskal Reporting"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Rapids Draft Andre"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Luke Mulholland RSL"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Luke Mulholland"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Matias Lopez"
+    },
+    {
+      "weight": 2,
+      "source": "Sporting Kansas City",
+      "target": "Ike Opara"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Head Coach"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Caleb Porter"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Tim Bezbatchenko"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Jagiellonia Bia\u0142ystok"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Nelson Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Tommy McNamara"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Zden\u011bk Ondr\u00e1\u0161ek"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Bryan Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Wendy's"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Marc Rzatkowski"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Jean-Christophe Koffi"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Sebastian Giovinco's"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Andrea D'Amico"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Kristian Jack] Breaking"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Sebastian Giovinco"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Hwang In-beom"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Yordy Reyna"
+    }
+  ]
+}

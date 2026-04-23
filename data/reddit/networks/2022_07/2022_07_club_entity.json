@@ -1,0 +1,700 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darren Eales"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darren Eales Tapped"
+    },
+    {
+      "entity_type": "player",
+      "id": "Will Depart"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gonzalo Pineda"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cecilio Dom\u00ednguez Mutually Agree"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Wayne Rooney"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jason Levien\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cucho Hern\u00e1ndez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lewis Neal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mickey Mouse"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Leonardo Campana"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robert Taylor"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carson Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carson Galaxy**](https://imgur.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jos\u00e9 Cifuentes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Samuel Grandsir"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rayan Ravelson"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eric Adams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Head Coach"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shaq Moore"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tenerife Source"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread Ol\u00e9"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Fisher"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Xavier Arreaga"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roger Espinoza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brutus Buckeye"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sara Loring"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hector Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darth Vader"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jerry Zgoda"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adrian Heath"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Lod"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Giacomo Vrioni"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fabrizio Romano"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adam Buksa"
+    },
+    {
+      "entity_type": "player",
+      "id": "NERevs Fee"
+    },
+    {
+      "entity_type": "player",
+      "id": "Revs Supporters"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lou Fusz Plaza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Roman Burki"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Timmerman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Isak Jensen"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacob Shaffelburg"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Caldwell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark-Anthony Kaye"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Bradley's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Max Crepeau"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Darren Eales"
+    },
+    {
+      "weight": 2,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Darren Eales Tapped"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Will Depart"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Gonzalo Pineda"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Cecilio Dom\u00ednguez Mutually Agree"
+    },
+    {
+      "weight": 3,
+      "source": "D.C. United",
+      "target": "Wayne Rooney"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Jason Levien\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Cucho Hern\u00e1ndez"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Lewis Neal"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Mickey Mouse"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Head Coach"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jason Levien\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Cucho Hern\u00e1ndez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Lewis Neal"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Mickey Mouse"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carson Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carson Galaxy**](https://imgur.com"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jos\u00e9 Cifuentes"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Samuel Grandsir"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Rayan Ravelson"
+    },
+    {
+      "weight": 1,
+      "source": "Jason Levien\u2019s",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Jason Levien\u2019s",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Jason Levien\u2019s",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Cucho Hern\u00e1ndez",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Cucho Hern\u00e1ndez",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Cucho Hern\u00e1ndez",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Lewis Neal",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Lewis Neal",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Lewis Neal",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Mickey Mouse",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Mickey Mouse",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Mickey Mouse",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Brutus Buckeye"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Match Thread Ol\u00e9"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Leonardo Campana"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Robert Taylor"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Darth Vader"
+    },
+    {
+      "weight": 1,
+      "source": "Leonardo Campana",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Robert Taylor",
+      "target": "Inter Miami CF"
+    },
+    {
+      "weight": 1,
+      "source": "Carson Galaxy",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Carson Galaxy**](https://imgur.com",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Jos\u00e9 Cifuentes",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Samuel Grandsir",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Rayan Ravelson",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Max Crepeau"
+    },
+    {
+      "weight": 2,
+      "source": "New York City FC",
+      "target": "Eric Adams"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "United"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Shaq Moore"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Tenerife Source"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Xavier Arreaga"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Roger Espinoza"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "John Fisher"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Xavier Arreaga"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Sara Loring"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Hector Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Jerry Zgoda"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Adrian Heath"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Robin Lod"
+    },
+    {
+      "weight": 2,
+      "source": "New England Revolution",
+      "target": "Giacomo Vrioni"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Fabrizio Romano"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Adam Buksa"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "NERevs Fee"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Revs Supporters"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lou Fusz Plaza"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Roman Burki"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Tom Timmerman"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Isak Jensen"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jacob Shaffelburg"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Steven Caldwell"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Mark-Anthony Kaye"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Bob Bradley's"
+    },
+    {
+      "weight": 1,
+      "source": "Steven Caldwell",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Mark-Anthony Kaye",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Bob Bradley's",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Max Crepeau"
+    }
+  ]
+}

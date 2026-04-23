@@ -1,0 +1,33 @@
+# MLS NLP Pipeline — Python 3.12
+# Install with: pip install -r requirements.txt
+# Then: python -m spacy download en_core_web_sm
+
+# Core data
+pandas>=2.0
+numpy>=1.26
+pyarrow>=12.0
+
+# HTTP and feeds
+requests>=2.31
+feedparser>=6.0
+
+# Article text extraction
+newspaper3k>=0.2.8
+trafilatura>=1.6
+
+# NLP
+spacy>=3.6
+vaderSentiment>=3.3
+
+# Graph analysis
+networkx>=3.1
+
+# ML (optional, for future model-based enrichment)
+scikit-learn>=1.3
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65
+click>=8.1
+tldextract>=3.4
+python-dateutil>=2.8

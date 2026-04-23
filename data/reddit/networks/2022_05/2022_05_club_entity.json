@@ -1,0 +1,595 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Elizabeth Chambers Took"
+    },
+    {
+      "entity_type": "player",
+      "id": "Elizabeth Chambers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Rhule"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Opinion Miami"
+    },
+    {
+      "entity_type": "player",
+      "id": "Indiana Vassilev"
+    },
+    {
+      "entity_type": "player",
+      "id": "Facundo Torres Goal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miami Scores"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jim Curtin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Real Salt Lake Welcome Back"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "NYCFC Supporter"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jamiro Monteiro"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Player"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Sounders vs Pumas UNAM"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Times](https://www.seattletimes.com"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Deossa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Foss"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Booth"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Doyle"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sounders - Brad Evans"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Schmetzer"
+    },
+    {
+      "entity_type": "player",
+      "id": "\ud83c\udfc6\" - Stu Holden"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Johnny Russell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Supporters"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Mueller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Tenorio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Native Chris Mueller"
+    },
+    {
+      "entity_type": "player",
+      "id": "Hibernian F.C."
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebasti\u00e1n Ferreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carrasquilla Houston"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dave Benz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dave Benz Hey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthony Edwards"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dick Bremer"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Turner"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Portland @ SIUE"
+    },
+    {
+      "entity_type": "player",
+      "id": "Houston @ SIUE"
+    },
+    {
+      "entity_type": "player",
+      "id": "Salt Lake @ SIUE"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Roldan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Morris"
+    },
+    {
+      "entity_type": "player",
+      "id": "Obed Vargas"
+    },
+    {
+      "entity_type": "player",
+      "id": "LLL Tri"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Elizabeth Chambers Took"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Elizabeth Chambers"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Matt Rhule"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Chris Mueller"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Paul Tenorio"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Native Chris Mueller"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Hibernian F.C."
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Opinion Miami"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Indiana Vassilev"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Facundo Torres Goal"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Miami Scores"
+    },
+    {
+      "weight": 1,
+      "source": "Facundo Torres Goal",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Miami Scores",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Chris Mueller"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Paul Tenorio"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Salt Lake @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "LAFC"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Real Salt Lake"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Dave Benz"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Dave Benz Hey"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Anthony Edwards"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Dick Bremer"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Real Salt Lake Welcome Back"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Salt Lake @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Sebasti\u00e1n Ferreira"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Carrasquilla Houston"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Salt Lake @ SIUE"
+    },
+    {
+      "weight": 3,
+      "source": "New York City FC",
+      "target": "NYCFC Supporter"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Away Supporters"
+    },
+    {
+      "weight": 1,
+      "source": "NYCFC Supporter",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "NYCFC Supporter",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "NYCFC Supporter",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jamiro Monteiro"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "MLS Player"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Salt Lake @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Sounders vs Pumas UNAM"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Times](https://www.seattletimes.com"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Andy Deossa"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Tim Foss"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Tim Booth"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Matt Doyle"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Sounders - Brad Evans"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brian Schmetzer"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "\ud83c\udfc6\" - Stu Holden"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Christian Roldan"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Jordan Morris"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Obed Vargas"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "LLL Tri"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Johnny Russell"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Salt Lake @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Away Supporters",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Matt Turner"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Portland @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Houston @ SIUE"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Salt Lake @ SIUE"
+    }
+  ]
+}

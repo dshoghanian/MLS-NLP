@@ -1,0 +1,593 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rob Valentino"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Season Opener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Q2 Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff] Shared"
+    },
+    {
+      "entity_type": "player",
+      "id": "Proud Bailey"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Francis Suarez's"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jenna Fischer"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Bradley"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ronny Deila"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesse Fioranelli"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Leitch"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "entity_type": "player",
+      "id": "Niko Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Zusi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pat Onstad"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Ezra Hendrickson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Brener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Jordan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Wade Barrett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Davy Arnaud"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Segal's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Owen Coyle"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Tab Ramos"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Matt Jordan's"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Jake Silverstein"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tab Ramos Dynamo"
+    },
+    {
+      "entity_type": "player",
+      "id": "Corey Roepken"
+    },
+    {
+      "entity_type": "player",
+      "id": "Boniek Garcia"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Adrian Hunou"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matt Turner"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shep Messing"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Cangialosi"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Twitter St. Louis CITY"
+    },
+    {
+      "entity_type": "player",
+      "id": "GM Ali Curtis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Armas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Curtis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ted Unkel"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara\u2019s"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Rob Valentino"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Season Opener"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Q2 Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Season Opener",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "Q2 Austin FC",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Proud Bailey"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Steven Goff] Shared"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Francis Suarez's"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Jenna Fischer"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "Bob Bradley",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Ronny Deila"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Sam Stejskal"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Jesse Fioranelli"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Leitch"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Yeimar G\u00f3mez Andrade"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Niko Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruid\u00edaz"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ted Unkel"
+    },
+    {
+      "weight": 1,
+      "source": "Graham Zusi",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Pat Onstad"
+    },
+    {
+      "weight": 2,
+      "source": "Pat Onstad",
+      "target": "Houston Dynamo FC"
+    },
+    {
+      "weight": 1,
+      "source": "Pat Onstad",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Ezra Hendrickson"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Matt Jordan"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Wade Barrett"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Davy Arnaud"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Ted Segal's"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Owen Coyle"
+    },
+    {
+      "weight": 2,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Matt Jordan's"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Jake Silverstein"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Tab Ramos Dynamo"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Corey Roepken"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Boniek Garcia"
+    },
+    {
+      "weight": 1,
+      "source": "Gabriel Brener",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Matt Jordan",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Wade Barrett",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Davy Arnaud",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Sam Stejskal](https://theathletic.com/2934111/2021/11/03/pat-onstad",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Segal",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Ted Segal's",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Owen Coyle"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Tab Ramos"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Matt Jordan's"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Jake Silverstein"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "GM Ali Curtis"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Chris Armas"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Ali Curtis"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Adrian Hunou"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Matt Turner"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Shep Messing"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Steve Cangialosi"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Twitter St. Louis CITY"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Ted Unkel"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Diego Chara\u2019s"
+    }
+  ]
+}

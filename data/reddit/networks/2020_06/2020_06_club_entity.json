@@ -1,0 +1,546 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos United"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Can Be"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Najar"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "George Floyd"
+    },
+    {
+      "entity_type": "player",
+      "id": "Desmond Cole"
+    },
+    {
+      "entity_type": "player",
+      "id": "Derek Etienne"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordan Hamilton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Duvall](https://www.mlssoccer.com/post/2020/06/02/"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thierry Henry](https://twitter.com/ThierryHenry"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacori Hayes](https://www.mnufc.com/post/2020/05/30/jacori-hayes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steve Zakuani](https://theathletic.com/1854986/2020/06/04/steve-zakuani"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Maxi Romero"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kit Sponsor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dom Dwyer"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kaka Zoom"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miguel Gallardo"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin Durant"
+    },
+    {
+      "entity_type": "player",
+      "id": "Buys Stake"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Robin Fraser"
+    },
+    {
+      "entity_type": "player",
+      "id": "Burgundy Wave"
+    },
+    {
+      "entity_type": "player",
+      "id": "Braian Galvan"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vancouver MLS"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sounders Twitter"
+    },
+    {
+      "entity_type": "player",
+      "id": "Peter Vermes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jacob Meyers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Homophobic Instagram Live"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Juan Castilla"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lucky\u2019s Pub"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Mark Abbott"
+    },
+    {
+      "entity_type": "player",
+      "id": "Steven Goff"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jesse Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Avilez"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Farrell"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shalrie Joseph"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Park Looks"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jorge Moreira"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mark Pannes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Whitecaps FC"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Axel Schuster"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Vamos United"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Can Be"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Dom Dwyer"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Kaka Zoom"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Miguel Gallardo"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Braian Galvan"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jacob Meyers"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Andy Najar"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "George Floyd"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Desmond Cole"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Derek Etienne"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Jordan Hamilton"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Chris Duvall](https://www.mlssoccer.com/post/2020/06/02/"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Thierry Henry](https://twitter.com/ThierryHenry"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Jacori Hayes](https://www.mnufc.com/post/2020/05/30/jacori-hayes"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Steve Zakuani](https://theathletic.com/1854986/2020/06/04/steve-zakuani"
+    },
+    {
+      "weight": 1,
+      "source": "George Floyd",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "George Floyd",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "George Floyd",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Desmond Cole",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Desmond Cole",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Derek Etienne",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Derek Etienne",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Jordan Hamilton",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Jordan Hamilton",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Duvall](https://www.mlssoccer.com/post/2020/06/02/",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Chris Duvall](https://www.mlssoccer.com/post/2020/06/02/",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Thierry Henry](https://twitter.com/ThierryHenry",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Thierry Henry](https://twitter.com/ThierryHenry",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Jacori Hayes](https://www.mnufc.com/post/2020/05/30/jacori-hayes",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Jacori Hayes](https://www.mnufc.com/post/2020/05/30/jacori-hayes",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Steve Zakuani](https://theathletic.com/1854986/2020/06/04/steve-zakuani",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Steve Zakuani](https://theathletic.com/1854986/2020/06/04/steve-zakuani",
+      "target": "Minnesota United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Maxi Romero"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Kit Sponsor"
+    },
+    {
+      "weight": 1,
+      "source": "Dom Dwyer",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Peter Vermes"
+    },
+    {
+      "weight": 2,
+      "source": "Philadelphia Union",
+      "target": "Kevin Durant"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Buys Stake"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Robin Fraser"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Burgundy Wave"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Braian Galvan"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Vancouver MLS"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver MLS",
+      "target": "Seattle Sounders FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver MLS",
+      "target": "FC Dallas"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver MLS",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Sounders Twitter"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Mark Abbott"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Steven Goff"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jesse Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Carlos Avilez"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Mark Pannes"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Axel Schuster"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Homophobic Instagram Live"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Juan Castilla"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Lucky\u2019s Pub"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Andrew Farrell"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Shalrie Joseph"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Park Looks"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jorge Moreira"
+    }
+  ]
+}

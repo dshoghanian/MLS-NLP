@@ -1,0 +1,412 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Gutman] Thank"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Thiago Almada"
+    },
+    {
+      "entity_type": "player",
+      "id": "Garth Lagerway"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darren Eales"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte Supporter"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos United"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jordi Alba"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "LAFC SOLD"
+    },
+    {
+      "entity_type": "player",
+      "id": "CARSON vs"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Mamadou"
+    },
+    {
+      "entity_type": "player",
+      "id": "GONNA GET ROLLED\n\n\nLET'S FUCKING GOOOOOO"
+    },
+    {
+      "entity_type": "player",
+      "id": "Riqui Puig"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eduard Cauich"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Boyd"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lionel Messi"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Forward Mounsef Bakrar"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "coach",
+      "id": "David Lee"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jim Curtin"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brenden Aaronson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rafael Navarro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Felipe Gutierrez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Weather Report"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eloy Room's"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Beer Guardians"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ethan Bristow"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ian Harkes"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santiago Moreno"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gio Savarese"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Gauld"
+    },
+    {
+      "entity_type": "player",
+      "id": "Whitecaps Player"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Andrew Gutman] Thank"
+    },
+    {
+      "weight": 2,
+      "source": "Atlanta United FC",
+      "target": "Lionel Messi"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Thiago Almada"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Garth Lagerway"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Darren Eales"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte Supporter"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Vamos United"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Jordi Alba"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "Lionel Messi"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "LAFC SOLD"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "CARSON vs"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Defender Mamadou"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "GONNA GET ROLLED\n\n\nLET'S FUCKING GOOOOOO"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Riqui Puig"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Eduard Cauich"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Tyler Boyd"
+    },
+    {
+      "weight": 1,
+      "source": "Eduard Cauich",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Tyler Boyd"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Forward Mounsef Bakrar"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "David Lee"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Weather Report"
+    },
+    {
+      "weight": 1,
+      "source": "Forward Mounsef Bakrar",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "CF Montr\u00e9al",
+      "target": "David Lee"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Jim Curtin"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Brenden Aaronson"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Rafael Navarro"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Orlando City SC"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Felipe Gutierrez"
+    },
+    {
+      "weight": 1,
+      "source": "Weather Report",
+      "target": "Columbus Crew"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Eloy Room's"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Beer Guardians"
+    },
+    {
+      "weight": 1,
+      "source": "Beer Guardians",
+      "target": "Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Ethan Bristow"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Ian Harkes"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Santiago Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Gio Savarese"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ryan Gauld"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Whitecaps Player"
+    }
+  ]
+}

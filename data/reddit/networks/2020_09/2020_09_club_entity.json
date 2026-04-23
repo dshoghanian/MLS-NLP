@@ -1,0 +1,431 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sergio Ruiz"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ben Olsen Alone"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gonzalo Higua\u00edn"
+    },
+    {
+      "entity_type": "player",
+      "id": "M\u00e1s Canosa"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gonzalo Pipita Higua\u00edn"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pity Mart\u00ednez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rapidsz 5 - 0"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Cole Bassett"
+    },
+    {
+      "entity_type": "player",
+      "id": "Damir Kreilach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Carroll"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Smith"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Seattle Breakdown"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Marie"
+    },
+    {
+      "entity_type": "player",
+      "id": "Notice Vako"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Smith Sounders"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Smith"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicol\u00e1s Lodeiro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lucas Zelarayan"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Bocanegra"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gabriel Brener"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dale Dynamo"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Reggie Cannon"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bryan Reynolds"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lee Nguyen"
+    },
+    {
+      "entity_type": "player",
+      "id": "Teal Bunbury"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Armas New York Red Bulls Part Ways"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Armas"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brass Bonanza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Forge FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brenden Aaronson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rachel Lewis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bobby Lenarduzzi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Greg Anderson"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Sergio Ruiz"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ben Olsen"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Ben Olsen Alone"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "Gonzalo Higua\u00edn"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "M\u00e1s Canosa"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Gonzalo Pipita Higua\u00edn"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Lee Nguyen"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Pity Mart\u00ednez"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Rapidsz 5 - 0"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Damir Kreilach"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Andy Carroll"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Ryan Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Cole Bassett"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Seattle Breakdown"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Paul Marie"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Notice Vako"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brad Smith Sounders"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brad Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Breakdown",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "Paul Marie",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "Notice Vako",
+      "target": "San Jose Earthquakes"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Nicol\u00e1s Lodeiro"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Lucas Zelarayan"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Tom Bogert"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Brenden Aaronson"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Carlos Bocanegra"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Rachel Lewis"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bobby Lenarduzzi"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Greg Anderson"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Gabriel Brener"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Dale Dynamo"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Reggie Cannon"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Bryan Reynolds"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Lee Nguyen"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Teal Bunbury"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Chris Armas New York Red Bulls Part Ways"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Chris Armas"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Brass Bonanza"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Forge FC"
+    },
+    {
+      "weight": 1,
+      "source": "Rachel Lewis",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Bobby Lenarduzzi",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Greg Anderson",
+      "target": "Vancouver Whitecaps FC"
+    }
+  ]
+}

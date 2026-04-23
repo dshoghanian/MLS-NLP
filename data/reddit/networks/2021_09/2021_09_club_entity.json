@@ -1,0 +1,271 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Bowman"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Yo Gotti"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vamos Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Santos Laguna"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ra\u00fal Ruidiaz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcelino Moreno"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Barrios Portland"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Barrios"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jonathan Lewis"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Landon Donovan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anderson Julio"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Dave Checketts"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Player"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Stay Mad"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bob Bradley"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luchi Gonzalez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ricardo Pepi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Zusi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Game Thread"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Alex Bowman"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Yo Gotti"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Marcelino Moreno"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Vamos Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Santos Laguna"
+    },
+    {
+      "weight": 2,
+      "source": "Seattle Sounders FC",
+      "target": "Ra\u00fal Ruidiaz"
+    },
+    {
+      "weight": 1,
+      "source": "Marcelino Moreno",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Michael Barrios Portland"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Michael Barrios"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Michael Barrios Portland",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Michael Barrios",
+      "target": "Colorado Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Jonathan Lewis"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Landon Donovan"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Anderson Julio"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Dave Checketts"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "MLS Player"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Stay Mad"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Bob Bradley"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Luchi Gonzalez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Ricardo Pepi"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Game Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Graham Zusi"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Game Thread"
+    }
+  ]
+}

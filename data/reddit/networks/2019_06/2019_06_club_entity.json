@@ -1,0 +1,303 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mike Conti"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lou\u2019s City Bar BTW"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Julian Carranza"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Boyd"
+    },
+    {
+      "entity_type": "player",
+      "id": "Que lo disfruten"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zack Steffen"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "RSL 2 - 0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread San Jose"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread San Jose Goal Scorers"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dempsey Eligible"
+    },
+    {
+      "entity_type": "player",
+      "id": "Clint Dempsey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Daniel Radford's"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Kass"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Florin T\u0103nase"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeremy Ebobisse"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Anthony Blondell's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Adnan"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Mike Conti"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Lou\u2019s City Bar BTW"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Julian Carranza"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Tyler Boyd"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Que lo disfruten"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Zack Steffen"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "RSL 2 - 0"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Dempsey Eligible"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Clint Dempsey"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Daniel Radford's"
+    },
+    {
+      "weight": 1,
+      "source": "RSL 2 - 0",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Sporting Kansas City"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Match Thread San Jose"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Match Thread San Jose Goal Scorers"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Dempsey Eligible"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Clint Dempsey"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Daniel Radford's"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread San Jose",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread San Jose Goal Scorers",
+      "target": "LA Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dempsey Eligible"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Clint Dempsey"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Daniel Radford's"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Dempsey Eligible"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Clint Dempsey"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Daniel Radford's"
+    },
+    {
+      "weight": 1,
+      "source": "Dempsey Eligible",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Clint Dempsey",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Daniel Radford's",
+      "target": "Portland Timbers"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Jeremy Ebobisse"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "John Kass"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Florin T\u0103nase"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Anthony Blondell's"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ali Adnan"
+    }
+  ]
+}

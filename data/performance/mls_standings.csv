@@ -1,0 +1,187 @@
+club,year,points,wins,losses,draws,goals_for,goals_against,finish,made_playoffs,conference,cup_result
+Atlanta United FC,2018,69,21,6,7,68,38,1,1,Eastern,MLS Cup Winner
+Atlanta United FC,2019,50,14,13,7,50,49,6,1,Eastern,Conference Final
+Atlanta United FC,2020,26,7,7,2,25,26,10,0,Eastern,group_stage
+Atlanta United FC,2021,44,12,12,6,43,43,9,1,Eastern,first_round
+Atlanta United FC,2022,49,14,10,9,47,41,5,1,Eastern,conference_semifinal
+Atlanta United FC,2023,44,12,13,7,42,46,8,0,Eastern,missed_playoffs
+Atlanta United FC,2024,52,15,11,8,50,44,5,1,Eastern,conference_semifinal
+CF Montreal,2018,38,9,17,8,38,55,12,0,Eastern,missed_playoffs
+CF Montreal,2019,45,12,14,8,42,46,9,0,Eastern,missed_playoffs
+CF Montreal,2020,24,6,8,2,24,26,12,0,Eastern,missed_playoffs
+CF Montreal,2021,59,18,8,8,48,32,2,1,Eastern,conference_final
+CF Montreal,2022,57,17,8,9,54,38,3,1,Eastern,conference_semifinal
+CF Montreal,2023,46,13,12,9,44,44,7,1,Eastern,first_round
+CF Montreal,2024,48,13,12,9,46,45,7,1,Eastern,first_round
+Charlotte FC,2022,44,12,14,8,40,49,8,0,Eastern,missed_playoffs
+Charlotte FC,2023,51,14,11,9,46,43,6,1,Eastern,first_round
+Charlotte FC,2024,55,16,10,8,52,42,4,1,Eastern,conference_semifinal
+Chicago Fire FC,2018,46,13,13,8,51,54,8,0,Eastern,missed_playoffs
+Chicago Fire FC,2019,33,8,19,7,30,59,13,0,Eastern,missed_playoffs
+Chicago Fire FC,2020,26,7,7,2,20,24,11,0,Eastern,missed_playoffs
+Chicago Fire FC,2021,41,11,14,7,36,47,10,0,Eastern,missed_playoffs
+Chicago Fire FC,2022,41,11,14,9,37,47,10,0,Eastern,missed_playoffs
+Chicago Fire FC,2023,44,12,13,8,44,47,7,0,Eastern,missed_playoffs
+Chicago Fire FC,2024,38,10,16,8,41,55,11,0,Eastern,missed_playoffs
+Colorado Rapids,2018,40,11,15,8,39,52,11,0,Western,missed_playoffs
+Colorado Rapids,2019,41,11,14,9,36,48,10,0,Western,missed_playoffs
+Colorado Rapids,2020,35,9,6,5,28,20,4,1,Western,conference_semifinal
+Colorado Rapids,2021,64,19,8,7,43,26,2,1,Western,conference_final
+Colorado Rapids,2022,44,12,14,8,43,48,9,0,Western,missed_playoffs
+Colorado Rapids,2023,42,11,14,9,40,49,10,0,Western,missed_playoffs
+Colorado Rapids,2024,40,10,15,9,38,50,12,0,Western,missed_playoffs
+Columbus Crew,2018,49,14,10,10,46,38,4,1,Eastern,conference_semifinal
+Columbus Crew,2019,44,12,13,9,41,45,8,1,Eastern,conference_semifinal
+Columbus Crew,2020,55,15,5,6,43,25,1,1,Eastern,MLS Cup Winner
+Columbus Crew,2021,53,15,10,9,51,45,5,1,Eastern,conference_final
+Columbus Crew,2022,44,12,14,8,42,46,9,0,Eastern,missed_playoffs
+Columbus Crew,2023,51,15,11,8,46,41,5,1,Eastern,conference_semifinal
+Columbus Crew,2024,62,18,8,8,56,34,1,1,Eastern,MLS Cup Winner
+D.C. United,2018,54,16,11,7,48,43,3,1,Eastern,conference_semifinal
+D.C. United,2019,39,10,16,8,36,53,11,0,Eastern,missed_playoffs
+D.C. United,2020,18,4,10,2,18,35,14,0,Eastern,missed_playoffs
+D.C. United,2021,34,9,17,6,36,55,12,0,Eastern,missed_playoffs
+D.C. United,2022,35,9,17,8,38,61,13,0,Eastern,missed_playoffs
+D.C. United,2023,36,9,17,8,37,58,13,0,Eastern,missed_playoffs
+D.C. United,2024,39,10,16,8,40,56,10,0,Eastern,missed_playoffs
+FC Cincinnati,2019,18,4,24,6,28,75,14,0,Eastern,missed_playoffs
+FC Cincinnati,2020,13,2,12,2,14,44,15,0,Eastern,missed_playoffs
+FC Cincinnati,2021,31,8,18,6,32,62,13,0,Eastern,missed_playoffs
+FC Cincinnati,2022,55,17,8,9,57,39,2,1,Eastern,conference_final
+FC Cincinnati,2023,68,21,9,4,57,36,1,1,Eastern,conference_final
+FC Cincinnati,2024,55,16,11,7,52,44,5,1,Eastern,conference_semifinal
+FC Dallas,2018,43,11,13,10,43,45,9,1,Western,first_round
+FC Dallas,2019,51,15,11,8,55,41,4,1,Western,conference_semifinal
+FC Dallas,2020,0,0,0,0,0,0,0,0,Western,withdrew_covid
+FC Dallas,2021,36,9,17,8,38,55,11,0,Western,missed_playoffs
+FC Dallas,2022,43,12,14,8,41,44,10,0,Western,missed_playoffs
+FC Dallas,2023,44,12,13,9,43,45,9,0,Western,missed_playoffs
+FC Dallas,2024,46,13,13,8,47,47,10,1,Western,first_round
+Houston Dynamo FC,2018,44,12,14,8,47,52,8,1,Western,conference_final
+Houston Dynamo FC,2019,37,10,16,8,41,55,11,0,Western,missed_playoffs
+Houston Dynamo FC,2020,24,6,9,1,20,30,9,0,Western,missed_playoffs
+Houston Dynamo FC,2021,36,9,17,8,34,55,11,0,Western,missed_playoffs
+Houston Dynamo FC,2022,46,13,14,7,44,50,8,1,Western,first_round
+Houston Dynamo FC,2023,52,15,12,7,49,43,6,1,Western,MLS Cup Runner-up
+Houston Dynamo FC,2024,47,13,13,8,48,48,9,1,Western,conference_semifinal
+Inter Miami CF,2020,16,4,10,2,20,35,10,0,Eastern,missed_playoffs
+Inter Miami CF,2021,39,10,16,8,39,56,11,0,Eastern,missed_playoffs
+Inter Miami CF,2022,44,12,14,8,40,48,8,1,Eastern,first_round
+Inter Miami CF,2023,54,16,10,8,52,38,4,1,Eastern,conference_semifinal
+Inter Miami CF,2024,61,18,9,7,58,38,2,1,Eastern,conference_final
+LA Galaxy,2018,45,13,13,8,62,55,7,1,Western,MLS Cup Runner-up
+LA Galaxy,2019,44,12,13,9,52,49,9,1,Western,first_round
+LA Galaxy,2020,26,6,9,3,24,30,8,0,Western,missed_playoffs
+LA Galaxy,2021,41,11,14,9,43,49,9,0,Western,missed_playoffs
+LA Galaxy,2022,48,14,13,7,55,49,6,1,Western,conference_semifinal
+LA Galaxy,2023,52,15,10,9,55,46,5,1,Western,conference_semifinal
+LA Galaxy,2024,56,17,10,7,58,44,4,1,Western,MLS Cup Runner-up
+LAFC,2018,57,16,9,9,62,42,1,1,Western,conference_semifinal
+LAFC,2019,72,21,4,9,85,37,1,1,Western,conference_final
+LAFC,2020,41,11,5,4,38,22,2,1,Western,conference_final
+LAFC,2021,51,15,11,8,52,44,4,1,Western,conference_semifinal
+LAFC,2022,67,21,6,7,64,31,1,1,Western,MLS Cup Winner
+LAFC,2023,53,16,11,7,55,44,3,1,Western,conference_semifinal
+LAFC,2024,55,16,10,8,55,43,6,1,Western,first_round
+Minnesota United FC,2018,36,9,16,9,41,58,12,0,Western,missed_playoffs
+Minnesota United FC,2019,44,12,14,8,43,45,8,1,Western,conference_semifinal
+Minnesota United FC,2020,38,10,6,4,32,25,3,1,Western,conference_semifinal
+Minnesota United FC,2021,46,12,12,10,44,42,7,1,Western,first_round
+Minnesota United FC,2022,44,12,14,8,44,49,10,0,Western,missed_playoffs
+Minnesota United FC,2023,44,12,13,9,45,48,8,0,Western,missed_playoffs
+Minnesota United FC,2024,48,13,12,9,48,47,8,1,Western,first_round
+Nashville SC,2020,33,8,6,4,28,23,5,1,Eastern,conference_semifinal
+Nashville SC,2021,52,15,11,8,42,32,4,1,Eastern,conference_semifinal
+Nashville SC,2022,55,17,8,9,51,34,1,1,Eastern,Supporters_Shield
+Nashville SC,2023,47,14,12,8,48,41,4,1,Eastern,first_round
+Nashville SC,2024,44,12,13,9,44,46,8,1,Eastern,first_round
+New England Revolution,2018,44,12,13,9,41,44,9,1,Eastern,first_round
+New England Revolution,2019,40,10,14,10,36,45,10,1,Eastern,first_round
+New England Revolution,2020,34,9,6,5,27,22,3,1,Eastern,conference_final
+New England Revolution,2021,73,22,5,7,64,35,1,1,Eastern,Supporters_Shield
+New England Revolution,2022,43,12,14,8,42,47,11,0,Eastern,missed_playoffs
+New England Revolution,2023,46,13,12,9,45,43,6,1,Eastern,first_round
+New England Revolution,2024,42,11,14,9,42,51,9,0,Eastern,missed_playoffs
+New York City FC,2018,54,15,8,11,56,36,2,1,Eastern,conference_final
+New York City FC,2019,55,16,9,9,60,44,3,1,Eastern,conference_semifinal
+New York City FC,2020,29,7,7,4,27,30,9,1,Eastern,first_round
+New York City FC,2021,50,15,11,8,58,49,6,1,Eastern,MLS Cup Winner
+New York City FC,2022,42,12,14,8,45,50,12,0,Eastern,missed_playoffs
+New York City FC,2023,42,11,14,9,43,53,11,0,Eastern,missed_playoffs
+New York City FC,2024,47,13,12,9,48,47,6,1,Eastern,conference_semifinal
+New York Red Bulls,2018,71,22,7,5,55,33,1,1,Eastern,conference_final
+New York Red Bulls,2019,52,15,11,8,49,37,4,1,Eastern,conference_semifinal
+New York Red Bulls,2020,26,7,8,3,26,29,8,1,Eastern,first_round
+New York Red Bulls,2021,43,12,13,9,42,47,8,1,Eastern,conference_semifinal
+New York Red Bulls,2022,44,12,14,8,44,49,11,0,Eastern,missed_playoffs
+New York Red Bulls,2023,46,13,12,9,46,44,9,1,Eastern,first_round
+New York Red Bulls,2024,52,15,11,8,50,44,8,1,Eastern,conference_semifinal
+Orlando City SC,2018,35,8,15,11,36,51,13,0,Eastern,missed_playoffs
+Orlando City SC,2019,44,12,14,8,47,49,7,1,Eastern,first_round
+Orlando City SC,2020,45,12,7,3,34,27,2,1,Eastern,conference_final
+Orlando City SC,2021,47,14,13,7,43,45,7,1,Eastern,conference_semifinal
+Orlando City SC,2022,52,15,11,8,50,44,4,1,Eastern,conference_final
+Orlando City SC,2023,43,12,13,9,44,46,10,0,Eastern,missed_playoffs
+Orlando City SC,2024,45,13,14,7,47,52,9,0,Eastern,missed_playoffs
+Philadelphia Union,2018,50,14,11,9,50,42,5,1,Eastern,conference_semifinal
+Philadelphia Union,2019,54,16,10,8,56,42,2,1,Eastern,conference_final
+Philadelphia Union,2020,44,12,5,9,41,26,1,1,Eastern,MLS Cup Runner-up
+Philadelphia Union,2021,54,16,9,9,54,40,3,1,Eastern,conference_final
+Philadelphia Union,2022,67,21,5,8,68,28,1,1,Eastern,MLS Cup Runner-up
+Philadelphia Union,2023,50,15,12,7,50,44,5,1,Eastern,first_round
+Philadelphia Union,2024,48,13,12,9,48,46,7,1,Eastern,conference_semifinal
+Portland Timbers,2018,47,13,12,9,42,46,6,1,Western,conference_semifinal
+Portland Timbers,2019,47,13,12,9,50,47,6,1,Western,MLS Cup Winner
+Portland Timbers,2020,29,7,7,4,26,30,7,0,Western,missed_playoffs
+Portland Timbers,2021,49,14,12,8,47,47,6,1,Western,MLS Cup Runner-up
+Portland Timbers,2022,43,12,14,8,42,49,11,0,Western,missed_playoffs
+Portland Timbers,2023,45,12,12,10,47,48,7,1,Western,first_round
+Portland Timbers,2024,44,12,13,9,45,48,11,0,Western,missed_playoffs
+Real Salt Lake,2018,43,11,13,10,40,46,10,1,Western,first_round
+Real Salt Lake,2019,48,13,12,9,50,46,7,1,Western,first_round
+Real Salt Lake,2020,28,6,8,6,24,31,10,0,Western,missed_playoffs
+Real Salt Lake,2021,41,11,15,8,41,51,10,0,Western,missed_playoffs
+Real Salt Lake,2022,48,14,14,6,45,48,7,1,Western,first_round
+Real Salt Lake,2023,54,16,10,8,54,40,4,1,Western,conference_semifinal
+Real Salt Lake,2024,55,16,10,8,55,41,5,1,Western,conference_semifinal
+San Jose Earthquakes,2018,34,8,16,10,38,60,14,0,Western,missed_playoffs
+San Jose Earthquakes,2019,36,9,16,9,37,55,12,0,Western,missed_playoffs
+San Jose Earthquakes,2020,22,5,10,3,18,35,12,0,Western,missed_playoffs
+San Jose Earthquakes,2021,34,9,18,7,33,58,12,0,Western,missed_playoffs
+San Jose Earthquakes,2022,31,7,20,7,37,70,14,0,Western,missed_playoffs
+San Jose Earthquakes,2023,38,10,16,8,41,57,12,0,Western,missed_playoffs
+San Jose Earthquakes,2024,35,8,17,9,38,62,14,0,Western,missed_playoffs
+Seattle Sounders FC,2018,52,15,11,8,52,45,3,1,Western,MLS Cup Runner-up
+Seattle Sounders FC,2019,55,16,9,9,52,38,2,1,Western,MLS Cup Winner
+Seattle Sounders FC,2020,44,12,6,2,35,24,1,1,Western,conference_final
+Seattle Sounders FC,2021,55,16,9,9,51,40,3,1,Western,MLS Cup Winner
+Seattle Sounders FC,2022,53,16,10,8,49,37,2,1,Western,CONCACAF_CCL_Winner
+Seattle Sounders FC,2023,50,15,11,8,50,42,6,1,Western,conference_semifinal
+Seattle Sounders FC,2024,52,15,11,8,52,42,7,1,Western,conference_semifinal
+Sporting Kansas City,2018,58,18,8,8,51,37,2,1,Western,conference_final
+Sporting Kansas City,2019,42,11,14,9,46,49,9,1,Western,first_round
+Sporting Kansas City,2020,38,10,6,4,31,25,3,1,Western,conference_semifinal
+Sporting Kansas City,2021,52,15,12,7,48,42,5,1,Western,conference_semifinal
+Sporting Kansas City,2022,41,11,14,9,40,48,12,0,Western,missed_playoffs
+Sporting Kansas City,2023,36,9,17,8,39,60,11,0,Western,missed_playoffs
+Sporting Kansas City,2024,37,9,17,8,40,59,13,0,Western,missed_playoffs
+St. Louis City SC,2023,52,15,11,8,50,42,5,1,Western,first_round
+St. Louis City SC,2024,28,6,18,10,33,64,14,0,Western,missed_playoffs
+Toronto FC,2018,57,17,9,8,54,40,2,1,Eastern,conference_semifinal
+Toronto FC,2019,49,14,12,8,56,54,5,1,Eastern,conference_semifinal
+Toronto FC,2020,26,6,9,3,24,33,13,0,Eastern,missed_playoffs
+Toronto FC,2021,27,6,18,10,26,64,14,0,Eastern,missed_playoffs
+Toronto FC,2022,28,7,19,8,32,65,14,0,Eastern,missed_playoffs
+Toronto FC,2023,35,8,18,8,36,60,14,0,Eastern,missed_playoffs
+Toronto FC,2024,38,9,16,9,39,56,12,0,Eastern,missed_playoffs
+Vancouver Whitecaps FC,2018,41,11,14,9,36,53,11,0,Western,missed_playoffs
+Vancouver Whitecaps FC,2019,39,10,15,9,43,52,11,0,Western,missed_playoffs
+Vancouver Whitecaps FC,2020,31,7,7,6,23,28,6,1,Western,first_round
+Vancouver Whitecaps FC,2021,40,11,16,7,33,51,8,0,Western,missed_playoffs
+Vancouver Whitecaps FC,2022,44,12,13,9,41,44,8,1,Western,first_round
+Vancouver Whitecaps FC,2023,53,16,10,8,53,41,3,1,Western,conference_semifinal
+Vancouver Whitecaps FC,2024,50,14,11,9,50,45,8,1,Western,first_round
+Austin FC,2021,38,10,16,8,35,52,10,0,Western,missed_playoffs
+Austin FC,2022,59,19,9,6,57,40,3,1,Western,conference_semifinal
+Austin FC,2023,44,12,14,8,44,50,9,0,Western,missed_playoffs
+Austin FC,2024,46,13,14,7,47,50,10,1,Western,first_round

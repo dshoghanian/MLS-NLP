@@ -1,0 +1,409 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jeff Carlisle"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom Bogert] Charlotte FC\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luciano Rodriguez"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paintsil Galaxy"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Canvas Kits"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jovan Mijatovi\u0107"
+    },
+    {
+      "entity_type": "player",
+      "id": "The Kit for"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Robin Jansson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Legacy Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Fernando Muriel"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luis Muriel"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "player",
+      "id": "WAAAAAAAKKKKKEEEE UPPPPPP"
+    },
+    {
+      "entity_type": "player",
+      "id": "Deportivo Saprissa"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lamine Diack"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Amahl Pellegrino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ozzie Alonso"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin \ud83d\udda4"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kevin \ud83d\udda4\ud83d\udc9b"
+    },
+    {
+      "entity_type": "player",
+      "id": "Mohamed Farsi"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darlington Nagbe"
+    },
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kellyn Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kyle Bonagura"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jes\u00fas Jim\u00e9nez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eric Ramsay"
+    },
+    {
+      "entity_type": "player",
+      "id": "Manchester United\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Debuts"
+    },
+    {
+      "entity_type": "player",
+      "id": "Emil Forsberg's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dylan Nealis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Peter Stroud"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tyler Boyd"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Sargent"
+    },
+    {
+      "entity_type": "player",
+      "id": "English Norwich"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Jeff Carlisle"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Tom Bogert] Charlotte FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Luciano Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "Jeff Carlisle",
+      "target": "Toronto FC"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Paintsil Galaxy"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Canvas Kits"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Jovan Mijatovi\u0107"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "The Kit for"
+    },
+    {
+      "weight": 2,
+      "source": "Orlando City SC",
+      "target": "Robin Jansson"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Legacy Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Luis Fernando Muriel"
+    },
+    {
+      "weight": 2,
+      "source": "Orlando City SC",
+      "target": "Luis Muriel"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "WAAAAAAAKKKKKEEEE UPPPPPP"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Deportivo Saprissa"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Lamine Diack"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Amahl Pellegrino"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Ozzie Alonso"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Kevin \ud83d\udda4"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Kevin \ud83d\udda4\ud83d\udc9b"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Mohamed Farsi"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Darlington Nagbe"
+    },
+    {
+      "weight": 1,
+      "source": "Darlington Nagbe",
+      "target": "Atlanta United FC"
+    },
+    {
+      "weight": 2,
+      "source": "Chicago Fire FC",
+      "target": "Kellyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Kyle Bonagura"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Josh Sargent"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "English Norwich"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Jes\u00fas Jim\u00e9nez"
+    },
+    {
+      "weight": 2,
+      "source": "Minnesota United FC",
+      "target": "Eric Ramsay"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Manchester United\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "MLS Debuts"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Emil Forsberg's"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Dylan Nealis"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Peter Stroud"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Tyler Boyd"
+    },
+    {
+      "weight": 1,
+      "source": "MLS Debuts",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Emil Forsberg's",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Dylan Nealis",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Peter Stroud",
+      "target": "New York Red Bulls"
+    },
+    {
+      "weight": 1,
+      "source": "Tyler Boyd",
+      "target": "New York Red Bulls"
+    }
+  ]
+}

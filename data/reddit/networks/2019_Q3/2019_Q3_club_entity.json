@@ -1,0 +1,834 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Meram"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pro Soccer USA"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Wolff"
+    },
+    {
+      "entity_type": "coach",
+      "id": "Austin FC\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Beckham"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Transfer Window"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carson Pickett"
+    },
+    {
+      "entity_type": "club",
+      "id": "LAFC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Zlatan Ibrahimovic"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York City FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alan Kelly"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dummy Run] NYCFC"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Soccer Rabbi"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "RSL 4 - 0"
+    },
+    {
+      "entity_type": "player",
+      "id": "Match Thread"
+    },
+    {
+      "entity_type": "club",
+      "id": "Philadelphia Union"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fuck Portland"
+    },
+    {
+      "entity_type": "club",
+      "id": "Seattle Sounders FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brad Smith"
+    },
+    {
+      "entity_type": "player",
+      "id": "Twitter Admin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tim Melia"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gareth Bale"
+    },
+    {
+      "entity_type": "player",
+      "id": "Soldier Field"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "James Harden"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Caden Benson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Gruezo's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Goodbye Message"
+    },
+    {
+      "entity_type": "club",
+      "id": "New England Revolution"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vancouver BOU"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Chapman"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Adnan Stays Ali Adnan Stays"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ali Adnan"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joaqu\u00edn Ardaiz"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eduardo Margain"
+    },
+    {
+      "entity_type": "player",
+      "id": "Matthew McConaughey"
+    },
+    {
+      "entity_type": "player",
+      "id": "Bryan Sheffield"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marius Haas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Voodoo Doughnuts"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brian Rodriguez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Chara"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Vela"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alex Ring\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "Diego Forl\u00e1n"
+    },
+    {
+      "entity_type": "player",
+      "id": "H\u00e9ctor Herrera"
+    },
+    {
+      "entity_type": "player",
+      "id": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "entity_type": "player",
+      "id": "Marcos Llorente"
+    },
+    {
+      "entity_type": "player",
+      "id": "Fafa Picault"
+    },
+    {
+      "entity_type": "club",
+      "id": "CF Montr\u00e9al"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tommy Thompson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Graham Smith's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelyn Rowe"
+    },
+    {
+      "entity_type": "player",
+      "id": "Christian Ramirez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Striker Christian Ramirez"
+    },
+    {
+      "entity_type": "player",
+      "id": "MIN Toye"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carles Gil"
+    },
+    {
+      "entity_type": "club",
+      "id": "New York Red Bulls"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josh Sims"
+    },
+    {
+      "entity_type": "player",
+      "id": "Darren Mattocks"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Away Concept Kit Austin FC Away Concept Kit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Third"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kit Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC's"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Silva"
+    },
+    {
+      "entity_type": "player",
+      "id": "David Beckham\u2019s"
+    },
+    {
+      "entity_type": "player",
+      "id": "MLS Supporters'"
+    },
+    {
+      "entity_type": "player",
+      "id": "Shield Winner"
+    },
+    {
+      "entity_type": "player",
+      "id": "Chris Wondolowski"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ultras Suspended"
+    },
+    {
+      "entity_type": "player",
+      "id": "Vito Mannone"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Defender Anton Tinnerholm"
+    },
+    {
+      "entity_type": "player",
+      "id": "John Rojas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Maxi Moralez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexi Lalas] Meh"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kei Kamara Bicycle"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tony Beltran"
+    },
+    {
+      "entity_type": "player",
+      "id": "Joe Mansueto"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andrew Hauptman](https://chicago.suntimes.com/2019/9/13/20864510/joe-mansueto-buys-control-of-chicago"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sam Stejkal"
+    },
+    {
+      "entity_type": "executive",
+      "id": "Joe Monsueto"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Justin Meram"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Pro Soccer USA"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "MLS Supporters'"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Shield Winner"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 2,
+      "source": "Austin FC",
+      "target": "Josh Wolff"
+    },
+    {
+      "weight": 2,
+      "source": "Austin FC",
+      "target": "Austin FC\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Eduardo Margain"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Matthew McConaughey"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Bryan Sheffield"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Marius Haas"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Away Concept Kit Austin FC Away Concept Kit"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Third"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Kit Austin FC"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC's"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "David Beckham"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "MLS Transfer Window"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "David Silva"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "David Beckham\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Carson Pickett"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Diego Forl\u00e1n"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "H\u00e9ctor Herrera"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Jo\u00e3o F\u00e9lix"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Marcos Llorente"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Zlatan Ibrahimovic"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Brian Rodriguez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Striker Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "MLS Supporters'"
+    },
+    {
+      "weight": 1,
+      "source": "LAFC",
+      "target": "Shield Winner"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alan Kelly"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Dummy Run] NYCFC"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alex Ring\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Defender Anton Tinnerholm"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "John Rojas"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Maxi Moralez"
+    },
+    {
+      "weight": 1,
+      "source": "New York City FC",
+      "target": "Alexi Lalas] Meh"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Soccer Rabbi"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "RSL 4 - 0"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Match Thread"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kelyn Rowe"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Tony Beltran"
+    },
+    {
+      "weight": 1,
+      "source": "RSL 4 - 0",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "Philadelphia Union"
+    },
+    {
+      "weight": 1,
+      "source": "Match Thread",
+      "target": "CF Montr\u00e9al"
+    },
+    {
+      "weight": 1,
+      "source": "Philadelphia Union",
+      "target": "Fafa Picault"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Fuck Portland"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Voodoo Doughnuts"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Diego Chara"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Brad Smith"
+    },
+    {
+      "weight": 1,
+      "source": "Seattle Sounders FC",
+      "target": "Twitter Admin"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Tim Melia"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Gareth Bale"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Graham Smith's"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Kei Kamara Bicycle"
+    },
+    {
+      "weight": 1,
+      "source": "Tim Melia",
+      "target": "Chicago Fire FC"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Soldier Field"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Voodoo Doughnuts"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Joe Mansueto"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Andrew Hauptman](https://chicago.suntimes.com/2019/9/13/20864510/joe-mansueto-buys-control-of-chicago"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Sam Stejkal"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Joe Monsueto"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "James Harden"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Striker Christian Ramirez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Caden Benson"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Carlos Gruezo's"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Goodbye Message"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "MIN Toye"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Vancouver BOU"
+    },
+    {
+      "weight": 1,
+      "source": "New England Revolution",
+      "target": "Carles Gil"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver BOU",
+      "target": "Vancouver Whitecaps FC"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Paul Chapman"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ali Adnan Stays Ali Adnan Stays"
+    },
+    {
+      "weight": 2,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Ali Adnan"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Joaqu\u00edn Ardaiz"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Darren Mattocks"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Carlos Vela"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Graham Smith's"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Chris Wondolowski"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Ultras Suspended"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Tommy Thompson"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "MIN Toye"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Vito Mannone"
+    },
+    {
+      "weight": 1,
+      "source": "New York Red Bulls",
+      "target": "Josh Sims"
+    },
+    {
+      "weight": 1,
+      "source": "Darren Mattocks",
+      "target": "FC Cincinnati"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Josef Martinez"
+    }
+  ]
+}

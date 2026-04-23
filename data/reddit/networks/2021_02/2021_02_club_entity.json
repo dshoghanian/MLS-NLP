@@ -1,0 +1,517 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "entity_type": "club",
+      "id": "Atlanta United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Josef Martinez"
+    },
+    {
+      "entity_type": "club",
+      "id": "Austin FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Tom\u00e1s Pochettino"
+    },
+    {
+      "entity_type": "player",
+      "id": "Austin FC Announce English TV Partnership"
+    },
+    {
+      "entity_type": "player",
+      "id": "Arch Bell"
+    },
+    {
+      "entity_type": "club",
+      "id": "Charlotte FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Charlotte FC's"
+    },
+    {
+      "entity_type": "player",
+      "id": "Third Kit"
+    },
+    {
+      "entity_type": "club",
+      "id": "D.C. United"
+    },
+    {
+      "entity_type": "player",
+      "id": "Paul Arriola"
+    },
+    {
+      "entity_type": "player",
+      "id": "Concacaf Men's"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Cincinnati"
+    },
+    {
+      "entity_type": "player",
+      "id": "Pity Martinez"
+    },
+    {
+      "entity_type": "player",
+      "id": "Brenner Souza da Silva"
+    },
+    {
+      "entity_type": "club",
+      "id": "Inter Miami CF"
+    },
+    {
+      "entity_type": "player",
+      "id": "Ryan Shawcross"
+    },
+    {
+      "entity_type": "player",
+      "id": "Miami Herald"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michelle Kaufman"
+    },
+    {
+      "entity_type": "club",
+      "id": "LA Galaxy"
+    },
+    {
+      "entity_type": "player",
+      "id": "Away Jersey"
+    },
+    {
+      "entity_type": "club",
+      "id": "San Jose Earthquakes"
+    },
+    {
+      "entity_type": "player",
+      "id": "Dwayne De Rosario"
+    },
+    {
+      "entity_type": "club",
+      "id": "Nashville SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sup Reddit"
+    },
+    {
+      "entity_type": "player",
+      "id": "Rodrigo Pi\u00f1eiro"
+    },
+    {
+      "entity_type": "club",
+      "id": "Orlando City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Alexandre Pato"
+    },
+    {
+      "entity_type": "player",
+      "id": "Silvester van der Water"
+    },
+    {
+      "entity_type": "club",
+      "id": "Colorado Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "William Yarbrough"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Edwards Rapids"
+    },
+    {
+      "entity_type": "player",
+      "id": "Michael Edwards"
+    },
+    {
+      "entity_type": "club",
+      "id": "Real Salt Lake"
+    },
+    {
+      "entity_type": "player",
+      "id": "Luke Mulholland"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andy Williams"
+    },
+    {
+      "entity_type": "player",
+      "id": "Kelyn Acosta"
+    },
+    {
+      "entity_type": "player",
+      "id": "Grant Whal\u2019s"
+    },
+    {
+      "entity_type": "club",
+      "id": "Sporting Kansas City"
+    },
+    {
+      "entity_type": "player",
+      "id": "Terez Paylor"
+    },
+    {
+      "entity_type": "player",
+      "id": "Gianluca Busio"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Isimat-Mirin Sporting"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nicolas Isimat-Mirin"
+    },
+    {
+      "entity_type": "club",
+      "id": "Columbus Crew"
+    },
+    {
+      "entity_type": "player",
+      "id": "Donatos Pizza"
+    },
+    {
+      "entity_type": "club",
+      "id": "Chicago Fire FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "entity_type": "club",
+      "id": "Houston Dynamo FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Glenn Davis"
+    },
+    {
+      "entity_type": "player",
+      "id": "Carlos Salcedo's"
+    },
+    {
+      "entity_type": "club",
+      "id": "FC Dallas"
+    },
+    {
+      "entity_type": "player",
+      "id": "Andre Zanotta"
+    },
+    {
+      "entity_type": "club",
+      "id": "Minnesota United FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Patrick Weah"
+    },
+    {
+      "entity_type": "club",
+      "id": "St. Louis City SC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Becky Sauerbrunn"
+    },
+    {
+      "entity_type": "player",
+      "id": "Lori Chalupny"
+    },
+    {
+      "entity_type": "player",
+      "id": "Abby Wambach"
+    },
+    {
+      "entity_type": "player",
+      "id": "Serena Williams"
+    },
+    {
+      "entity_type": "club",
+      "id": "Toronto FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Justin Morrow"
+    },
+    {
+      "entity_type": "club",
+      "id": "Portland Timbers"
+    },
+    {
+      "entity_type": "player",
+      "id": "Eryk Williamson"
+    },
+    {
+      "entity_type": "player",
+      "id": "Sebastian Blanco"
+    },
+    {
+      "entity_type": "club",
+      "id": "Vancouver Whitecaps FC"
+    },
+    {
+      "entity_type": "player",
+      "id": "Evan Newton"
+    },
+    {
+      "entity_type": "player",
+      "id": "Nikos Overheul"
+    }
+  ],
+  "edges": [
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Josef Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Atlanta United FC",
+      "target": "Pity Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Tom\u00e1s Pochettino"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Austin FC Announce English TV Partnership"
+    },
+    {
+      "weight": 1,
+      "source": "Austin FC",
+      "target": "Arch Bell"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Charlotte FC's"
+    },
+    {
+      "weight": 1,
+      "source": "Charlotte FC",
+      "target": "Third Kit"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Paul Arriola"
+    },
+    {
+      "weight": 1,
+      "source": "D.C. United",
+      "target": "Concacaf Men's"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Pity Martinez"
+    },
+    {
+      "weight": 1,
+      "source": "FC Cincinnati",
+      "target": "Brenner Souza da Silva"
+    },
+    {
+      "weight": 2,
+      "source": "Inter Miami CF",
+      "target": "Ryan Shawcross"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Miami Herald"
+    },
+    {
+      "weight": 1,
+      "source": "Inter Miami CF",
+      "target": "Michelle Kaufman"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Away Jersey"
+    },
+    {
+      "weight": 1,
+      "source": "LA Galaxy",
+      "target": "Dwayne De Rosario"
+    },
+    {
+      "weight": 1,
+      "source": "Away Jersey",
+      "target": "Nashville SC"
+    },
+    {
+      "weight": 1,
+      "source": "San Jose Earthquakes",
+      "target": "Dwayne De Rosario"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Sup Reddit"
+    },
+    {
+      "weight": 1,
+      "source": "Nashville SC",
+      "target": "Rodrigo Pi\u00f1eiro"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Alexandre Pato"
+    },
+    {
+      "weight": 1,
+      "source": "Orlando City SC",
+      "target": "Silvester van der Water"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "William Yarbrough"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Michael Edwards Rapids"
+    },
+    {
+      "weight": 1,
+      "source": "Colorado Rapids",
+      "target": "Michael Edwards"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Luke Mulholland"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Andy Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Kelyn Acosta"
+    },
+    {
+      "weight": 1,
+      "source": "Real Salt Lake",
+      "target": "Grant Whal\u2019s"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Terez Paylor"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Gianluca Busio"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Nicolas Isimat-Mirin Sporting"
+    },
+    {
+      "weight": 1,
+      "source": "Sporting Kansas City",
+      "target": "Nicolas Isimat-Mirin"
+    },
+    {
+      "weight": 1,
+      "source": "Columbus Crew",
+      "target": "Donatos Pizza"
+    },
+    {
+      "weight": 1,
+      "source": "Chicago Fire FC",
+      "target": "Przemys\u0142aw Frankowski"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Glenn Davis"
+    },
+    {
+      "weight": 1,
+      "source": "Houston Dynamo FC",
+      "target": "Carlos Salcedo's"
+    },
+    {
+      "weight": 1,
+      "source": "FC Dallas",
+      "target": "Andre Zanotta"
+    },
+    {
+      "weight": 1,
+      "source": "Minnesota United FC",
+      "target": "Patrick Weah"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Becky Sauerbrunn"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Lori Chalupny"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Abby Wambach"
+    },
+    {
+      "weight": 1,
+      "source": "St. Louis City SC",
+      "target": "Serena Williams"
+    },
+    {
+      "weight": 1,
+      "source": "Toronto FC",
+      "target": "Justin Morrow"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Eryk Williamson"
+    },
+    {
+      "weight": 1,
+      "source": "Portland Timbers",
+      "target": "Sebastian Blanco"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Evan Newton"
+    },
+    {
+      "weight": 1,
+      "source": "Vancouver Whitecaps FC",
+      "target": "Nikos Overheul"
+    }
+  ]
+}
