@@ -47,9 +47,6 @@ MLS_NLP/
 │   └── 07_predictive_regression.ipynb
 │
 ├── scripts/
-│   ├── build_showcase.py          # Generates 00_showcase.ipynb from scratch
-│   ├── build_paper.py             # Generates publication manuscript (.docx)
-│   ├── build_meeting_doc.py       # Generates professor meeting talking points
 │   ├── collect_trends.py          # Google Trends data collection (pytrends)
 │   └── topic_modeling.py          # LDA topic model training (Gensim)
 │
@@ -111,10 +108,6 @@ pip install -r requirements.txt
 
 # Run the main showcase notebook
 jupyter lab notebooks/00_showcase.ipynb
-
-# Or regenerate the notebook from scratch
-python scripts/build_showcase.py
-jupyter nbconvert --to notebook --execute --inplace notebooks/00_showcase.ipynb
 
 # Launch the interactive Streamlit app
 streamlit run app.py
